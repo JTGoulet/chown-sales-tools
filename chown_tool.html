@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Chown Accessory Suggestion Tool</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,sans-serif;background:#f0ede8;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px 20px}
+.card{background:white;border-radius:6px;box-shadow:0 2px 20px rgba(0,0,0,0.1);padding:48px 52px;width:100%;max-width:560px;text-align:center}
+.logo{font-size:13px;font-weight:bold;letter-spacing:.15em;text-transform:uppercase;color:#b5924c;margin-bottom:8px}
+h1{font-size:24px;color:#1a1a1a;margin-bottom:8px;font-weight:normal}
+.subtitle{font-size:13px;color:#888;margin-bottom:36px}
+.loading-bar{background:#fff8e8;border:1px solid #e8d49a;border-radius:4px;padding:16px;margin-bottom:24px;font-size:13px;color:#7a5c00;display:none}
+.drop-zone{border:2px dashed #ccc;border-radius:6px;padding:48px 24px;cursor:pointer;transition:all .2s;margin-bottom:24px;background:#fafaf8}
+.drop-zone:hover,.drop-zone.over{border-color:#b5924c;background:#fdf7ee}
+.drop-zone.loaded{border-color:#4a7c59;background:#f0f7f2}
+.drop-zone.disabled{opacity:0.4;pointer-events:none;cursor:default}
+input[type="file"]{display:none}
+.drop-icon{font-size:36px;margin-bottom:12px}
+.drop-title{font-size:16px;color:#1a1a1a;margin-bottom:6px}
+.drop-sub{font-size:12px;color:#999}
+.status{font-size:13px;padding:12px 16px;border-radius:4px;margin-bottom:16px;display:none;text-align:left;line-height:1.6}
+.status.processing{background:#fff8e8;color:#7a5c00;border:1px solid #e8d49a;display:block}
+.status.success{background:#edf7f0;color:#2d5a3d;border:1px solid #b8ddc5;display:block}
+.status.error{background:#fdf0f0;color:#7a2020;border:1px solid #e8b0b0;display:block}
+.skipped{font-size:12px;color:#777;background:#f5f5f5;border:1px solid #ddd;border-radius:4px;padding:10px 14px;margin-bottom:16px;display:none;text-align:left;line-height:1.8}
+.btn-download{display:none;width:100%;padding:14px;background:#1a1a1a;color:white;border:none;border-radius:4px;font-size:14px;font-weight:bold;letter-spacing:.05em;cursor:pointer;transition:background .2s;margin-bottom:12px}
+.btn-download:hover{background:#333}
+.btn-reset{display:none;width:100%;padding:10px;background:transparent;color:#888;border:1px solid #ddd;border-radius:4px;font-size:13px;cursor:pointer}
+.btn-reset:hover{color:#1a1a1a;border-color:#aaa}
+.brands{font-size:11px;color:#bbb;margin-top:20px;line-height:1.8}
+.version{font-size:11px;color:#ccc;margin-top:4px}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="logo">Chown &middot; Sales Tools</div>
+  <h1>Accessory Suggestion Tool</h1>
+  <p class="subtitle">Drop in a Specbooks quote CSV &mdash; get back a suggestion CSV ready to upload</p>
+
+  <div class="loading-bar" id="loadingBar">⏳ Loading catalog data, please wait...</div>
+
+  <div class="drop-zone disabled" id="dropZone"
+       onclick="document.getElementById('fileInput').click()"
+       ondragover="handleDragOver(event)" ondragleave="handleDragLeave(event)" ondrop="handleDrop(event)">
+    <input type="file" id="fileInput" accept=".csv" onchange="handleFile(this.files[0])">
+    <div class="drop-icon" id="dropIcon">&#128194;</div>
+    <div class="drop-title" id="dropTitle">Loading catalog...</div>
+    <div class="drop-sub" id="dropSub">Please wait while catalog data loads</div>
+  </div>
+
+  <div class="status" id="status"></div>
+  <div class="skipped" id="skippedMsg"></div>
+  <button class="btn-download" id="btnDownload" onclick="downloadCSV()">&#11015; Download Suggestions CSV</button>
+  <button class="btn-reset" id="btnReset" onclick="resetTool()">Process another file</button>
+
+  <div class="brands" id="brandsFooter">Loading...</div>
+  <div class="version" id="versionFooter"></div>
+</div>
+
+<script>
+// ── GITHUB DATA SOURCE ──────────────────────────────────────────────────────
+var CATALOG_URL='https://raw.githubusercontent.com/JTGoulet/chown-sales-tools/main/catalog_data.json';
+
+var CATALOG=null;
+
+function loadCatalog(){
+  document.getElementById('loadingBar').style.display='block';
+  fetch(CATALOG_URL)
+    .then(function(r){
+      if(!r.ok)throw new Error('HTTP '+r.status);
+      return r.json();
+    })
+    .then(function(data){
+      CATALOG=data;
+      document.getElementById('loadingBar').style.display='none';
+      document.getElementById('dropZone').className='drop-zone';
+      document.getElementById('dropTitle').textContent='Drop your CSV here or click to browse';
+      document.getElementById('dropSub').textContent='Specbooks format — ORDER NO., BRAND, MODEL NO., AREA DESCRIPTION';
+      document.getElementById('dropIcon').innerHTML='&#128194;';
+      // Footer
+      if(data.meta){
+        document.getElementById('brandsFooter').textContent=data.meta.brands||'';
+        document.getElementById('versionFooter').textContent=data.meta.versions||'';
+      }
+    })
+    .catch(function(err){
+      document.getElementById('loadingBar').style.display='none';
+      document.getElementById('dropZone').className='drop-zone';
+      document.getElementById('dropTitle').textContent='Could not load catalog';
+      document.getElementById('dropSub').textContent='Check your internet connection and refresh the page';
+      showStatus('error','Failed to load catalog data. Error: '+err.message);
+    });
+}
+
+function getCat(id){
+  if(!CATALOG)return null;
+  return CATALOG[id]||null;
+}
+
+// ── BRAND DETECTION ─────────────────────────────────────────────────────────
+var BRANDS=[
+  {id:'WATERMARK-DESIGNS',csv:['WATERMARK DESIGNS','WATERMARK'],pfx:['WATMA'],type:'watermark'},
+  {id:'AQUABRASS',csv:['AQUABRASS','AQUAB'],pfx:['AQUAB'],type:'aquabrass'},
+  {id:'WATERWORKS',csv:['WATERWORKS','WATWO'],pfx:['WATWO'],type:'waterworks'},
+  {id:'KALLISTA',csv:['KALLISTA','KALLI'],pfx:['KALLI'],type:'kallista'},
+  {id:'CALFA',csv:['CALIFORNIA FAUCETS','CALIFORNIA FAUCET','CALFA'],pfx:['CALFA'],type:'calfa'},
+  {id:'GRAFF',csv:['GRAFF'],pfx:['GRAFF'],type:'graff'},
+  {id:'FANTI',csv:['FANTINI','FANTI'],pfx:['FANTI'],type:'fanti'},
+  {id:'FRAVI',csv:['FRANZ VIEGENER','FRAVI'],pfx:['FRAVI'],type:'fravi'},
+  {id:'GESSI',csv:['GESSI NORTH AMERICA','GESSI'],pfx:['GESSI'],type:'gessi'},
+  {id:'HANSG',csv:['HANSGROHE','HANSG'],pfx:['HANSG'],type:'hansg'},
+  {id:'HANSG',csv:['AXOR'],pfx:['AXOR'],type:'hansg'},
+  {id:'NEWBR',csv:['NEWPORT BRASS','NEWBR'],pfx:['NEWBR'],type:'newbr'},
+  {id:'DORNB',csv:['DORNBRACHT','DORNB'],pfx:['DORNB'],type:'dornb'},
+  {id:'CROBA',csv:['CROSSWATER','CROSSWATER BATHROOMS','CROBA'],pfx:['CROBA'],type:'croba'},
+  {id:'JACLO',csv:['JACLO INDUSTRIES','JACLO'],pfx:['JACLO'],type:'jaclo'},
+  {id:'HEATH',csv:['HEATH'],pfx:['HEATH'],type:'heath'},
+  {id:'MGS',csv:['MGS','MGS PROGETTI'],pfx:['MGS'],type:'mgs'},
+  {id:'THG',csv:['THG','THG PARIS'],pfx:['THG'],type:'thg'}
+];
+
+function detectBrand(brand,desc){
+  var b=(brand||'').toUpperCase().trim(),d=(desc||'').toUpperCase().trim();
+  for(var i=0;i<BRANDS.length;i++){
+    var br=BRANDS[i];
+    for(var j=0;j<br.csv.length;j++)if(b===br.csv[j]||b.indexOf(br.csv[j])>=0)return br;
+    for(var k=0;k<br.pfx.length;k++)if(d.indexOf(br.pfx[k])===0)return br;
+  }
+  return null;
+}
+
+// ── WATERMARK ───────────────────────────────────────────────────────────────
+var WM_SKIP={'Concealed Roughs':1,'Shower Ancillaries':1,'Bath Ancillaries':1,'Lavatory Ancillaries':1,'Kitchen Ancillaries':1};
+function wmFinCode(sku){var p=sku.split('-');return p[p.length-1].toUpperCase();}
+function wmClassify(desc){var d=desc.toLowerCase();if(d.indexOf('double towel bar')>=0)return 'double_towel_bar';if(d.indexOf('towel bar')>=0)return 'towel_bar';if(d.indexOf('towel ring')>=0)return 'towel_ring';if(d.indexOf('double robe hook')>=0)return 'double_robe_hook';if(d.indexOf('robe hook')>=0)return 'single_robe_hook';if(d.indexOf('toilet brush')>=0||d.indexOf('toilet paper')>=0||d.indexOf('tissue')>=0)return d.indexOf('double')>=0?'double_tissue':'single_tissue';return 'other';}
+function wmTowelPri(desc){var d=desc.toLowerCase();return d.indexOf('24')>=0?0:d.indexOf('18')>=0?1:d.indexOf('30')>=0?2:3;}
+function wmDedup(items){var EXCL={double_towel_bar:1},buckets={};for(var i=0;i<items.length;i++){var t=wmClassify(items[i].description);if(EXCL[t]||t==='other')continue;if(!buckets[t])buckets[t]=[];buckets[t].push(items[i]);}var res=[],types=Object.keys(buckets);for(var j=0;j<types.length;j++){var at=types[j],c=buckets[at];if(at==='towel_bar')c.sort(function(a,b){return wmTowelPri(a.description)-wmTowelPri(b.description);});res.push(c[0]);}return res;}
+function processWatermark(items,exSKUs){var cat=getCat('WATERMARK-DESIGNS');if(!cat)return{rows:[],skipped:[]};var sf={},seen={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var fc=wmFinCode(m),k=d.range+'|'+fc;if(!sf[k])sf[k]={range:d.range,fc:fc};}var cands=[],sfk=Object.keys(sf);for(var si=0;si<sfk.length;si++){var range=sf[sfk[si]].range,fc=sf[sfk[si]].fc;if(WM_SKIP[range])continue;var accs=cat.acc_index[range+'|'+fc];if(!accs||!accs.length){skipped.push('"'+range+'" has no accessory line');continue;}for(var ai=0;ai<accs.length;ai++)if(!seen[accs[ai].sku.toUpperCase()])cands.push(accs[ai]);}var sugg=wmDedup(cands),rows=[];for(var ri=0;ri<sugg.length;ri++){var sg=sugg[ri];seen[sg.sku.toUpperCase()]=1;rows.push({brand:'WATERMARK DESIGNS',sku:sg.sku,desc:'WATMA '+sg.sku+' '+sg.description.toUpperCase(),price:sg.price?sg.price.toFixed(3):''});}return{rows:rows,skipped:skipped};}
+
+// ── AQUABRASS ────────────────────────────────────────────────────────────────
+function processAquabrass(items,exSKUs){var cat=getCat('AQUABRASS');if(!cat)return{rows:[],skipped:[]};var seen={},trFinishes={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.ab_sku_lookup[m];if(!d)continue;var tf=cat.finish_map[d.finish.toUpperCase().trim()];if(tf)trFinishes[tf]=1;else skipped.push('"'+d.finish+'" has no matching Treemme finish');}var rows=[],fks=Object.keys(trFinishes);for(var fi=0;fi<fks.length;fi++){var accs=cat.acc_index[fks[fi]];if(!accs)continue;for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'AQUABRASS / TREEMME',sku:acc.sku,desc:'AQUAB '+acc.sku+' '+acc.description.toUpperCase(),price:acc.price?acc.price.toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── WATERWORKS ───────────────────────────────────────────────────────────────
+function processWaterworks(items,exSKUs){var cat=getCat('WATERWORKS');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var k=d.collection+'|'+d.finish;if(!found[k])found[k]={collection:d.collection,finish:d.finish};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var coll=found[fks[fi]].collection,fin=found[fks[fi]].finish;var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length){var fb=cat.fallback_map&&cat.fallback_map[coll];if(fb){accs=cat.acc_index[fb+'|'+fin]||cat.acc_index[fb+'|Chrome'];}if(!accs||!accs.length){var krows=getKartnersAccs('WATERWORKS',coll,fin,seen);if(krows.length){for(var kr=0;kr<krows.length;kr++)rows.push(krows[kr]);}continue;}}for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'WATERWORKS',sku:acc.sku,desc:'WATWO '+acc.sku+' '+acc.description.toUpperCase(),price:acc.price?acc.price.toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── KALLISTA ─────────────────────────────────────────────────────────────────
+function processKallista(items,exSKUs){var cat=getCat('KALLISTA');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var k=d.collection+'|'+d.finish_code;if(!found[k])found[k]={collection:d.collection,finish_code:d.finish_code};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length){skipped.push('"'+found[fks[fi]].collection+'" in '+found[fks[fi]].finish_code+' has no accessories');continue;}for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'KALLISTA',sku:acc.sku,desc:'KALLI '+acc.sku+' '+acc.description,price:acc.price?acc.price.toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── CALIFORNIA FAUCETS ───────────────────────────────────────────────────────
+function processCalfa(items,exSKUs){var cat=getCat('CALFA');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var k=d.series+'|'+d.finish_code;if(!found[k])found[k]={series:d.series,finish_code:d.finish_code};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var ser=found[fks[fi]].series,fc=found[fks[fi]].finish_code;var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length){var krows=getKartnersAccs('CALFA',ser,fc,seen);if(krows.length){for(var kr=0;kr<krows.length;kr++)rows.push(krows[kr]);}continue;}for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'CALIFORNIA FAUCETS',sku:acc.sku,desc:'CALFA '+acc.sku+' '+acc.description,price:acc.price?acc.price.toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── GRAFF ────────────────────────────────────────────────────────────────────
+function processGraff(items,exSKUs){var cat=getCat('GRAFF');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var coll=d.c,fc=d.f;if(coll==='Phase'||coll==='Terra')coll='Phase/Terra';if(coll==='Finezza UNO/Finezza DUE')coll='Finezza DUE';var k=coll+'|'+fc;if(!found[k])found[k]={collection:coll,finish:fc};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length){var fbKey='Accessory|'+found[fks[fi]].finish;accs=cat.acc_index[fbKey];}if(!accs||!accs.length)continue;for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'GRAFF',sku:acc.sku,desc:'GRAFF '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── FANTINI ──────────────────────────────────────────────────────────────────
+function processFanti(items,exSKUs){var cat=getCat('FANTI');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d||!d.af||!d.fc)continue;var k=d.af+'|'+d.fc;if(!found[k])found[k]={af:d.af,fc:d.fc};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length){skipped.push('"'+found[fks[fi]].af+'" in finish code '+found[fks[fi]].fc+' has no accessories');continue;}for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'FANTINI',sku:acc.sku,desc:'FANTI '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── FRANZ VIEGENER ───────────────────────────────────────────────────────────
+function processFravi(items,exSKUs){var cat=getCat('FRAVI');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var k=d.c+'|'+d.f;if(!found[k])found[k]={c:d.c,f:d.f};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var ser=found[fks[fi]].c,fin=found[fks[fi]].f;var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length){var krows=getKartnersAccs('FRAVI',ser,fin,seen);if(krows.length){for(var kr=0;kr<krows.length;kr++)rows.push(krows[kr]);}continue;}for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'FRANZ VIEGENER',sku:acc.sku,desc:'FRAVI '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── GESSI ────────────────────────────────────────────────────────────────────
+function processGessi(items,exSKUs){var cat=getCat('GESSI');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var k=d.c+'|'+d.f;if(!found[k])found[k]={c:d.c,f:d.f};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var ser=found[fks[fi]].c,fin=found[fks[fi]].f;var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length){var krows=getKartnersAccs('GESSI',ser,fin,seen);if(krows.length){for(var kr=0;kr<krows.length;kr++)rows.push(krows[kr]);}continue;}for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'GESSI',sku:acc.sku,desc:'GESSI '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── HANSGROHE + AXOR ─────────────────────────────────────────────────────────
+function processHansg(items,exSKUs){var cat=getCat('HANSG');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim().replace(/^0+/,'');var d=cat.sku_lookup[m];if(!d)continue;var k;if(d.al){k=d.al+'|'+d.f;}else{var lf=cat.line_fallback&&cat.line_fallback[d.l];if(lf){k=lf+'|'+d.f;if(!cat.acc_index[k])k=lf+'|Chrome';}else if(d.b==='hansgrohe'){k='AddStoris|'+d.f;if(!cat.acc_index[k])k='AddStoris|Chrome';}else{k='AXOR Universal Rectangular|'+d.f;if(!cat.acc_index[k])k='AXOR Universal Rectangular|Chrome';}}if(!found[k])found[k]={k:k,b:d.b};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var key=found[fks[fi]].k,brand=found[fks[fi]].b;var accs=cat.acc_index[key];if(!accs||!accs.length){skipped.push('"'+key+'" has no accessories');continue;}var brandLabel=brand==='AXOR'?'AXOR':'HANSGROHE';var pfx=brand==='AXOR'?'AXOR':'HANSG';for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:brandLabel,sku:acc.sku,desc:pfx+' '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── NEWPORT BRASS ────────────────────────────────────────────────────────────
+function processNewbr(items,exSKUs){var cat=getCat('NEWBR');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim().replace(/\//g,'-');var d=cat.sku_lookup[m];if(!d)continue;var k=d.s+'|'+d.fc;if(!found[k])found[k]={s:d.s,fc:d.fc,f:d.f};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length){skipped.push('"'+found[fks[fi]].s+'" in '+found[fks[fi]].f+' has no accessories');continue;}for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'NEWPORT BRASS',sku:acc.sku,desc:'NEWBR '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── DORNBRACHT ───────────────────────────────────────────────────────────────
+function processDornb(items,exSKUs){var cat=getCat('DORNB');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var raw=(items[i]['MODEL NO.']||'').trim();var m=raw.replace(/\s+/g,'');var d=cat.sku_lookup[m];if(!d)continue;var k=d.s+'|'+d.f;if(!found[k])found[k]={s:d.s,f:d.f};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var ser=found[fks[fi]].s,fin=found[fks[fi]].f;var sfb=cat.series_fallback&&cat.series_fallback[ser];var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length){if(sfb){accs=cat.acc_index[sfb+'|'+fin]||cat.acc_index[sfb+'|Chrome'];}if(!accs||!accs.length){accs=cat.acc_index['SERIES SPECIFIC|'+fin];}if(!accs||!accs.length){accs=cat.acc_index['SERIES SPECIFIC|Chrome'];}}if(!accs||!accs.length){skipped.push('"'+ser+'" in '+fin+' has no accessories');continue;}for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'DORNBRACHT',sku:acc.sku,desc:'DORNB '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── CROSSWATER ───────────────────────────────────────────────────────────────
+function processCroba(items,exSKUs){var cat=getCat('CROBA');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var k=d.c+'|'+d.fc;if(!found[k])found[k]={c:d.c,fc:d.fc};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var ser=found[fks[fi]].c,fin=found[fks[fi]].fc;var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length){var krows=getKartnersAccs('CROBA',ser,fin,seen);if(krows.length){for(var kr=0;kr<krows.length;kr++)rows.push(krows[kr]);}continue;}for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'CROSSWATER',sku:acc.sku,desc:'CROBA '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── JACLO ────────────────────────────────────────────────────────────────────
+function processJaclo(items,exSKUs){var cat=getCat('JACLO');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var k=d.c+'|'+d.fc;if(!found[k])found[k]={c:d.c,fc:d.fc};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length)continue;for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'JACLO',sku:acc.sku,desc:'JACLO '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── SAMUEL HEATH ─────────────────────────────────────────────────────────────
+function processHeath(items,exSKUs){var cat=getCat('HEATH');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var k=d.r+'|'+d.fc;if(!found[k])found[k]={r:d.r,fc:d.fc};}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length)continue;for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'SAMUEL HEATH',sku:acc.sku,desc:'HEATH '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── MGS ──────────────────────────────────────────────────────────────────────
+function processMgs(items,exSKUs){var cat=getCat('MGS');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;if(!found[d.fc])found[d.fc]=d.fc;}var rows=[],fcs=Object.keys(found);for(var fi=0;fi<fcs.length;fi++){var accs=cat.acc_index[fcs[fi]];if(!accs||!accs.length)continue;for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'MGS',sku:acc.sku,desc:'MGS '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── THG PARIS ────────────────────────────────────────────────────────────────
+function processThg(items,exSKUs){var cat=getCat('THG');if(!cat)return{rows:[],skipped:[]};var seen={},found={},skipped=[];for(var s in exSKUs)seen[s]=1;for(var i=0;i<items.length;i++){var m=(items[i]['MODEL NO.']||'').trim(),d=cat.sku_lookup[m];if(!d)continue;var k=d.c+'|'+d.fc;if(!found[k])found[k]=1;}var rows=[],fks=Object.keys(found);for(var fi=0;fi<fks.length;fi++){var accs=cat.acc_index[fks[fi]];if(!accs||!accs.length)continue;for(var ai=0;ai<accs.length;ai++){var acc=accs[ai];if(!seen[acc.sku.toUpperCase()]){seen[acc.sku.toUpperCase()]=1;rows.push({brand:'THG PARIS',sku:acc.sku,desc:'THG '+acc.sku+' '+acc.desc.toUpperCase(),price:acc.price?parseFloat(acc.price).toFixed(3):''});}}}return{rows:rows,skipped:skipped};}
+
+// ── KARTNERS FALLBACK ────────────────────────────────────────────────────────
+function normSeries(s){return s.toLowerCase().replace(/[\u00ae\u2122\u00a9]/g,'').trim();}
+function getKartnersAccs(brandId,series,finishVal,seen){
+  var kcat=getCat('KARTNERS');if(!kcat)return[];
+  var fb=kcat.fallback_map[brandId+'|'+series];if(!fb)return[];
+  var rows=[],accs=[],fcList=[];
+  if(fb.sb){
+    var sbCat=getCat(brandId);
+    if(sbCat){
+      var sbSeries=fb.sb,normTarget=normSeries(fb.sb);
+      if(brandId==='CALFA'){for(var ak in sbCat.acc_index){var akColl=ak.split('|')[0];if(normSeries(akColl)===normTarget){sbSeries=akColl;break;}}}
+      var sbKey=sbSeries+'|'+finishVal;
+      accs=sbCat.acc_index[sbKey]||[];
+      if(accs.length){for(var ai=0;ai<accs.length;ai++){var a=accs[ai];if(!seen[a.sku.toUpperCase()]){seen[a.sku.toUpperCase()]=1;var brandLabel={'CALFA':'CALIFORNIA FAUCETS','CROBA':'CROSSWATER','FRAVI':'FRANZ VIEGENER','GESSI':'GESSI','WATERWORKS':'WATERWORKS'}[brandId]||brandId;rows.push({brand:brandLabel,sku:a.sku,desc:a.sku+' '+(a.desc||a.description||'').toUpperCase(),price:a.price?parseFloat(a.price).toFixed(3):''});}}return rows;}
+    }
+  }
+  if(fb.k){
+    var kColl=fb.k,cross=kcat.crossover[brandId]||{},fvUp=(finishVal||'').toUpperCase();
+    fcList=cross[fvUp]||[];
+    if(!fcList.length){for(var ck in cross){if(ck.replace(/\*/g,'').trim()===fvUp){fcList=cross[ck];break;}}}
+    if(!fcList.length)fcList=['99','81'];
+    for(var fi2=0;fi2<fcList.length;fi2++){
+      var kKey=kColl+'|'+fcList[fi2],kAccs=kcat.acc_index[kKey]||[];
+      if(kAccs.length){for(var ki=0;ki<kAccs.length;ki++){var ka=kAccs[ki];if(!seen[ka.sku.toUpperCase()]){seen[ka.sku.toUpperCase()]=1;rows.push({brand:'KARTNERS',sku:ka.sku,desc:'KARTNERS '+ka.sku+' '+ka.desc.toUpperCase()+' - '+ka.fn,price:ka.price?parseFloat(ka.price).toFixed(3):''});}}return rows;}
+    }
+  }
+  return rows;
+}
+
+// ── CSV PARSING ──────────────────────────────────────────────────────────────
+function parseCSV(text){var lines=text.replace(/\r\n/g,'\n').replace(/\r/g,'\n').split('\n');var headers=parseLine(lines[0]).map(function(h){return h.replace(/^"|"$/g,'').trim();});var rows=[];for(var i=1;i<lines.length;i++){if(!lines[i].trim())continue;var vals=parseLine(lines[i]),row={};for(var j=0;j<headers.length;j++)row[headers[j]]=(vals[j]||'').replace(/^"|"$/g,'').trim();if(row['MODEL NO.']||row['BRAND'])rows.push(row);}return rows;}
+function parseLine(line){var res=[],cur='',inQ=false;for(var i=0;i<line.length;i++){var c=line[i];if(c==='"'){if(inQ&&line[i+1]==='"'){cur+='"';i++;}else inQ=!inQ;}else if(c===','&&!inQ){res.push(cur);cur='';}else cur+=c;}res.push(cur);return res;}
+function esc(val){var s=String(val==null?'':val);return(s.indexOf(',')>=0||s.indexOf('"')>=0||s.indexOf('\n')>=0)?'"'+s.replace(/"/g,'""')+'"':s;}
+
+// ── MAIN ANALYSIS ────────────────────────────────────────────────────────────
+var _csv=null,_fn='';
+function runAnalysis(quoteRows){
+  var orderNo=(quoteRows[0]['ORDER NO.']||'QUOTE').trim();
+  _fn=orderNo+'_Accessory_Suggestions.csv';
+  var rooms={},rOrder=[];
+  for(var i=0;i<quoteRows.length;i++){var rm=(quoteRows[i]['AREA DESCRIPTION']||'Unknown').trim();if(!rooms[rm]){rooms[rm]=[];rOrder.push(rm);}rooms[rm].push(quoteRows[i]);}
+  var outRows=[],skipped=[],roomsHit=0,skippedRooms=[];
+  var BATH_ROOMS=/\b(bath|bathroom|powder|lavatory|wc|toilet|ensuite|en suite|half bath|master bath|guest bath|shower)\b/i;
+  var NON_BATH_ROOMS=/\b(kitchen|pantry|bar|butler|laundry|mudroom|mud room|utility|garage|office|bedroom|dining|living|outdoor|patio|deck|pool|sauna|gym|studio|closet|entry|foyer|hallway|hall|basement|workshop|storage|mechanical|boiler|playroom|nursery|media|theater|theatre|linen|door|dog)\b/i;
+  var ALWAYS_SKIP=/\b(dog|pet|animal|horse|pool|outdoor)\b/i;
+  for(var ri=0;ri<rOrder.length;ri++){
+    var room=rOrder[ri],items=rooms[room];
+    if(ALWAYS_SKIP.test(room)||(NON_BATH_ROOMS.test(room)&&!BATH_ROOMS.test(room))){skippedRooms.push(room);continue;}
+    var exSKUs={};for(var ei=0;ei<items.length;ei++)exSKUs[(items[ei]['MODEL NO.']||'').toUpperCase()]=1;
+    var wmI=[],abI=[],wwI=[],kaI=[],cfI=[],graffI=[],fantiI=[],fraviI=[],gessiI=[],hansgI=[],newbrI=[],dornbI=[],crobaI=[],jacloI=[],heathI=[],mgsI=[],thgI=[];
+    for(var ii=0;ii<items.length;ii++){
+      var br=detectBrand(items[ii]['BRAND'],items[ii]['ITEM DESCRIPTION']);
+      if(!br)continue;
+      if(br.type==='watermark')wmI.push(items[ii]);
+      else if(br.type==='aquabrass')abI.push(items[ii]);
+      else if(br.type==='waterworks')wwI.push(items[ii]);
+      else if(br.type==='kallista')kaI.push(items[ii]);
+      else if(br.type==='calfa')cfI.push(items[ii]);
+      else if(br.type==='graff')graffI.push(items[ii]);
+      else if(br.type==='fanti')fantiI.push(items[ii]);
+      else if(br.type==='fravi')fraviI.push(items[ii]);
+      else if(br.type==='gessi')gessiI.push(items[ii]);
+      else if(br.type==='hansg')hansgI.push(items[ii]);
+      else if(br.type==='newbr')newbrI.push(items[ii]);
+      else if(br.type==='dornb')dornbI.push(items[ii]);
+      else if(br.type==='croba')crobaI.push(items[ii]);
+      else if(br.type==='jaclo')jacloI.push(items[ii]);
+      else if(br.type==='heath')heathI.push(items[ii]);
+      else if(br.type==='mgs')mgsI.push(items[ii]);
+      else if(br.type==='thg')thgI.push(items[ii]);
+    }
+    var roomRows=[];
+    function addResult(res,rm){for(var x=0;x<res.rows.length;x++)roomRows.push(res.rows[x]);for(var y=0;y<res.skipped.length;y++)skipped.push(rm+': '+res.skipped[y]);}
+    if(wmI.length)addResult(processWatermark(wmI,exSKUs),room);
+    if(abI.length)addResult(processAquabrass(abI,exSKUs),room);
+    if(wwI.length)addResult(processWaterworks(wwI,exSKUs),room);
+    if(kaI.length)addResult(processKallista(kaI,exSKUs),room);
+    if(cfI.length)addResult(processCalfa(cfI,exSKUs),room);
+    if(graffI.length)addResult(processGraff(graffI,exSKUs),room);
+    if(fantiI.length)addResult(processFanti(fantiI,exSKUs),room);
+    if(fraviI.length)addResult(processFravi(fraviI,exSKUs),room);
+    if(gessiI.length)addResult(processGessi(gessiI,exSKUs),room);
+    if(hansgI.length)addResult(processHansg(hansgI,exSKUs),room);
+    if(newbrI.length)addResult(processNewbr(newbrI,exSKUs),room);
+    if(dornbI.length)addResult(processDornb(dornbI,exSKUs),room);
+    if(crobaI.length)addResult(processCroba(crobaI,exSKUs),room);
+    if(jacloI.length)addResult(processJaclo(jacloI,exSKUs),room);
+    if(heathI.length)addResult(processHeath(heathI,exSKUs),room);
+    if(mgsI.length)addResult(processMgs(mgsI,exSKUs),room);
+    if(thgI.length)addResult(processThg(thgI,exSKUs),room);
+    if(roomRows.length)roomsHit++;
+    for(var rr=0;rr<roomRows.length;rr++){var r=roomRows[rr];outRows.push([orderNo,'1',r.brand,r.sku,r.desc,r.price,'',room]);}
+  }
+  var lines=['ORDER NO.,ORDER QTY,BRAND,MODEL NO.,ITEM DESCRIPTION,LIST PRICE,UPC CODE,AREA DESCRIPTION'];
+  for(var ci=0;ci<outRows.length;ci++)lines.push(outRows[ci].map(esc).join(','));
+  _csv=lines.join('\n');
+  return{orderNo:orderNo,total:outRows.length,rooms:roomsHit,skipped:skipped,skippedRooms:skippedRooms};
+}
+
+// ── UI ───────────────────────────────────────────────────────────────────────
+document.addEventListener('dragover',function(e){e.preventDefault();e.stopPropagation();});
+document.addEventListener('drop',function(e){e.preventDefault();e.stopPropagation();});
+function handleDragOver(e){e.preventDefault();e.stopPropagation();document.getElementById('dropZone').className='drop-zone over';}
+function handleDragLeave(e){e.preventDefault();e.stopPropagation();document.getElementById('dropZone').className='drop-zone';}
+function handleDrop(e){e.preventDefault();e.stopPropagation();document.getElementById('dropZone').className='drop-zone';if(e.dataTransfer&&e.dataTransfer.files[0])handleFile(e.dataTransfer.files[0]);}
+function handleFile(file){
+  if(!CATALOG){showStatus('error','Catalog not loaded yet. Please wait and try again.');return;}
+  if(!file||file.name.toLowerCase().slice(-4)!=='.csv'){showStatus('error','Please upload a .CSV file.');return;}
+  showStatus('processing','Reading file and cross-referencing catalog...');
+  var reader=new FileReader();
+  reader.onload=function(e){
+    try{
+      var rows=parseCSV(e.target.result);
+      if(!rows.length){showStatus('error','File appears empty or not in the expected format.');return;}
+      var result=runAnalysis(rows);
+      document.getElementById('dropZone').className='drop-zone loaded';
+      document.getElementById('dropIcon').textContent='✅';
+      document.getElementById('dropTitle').textContent=file.name;
+      document.getElementById('dropSub').textContent='Order #'+result.orderNo+' · '+rows.length+' line items read';
+      if(result.total===0){
+        showStatus('error','No accessory suggestions found. Brands or series in this quote may not yet be in the catalog.');
+      }else{
+        showStatus('success','✓ Found '+result.total+' accessory suggestion'+(result.total!==1?'s':'')+' across '+result.rooms+' room'+(result.rooms!==1?'s':'')+'. Click below to download your Specbooks CSV.');
+        document.getElementById('btnDownload').style.display='block';
+      }
+      if(result.skippedRooms&&result.skippedRooms.length){
+        var sr=document.getElementById('skippedMsg');
+        sr.innerHTML='<strong>Skipped rooms (not a bathroom/powder room):</strong> '+result.skippedRooms.join(', ');
+        sr.style.display='block';
+      }
+      if(result.skipped.length){
+        var el=document.getElementById('skippedMsg');
+        el.innerHTML=(el.style.display==='block'?el.innerHTML+'<br>':'')+'<strong>Skipped (no matching accessories):</strong><br>'+result.skipped.join('<br>');
+        el.style.display='block';
+      }
+      document.getElementById('btnReset').style.display='block';
+    }catch(err){showStatus('error','Could not process file. Error: '+err.message);}
+  };
+  reader.readAsText(file);
+}
+function showStatus(type,msg){var el=document.getElementById('status');el.className='status '+type;el.innerHTML=msg;}
+function downloadCSV(){var blob=new Blob([_csv],{type:'text/csv;charset=utf-8;'});var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=_fn;document.body.appendChild(a);a.click();document.body.removeChild(a);}
+function resetTool(){_csv=null;document.getElementById('dropZone').className='drop-zone';document.getElementById('dropIcon').innerHTML='&#128194;';document.getElementById('dropTitle').textContent='Drop your CSV here or click to browse';document.getElementById('dropSub').textContent='Specbooks format — ORDER NO., BRAND, MODEL NO., AREA DESCRIPTION';document.getElementById('status').className='status';document.getElementById('skippedMsg').style.display='none';document.getElementById('btnDownload').style.display='none';document.getElementById('btnReset').style.display='none';document.getElementById('fileInput').value='';}
+
+// Load catalog on page load
+loadCatalog();
+</script>
+</body>
+</html>
