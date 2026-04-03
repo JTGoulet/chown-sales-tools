@@ -1,0 +1,1033 @@
+{
+  "ab_sku_lookup": {},
+  "acc_index": {
+    "BRUSHED STAINLESS STEEL": [
+      {
+        "sku": "TRAA9071ISZZZZ",
+        "description": "SOAP DISPENSER WITH GLASS HOLDER",
+        "price": 1095
+      },
+      {
+        "sku": "TRIT4Z01ISZZZZ",
+        "description": "TOILET HOLDER",
+        "price": 350
+      },
+      {
+        "sku": "TRIT4Z04ISZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT4Z05ISZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 495
+      },
+      {
+        "sku": "TRIT4Z06ISZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT4Z07ISZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT4Z11ISZZZZ",
+        "description": "ROBE HOOK",
+        "price": 250
+      },
+      {
+        "sku": "TRIT4Z13ISZZZZ",
+        "description": "WALL MOUNTED TOILET BRUSH HOLDER",
+        "price": 495
+      },
+      {
+        "sku": "TRIT4Z24ISZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 395
+      },
+      {
+        "sku": "TRIT4Z26ISZZZZ",
+        "description": "56,8 CM. BATHROOM SHELF",
+        "price": 630
+      },
+      {
+        "sku": "TRIT4Z41ISZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 850
+      },
+      {
+        "sku": "TRIT4Z74ISZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1250
+      },
+      {
+        "sku": "TRIT8301ISZZZZ",
+        "description": "TOILET HOLDER",
+        "price": 395
+      },
+      {
+        "sku": "TRIT8304ISZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 695
+      },
+      {
+        "sku": "TRIT8305ISZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT8306ISZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 495
+      },
+      {
+        "sku": "TRIT8307ISZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT8311ISZZZZ",
+        "description": "ROBE HOOK",
+        "price": 250
+      },
+      {
+        "sku": "TRIT8313ISZZZZ",
+        "description": "WALL MOUNTED TOILET BRUSH HOLDER",
+        "price": 550
+      },
+      {
+        "sku": "TRIT8316ISZZZZ",
+        "description": "44,2 CM. BATHROOM SHELF",
+        "price": 750
+      },
+      {
+        "sku": "TRIT8324ISZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT8326ISZZZZ",
+        "description": "56,8 CM. BATHROOM SHELF",
+        "price": 795
+      },
+      {
+        "sku": "TRIT8328ISZZZZ",
+        "description": "SPARE TOILET ROLL HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT8341ISZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 895
+      },
+      {
+        "sku": "TRIT8362ISZZZZ",
+        "description": "34,6 CM. BATHROOM SHELF",
+        "price": 695
+      },
+      {
+        "sku": "TRIT8365ISZZZZ",
+        "description": "50 CM. SINGLE TOWEL HOLDER",
+        "price": 550
+      },
+      {
+        "sku": "TRIT8371ISZZZZ",
+        "description": "LIQUID SOAP DISPENSER W/ GLASS HOLDER",
+        "price": 1250
+      },
+      {
+        "sku": "TRIT8372ISZZZZ",
+        "description": "LIQUID SOAP DISPENSER WITH SHELF",
+        "price": 1150
+      },
+      {
+        "sku": "TRIT8373ISZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1295
+      },
+      {
+        "sku": "TRIT8374ISZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1395
+      },
+      {
+        "sku": "TRIT8375ISZZZZ",
+        "description": "GLASS HOLDER WITH SHELF",
+        "price": 895
+      },
+      {
+        "sku": "TRIT9001ISZZZZ",
+        "description": "TOILET ROLL HOLDER",
+        "price": 350
+      },
+      {
+        "sku": "TRIT9004ISZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT9005ISZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 550
+      },
+      {
+        "sku": "TRIT9006ISZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT9007ISZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT9011ISZZZZ",
+        "description": "ROBE HOOK",
+        "price": 195
+      },
+      {
+        "sku": "TRIT9016ISZZZZ",
+        "description": "36,6 CM. BATHROOM SHELF",
+        "price": 750
+      },
+      {
+        "sku": "TRIT9024ISZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 395
+      },
+      {
+        "sku": "TRIT9026ISZZZZ",
+        "description": "49,2 CM. BATHROOM SHELF",
+        "price": 795
+      },
+      {
+        "sku": "TRIT9028ISZZZZ",
+        "description": "SPARE TOILET ROLL HOLDER",
+        "price": 295
+      },
+      {
+        "sku": "TRIT9041ISZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 895
+      },
+      {
+        "sku": "TRIT9059ISZZZZ",
+        "description": "TOILET ROLL HOLDER AND SHELF",
+        "price": 550
+      },
+      {
+        "sku": "TRIT9062ISZZZZ",
+        "description": "27,4 CM. BATHROOM SHELF",
+        "price": 550
+      },
+      {
+        "sku": "TRIT9065ISZZZZ",
+        "description": "50 CM. SINGLE TOWEL HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT9072ISZZZZ",
+        "description": "SOAP DISPENSER WITH SHELF",
+        "price": 1095
+      },
+      {
+        "sku": "TRIT9073ISZZZZ",
+        "description": "SOAP DISPENSER WITH GLASS HOLDER & SHELF",
+        "price": 1295
+      },
+      {
+        "sku": "TRIT9074ISZZZZ",
+        "description": "SOAP DISPENSER WITH GLASS HOLDER & SHELF",
+        "price": 1350
+      },
+      {
+        "sku": "TRIT9075ISZZZZ",
+        "description": "GLASS HOLDER WITH SHELF",
+        "price": 750
+      },
+      {
+        "sku": "TRRJIT9071IS01",
+        "description": "PUMP FOR SOAP DISPENSER",
+        "price": 195
+      },
+      {
+        "sku": "TRRWIT9071IS01",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 350
+      },
+      {
+        "sku": "TRRWUS2847IS61",
+        "description": "SHELF WITH HOOK AND WATERWAY",
+        "price": 1250
+      },
+      {
+        "sku": "TRRWUS2847IS72",
+        "description": "HANDSHOWER SET WITH SHELF & WATERWAY",
+        "price": 1895
+      },
+      {
+        "sku": "TRUNRTGA131IS",
+        "description": "HANDSHOWER HOOK WITH WATERWAY",
+        "price": 450
+      }
+    ],
+    "MATT WHITE": [
+      {
+        "sku": "TRIT1Z04BBZZ06",
+        "description": "WALL-MOUNTED SHOWER BASKET",
+        "price": 450
+      },
+      {
+        "sku": "TRIT1Z04BBZZ12",
+        "description": "WALL-MOUNTED SHOWER BASKET",
+        "price": 550
+      },
+      {
+        "sku": "TRIT1Z36BBZZZZ",
+        "description": "CORNER SPONGE HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRRWIT8316BB10",
+        "description": "SHELF FOR ART. 8316",
+        "price": 250
+      },
+      {
+        "sku": "TRRWIT8326BB10",
+        "description": "SHELF FOR ART. 8326",
+        "price": 350
+      },
+      {
+        "sku": "TRRWIT8341BB10",
+        "description": "SHELF FOR ART. 8304/8341",
+        "price": 195
+      },
+      {
+        "sku": "TRRWIT8362BB10",
+        "description": "SHELF FOR ART. 8362",
+        "price": 220
+      },
+      {
+        "sku": "TRRWIT8371BB10",
+        "description": "SHELF FOR ART. 8371",
+        "price": 250
+      },
+      {
+        "sku": "TRRWIT8372BB10",
+        "description": "SHELF FOR ART. 8372/8375",
+        "price": 295
+      },
+      {
+        "sku": "TRRWIT8373BB10",
+        "description": "SHELF FOR ART. 8373",
+        "price": 350
+      },
+      {
+        "sku": "TRRWIT8374BB10",
+        "description": "SHELF FOR ART. 8374",
+        "price": 350
+      },
+      {
+        "sku": "TRRWIT9016BB10",
+        "description": "SHELF FOR ART. 9016",
+        "price": 395
+      },
+      {
+        "sku": "TRRWIT9026BB10",
+        "description": "SHELF FOR ART. 9026",
+        "price": 450
+      },
+      {
+        "sku": "TRRWIT9059BB10",
+        "description": "SHELF FOR ART. 9059",
+        "price": 195
+      },
+      {
+        "sku": "TRRWIT9062BB10",
+        "description": "SHELF FOR ART. 9062/9074",
+        "price": 195
+      },
+      {
+        "sku": "TRRWIT9071BB10",
+        "description": "GLASS FOR ART. 9075/9071/9073/9074",
+        "price": 195
+      },
+      {
+        "sku": "TRRWIT9072BB10",
+        "description": "SHELF FOR ART. 9072/9073/9075",
+        "price": 250
+      }
+    ],
+    "GUN METAL - PVD": [
+      {
+        "sku": "TRIT4Z0101ZZZZ",
+        "description": "TOILET HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT4Z0401ZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 750
+      },
+      {
+        "sku": "TRIT4Z0501ZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT4Z0601ZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT4Z0701ZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 795
+      },
+      {
+        "sku": "TRIT4Z1101ZZZZ",
+        "description": "ROBE HOOK",
+        "price": 295
+      },
+      {
+        "sku": "TRIT4Z1301ZZZZ",
+        "description": "WALL MOUNTED TOILET BRUSH HOLDER",
+        "price": 895
+      },
+      {
+        "sku": "TRIT4Z2401ZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 550
+      },
+      {
+        "sku": "TRIT4Z2601ZZZZ",
+        "description": "56,8 CM. BATHROOM SHELF",
+        "price": 850
+      },
+      {
+        "sku": "TRIT4Z4101ZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 995
+      },
+      {
+        "sku": "TRIT4Z7401ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1495
+      },
+      {
+        "sku": "TRIT8301IS01ZZ",
+        "description": "TOILET HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT830401ZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 995
+      },
+      {
+        "sku": "TRIT830501ZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 795
+      },
+      {
+        "sku": "TRIT830601ZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 695
+      },
+      {
+        "sku": "TRIT830701ZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 850
+      },
+      {
+        "sku": "TRIT831101ZZZZ",
+        "description": "ROBE HOOK",
+        "price": 350
+      },
+      {
+        "sku": "TRIT831301ZZZZ",
+        "description": "WALL MOUNTED TOILET BRUSH HOLDER",
+        "price": 950
+      },
+      {
+        "sku": "TRIT831601ZZZZ",
+        "description": "44,2 CM. BATHROOM SHELF",
+        "price": 995
+      },
+      {
+        "sku": "TRIT832401ZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT832601ZZZZ",
+        "description": "56,8 CM. BATHROOM SHELF",
+        "price": 1095
+      },
+      {
+        "sku": "TRIT8328IS01ZZ",
+        "description": "SPARE TOILET ROLL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT834101ZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 1295
+      },
+      {
+        "sku": "TRIT836201ZZZZ",
+        "description": "34,6 CM. BATHROOM SHELF",
+        "price": 950
+      },
+      {
+        "sku": "TRIT836501ZZZZ",
+        "description": "50 CM. SINGLE TOWEL HOLDER",
+        "price": 750
+      },
+      {
+        "sku": "TRIT837101ZZZZ",
+        "description": "LIQUID SOAP DISPENSER W/ GLASS HOLDER",
+        "price": 1750
+      },
+      {
+        "sku": "TRIT837201ZZZZ",
+        "description": "LIQUID SOAP DISPENSER WITH SHELF",
+        "price": 1595
+      },
+      {
+        "sku": "TRIT837301ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1795
+      },
+      {
+        "sku": "TRIT837401ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 2050
+      },
+      {
+        "sku": "TRIT837501ZZZZ",
+        "description": "GLASS HOLDER WITH SHELF",
+        "price": 1250
+      },
+      {
+        "sku": "TRRJIT90710101",
+        "description": "PUMP FOR SOAP DISPENSER",
+        "price": 250
+      },
+      {
+        "sku": "TRRWIT90710101",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 495
+      },
+      {
+        "sku": "TRUNRTGA13101",
+        "description": "HANDSHOWER HOOK WITH WATERWAY",
+        "price": 550
+      }
+    ],
+    "COPPER - PVD": [
+      {
+        "sku": "TRIT4Z0103ZZZZ",
+        "description": "TOILET HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT4Z0403ZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 750
+      },
+      {
+        "sku": "TRIT4Z0503ZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT4Z0603ZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT4Z0703ZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 795
+      },
+      {
+        "sku": "TRIT4Z1103ZZZZ",
+        "description": "ROBE HOOK",
+        "price": 295
+      },
+      {
+        "sku": "TRIT4Z1303ZZZZ",
+        "description": "WALL MOUNTED TOILET BRUSH HOLDER",
+        "price": 895
+      },
+      {
+        "sku": "TRIT4Z2403ZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 550
+      },
+      {
+        "sku": "TRIT4Z2603ZZZZ",
+        "description": "56,8 CM. BATHROOM SHELF",
+        "price": 850
+      },
+      {
+        "sku": "TRIT4Z4103ZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 995
+      },
+      {
+        "sku": "TRIT4Z7403ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1495
+      },
+      {
+        "sku": "TRIT8301IS03ZZ",
+        "description": "TOILET HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT830403ZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 995
+      },
+      {
+        "sku": "TRIT830503ZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 795
+      },
+      {
+        "sku": "TRIT830603ZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 695
+      },
+      {
+        "sku": "TRIT830703ZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 850
+      },
+      {
+        "sku": "TRIT831103ZZZZ",
+        "description": "ROBE HOOK",
+        "price": 350
+      },
+      {
+        "sku": "TRIT831303ZZZZ",
+        "description": "WALL MOUNTED TOILET BRUSH HOLDER",
+        "price": 950
+      },
+      {
+        "sku": "TRIT831603ZZZZ",
+        "description": "44,2 CM. BATHROOM SHELF",
+        "price": 995
+      },
+      {
+        "sku": "TRIT832403ZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT832603ZZZZ",
+        "description": "56,8 CM. BATHROOM SHELF",
+        "price": 1095
+      },
+      {
+        "sku": "TRIT8328IS03ZZ",
+        "description": "SPARE TOILET ROLL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT834103ZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 1295
+      },
+      {
+        "sku": "TRIT836203ZZZZ",
+        "description": "34,6 CM. BATHROOM SHELF",
+        "price": 950
+      },
+      {
+        "sku": "TRIT836503ZZZZ",
+        "description": "50 CM. SINGLE TOWEL HOLDER",
+        "price": 750
+      },
+      {
+        "sku": "TRIT837103ZZZZ",
+        "description": "LIQUID SOAP DISPENSER W/ GLASS HOLDER",
+        "price": 1750
+      },
+      {
+        "sku": "TRIT837203ZZZZ",
+        "description": "LIQUID SOAP DISPENSER WITH SHELF",
+        "price": 1595
+      },
+      {
+        "sku": "TRIT837303ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1795
+      },
+      {
+        "sku": "TRIT837403ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 2050
+      },
+      {
+        "sku": "TRIT837503ZZZZ",
+        "description": "GLASS HOLDER WITH SHELF",
+        "price": 1250
+      },
+      {
+        "sku": "TRRJIT90710301",
+        "description": "PUMP FOR SOAP DISPENSER",
+        "price": 250
+      },
+      {
+        "sku": "TRRWIT90710301",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 495
+      },
+      {
+        "sku": "TRUNRTGA13103",
+        "description": "HANDSHOWER HOOK WITH WATERWAY",
+        "price": 550
+      }
+    ],
+    "TUSCANY GOLD - PVD": [
+      {
+        "sku": "TRIT4Z0104ZZZZ",
+        "description": "TOILET HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT4Z0404ZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 750
+      },
+      {
+        "sku": "TRIT4Z0504ZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT4Z0604ZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT4Z0704ZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 795
+      },
+      {
+        "sku": "TRIT4Z1104ZZZZ",
+        "description": "ROBE HOOK",
+        "price": 295
+      },
+      {
+        "sku": "TRIT4Z1304ZZZZ",
+        "description": "WALL MOUNTED TOILET BRUSH HOLDER",
+        "price": 895
+      },
+      {
+        "sku": "TRIT4Z2404ZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 550
+      },
+      {
+        "sku": "TRIT4Z2604ZZZZ",
+        "description": "56,8 CM. BATHROOM SHELF",
+        "price": 850
+      },
+      {
+        "sku": "TRIT4Z4104ZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 995
+      },
+      {
+        "sku": "TRIT4Z7404ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1495
+      },
+      {
+        "sku": "TRIT8301IS04ZZ",
+        "description": "TOILET HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT830404ZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 995
+      },
+      {
+        "sku": "TRIT830504ZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 795
+      },
+      {
+        "sku": "TRIT830604ZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 695
+      },
+      {
+        "sku": "TRIT830704ZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 850
+      },
+      {
+        "sku": "TRIT831104ZZZZ",
+        "description": "ROBE HOOK",
+        "price": 350
+      },
+      {
+        "sku": "TRIT831304ZZZZ",
+        "description": "WALL MOUNTED TOILET BRUSH HOLDER",
+        "price": 950
+      },
+      {
+        "sku": "TRIT831604ZZZZ",
+        "description": "44,2 CM. BATHROOM SHELF",
+        "price": 995
+      },
+      {
+        "sku": "TRIT832404ZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT832604ZZZZ",
+        "description": "56,8 CM. BATHROOM SHELF",
+        "price": 1095
+      },
+      {
+        "sku": "TRIT8328IS04ZZ",
+        "description": "SPARE TOILET ROLL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT834104ZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 1295
+      },
+      {
+        "sku": "TRIT836204ZZZZ",
+        "description": "34,6 CM. BATHROOM SHELF",
+        "price": 950
+      },
+      {
+        "sku": "TRIT836504ZZZZ",
+        "description": "50 CM. SINGLE TOWEL HOLDER",
+        "price": 750
+      },
+      {
+        "sku": "TRIT837104ZZZZ",
+        "description": "LIQUID SOAP DISPENSER W/ GLASS HOLDER",
+        "price": 1750
+      },
+      {
+        "sku": "TRIT837204ZZZZ",
+        "description": "LIQUID SOAP DISPENSER WITH SHELF",
+        "price": 1595
+      },
+      {
+        "sku": "TRIT837304ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1795
+      },
+      {
+        "sku": "TRIT837404ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 2050
+      },
+      {
+        "sku": "TRIT837504ZZZZ",
+        "description": "GLASS HOLDER WITH SHELF",
+        "price": 1250
+      },
+      {
+        "sku": "TRRJIT90710401",
+        "description": "PUMP FOR SOAP DISPENSER",
+        "price": 250
+      },
+      {
+        "sku": "TRRWIT90710401",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 495
+      },
+      {
+        "sku": "TRUNRTGA13104",
+        "description": "HANDSHOWER HOOK WITH WATERWAY",
+        "price": 550
+      }
+    ],
+    "LIGHT BRONZE - PVD": [
+      {
+        "sku": "TRIT4Z0106ZZZZ",
+        "description": "TOILET HOLDER",
+        "price": 450
+      },
+      {
+        "sku": "TRIT4Z0406ZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 750
+      },
+      {
+        "sku": "TRIT4Z0506ZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT4Z0606ZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT4Z0706ZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 795
+      },
+      {
+        "sku": "TRIT4Z1106ZZZZ",
+        "description": "ROBE HOOK",
+        "price": 295
+      },
+      {
+        "sku": "TRIT4Z1306ZZZZ",
+        "description": "WALL MOUNTED TOILET BRUSH HOLDER",
+        "price": 895
+      },
+      {
+        "sku": "TRIT4Z2406ZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 550
+      },
+      {
+        "sku": "TRIT4Z2606ZZZZ",
+        "description": "56,8 CM. BATHROOM SHELF",
+        "price": 850
+      },
+      {
+        "sku": "TRIT4Z4106ZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 995
+      },
+      {
+        "sku": "TRIT4Z7406ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1495
+      },
+      {
+        "sku": "TRIT8301IS06ZZ",
+        "description": "TOILET HOLDER",
+        "price": 595
+      },
+      {
+        "sku": "TRIT830406ZZZZ",
+        "description": "GLASS HOLDER",
+        "price": 995
+      },
+      {
+        "sku": "TRIT830506ZZZZ",
+        "description": "60 CM. SINGLE TOWEL HOLDER",
+        "price": 795
+      },
+      {
+        "sku": "TRIT830606ZZZZ",
+        "description": "40 CM. SINGLE TOWEL HOLDER",
+        "price": 695
+      },
+      {
+        "sku": "TRIT830706ZZZZ",
+        "description": "BRUSH HOLDER",
+        "price": 850
+      },
+      {
+        "sku": "TRIT831106ZZZZ",
+        "description": "ROBE HOOK",
+        "price": 350
+      },
+      {
+        "sku": "TRIT831306ZZZZ",
+        "description": "WALL MOUNTED TOILET BRUSH HOLDER",
+        "price": 950
+      },
+      {
+        "sku": "TRIT831606ZZZZ",
+        "description": "44,2 CM. BATHROOM SHELF",
+        "price": 995
+      },
+      {
+        "sku": "TRIT832406ZZZZ",
+        "description": "30 CM. SINGLE TOWEL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT832606ZZZZ",
+        "description": "56,8 CM. BATHROOM SHELF",
+        "price": 1095
+      },
+      {
+        "sku": "TRIT8328IS06ZZ",
+        "description": "SPARE TOILET ROLL HOLDER",
+        "price": 650
+      },
+      {
+        "sku": "TRIT834106ZZZZ",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 1295
+      },
+      {
+        "sku": "TRIT836206ZZZZ",
+        "description": "34,6 CM. BATHROOM SHELF",
+        "price": 950
+      },
+      {
+        "sku": "TRIT836506ZZZZ",
+        "description": "50 CM. SINGLE TOWEL HOLDER",
+        "price": 750
+      },
+      {
+        "sku": "TRIT837106ZZZZ",
+        "description": "LIQUID SOAP DISPENSER W/ GLASS HOLDER",
+        "price": 1750
+      },
+      {
+        "sku": "TRIT837206ZZZZ",
+        "description": "LIQUID SOAP DISPENSER WITH SHELF",
+        "price": 1595
+      },
+      {
+        "sku": "TRIT837306ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 1795
+      },
+      {
+        "sku": "TRIT837406ZZZZ",
+        "description": "SOAP DISPENSER, GLASS HOLDER, SHELF",
+        "price": 2050
+      },
+      {
+        "sku": "TRIT837506ZZZZ",
+        "description": "GLASS HOLDER WITH SHELF",
+        "price": 1250
+      },
+      {
+        "sku": "TRRJIT90710601",
+        "description": "PUMP FOR SOAP DISPENSER",
+        "price": 250
+      },
+      {
+        "sku": "TRRWIT90710601",
+        "description": "LIQUID SOAP DISPENSER",
+        "price": 495
+      },
+      {
+        "sku": "TRUNRTGA13106",
+        "description": "HANDSHOWER HOOK WITH WATERWAY",
+        "price": 550
+      }
+    ]
+  },
+  "finish_map": {}
+}
