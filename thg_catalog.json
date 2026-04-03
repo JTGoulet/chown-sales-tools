@@ -1,0 +1,57 @@
+{
+  "sku_lookup": {
+    "Catalog": {
+      "c": "Collections",
+      "fc": "Range code"
+    },
+    "Contemporary": {
+      "c": "Beluga",
+      "fc": "G1T"
+    },
+    "Transitional": {
+      "c": "Bondi",
+      "fc": "G7F"
+    },
+    "Classic Design": {
+      "c": "Corvair Fior di Bosco",
+      "fc": "U8K"
+    },
+    "Timeless": {
+      "c": "Cygne",
+      "fc": "G31"
+    },
+    "Baccarat": {
+      "c": "Pétale de Cristal - Black crystal",
+      "fc": "U6D"
+    },
+    "Lalique": {
+      "c": "Mossi",
+      "fc": "A2N"
+    },
+    "Daum": {
+      "c": "Flore",
+      "fc": "U5A"
+    },
+    "Porcelaine": {
+      "c": "Froufrou",
+      "fc": "G2N"
+    },
+    "Précieuses": {
+      "c": "Trocadéro Lapis Lazuli",
+      "fc": "U7B"
+    },
+    "Waterfalls": {
+      "c": "Urban",
+      "fc": "A39"
+    },
+    "General item": {
+      "c": "Metal Basin",
+      "fc": "GB2"
+    },
+    "Kitchen": {
+      "c": "General Products",
+      "fc": "G00"
+    }
+  },
+  "acc_index": {}
+}

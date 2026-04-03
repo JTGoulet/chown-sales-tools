@@ -1,0 +1,2908 @@
+{
+  "sku_lookup": {
+    "002 COLLECTION": {
+      "collection": "002 COLLECTION",
+      "finish_code": "BAF"
+    },
+    "AILERON": {
+      "collection": "AILERON",
+      "finish_code": "BLH"
+    },
+    "ARGILE": {
+      "collection": "ARGILE",
+      "finish_code": "KHB"
+    },
+    "BACIFIORE": {
+      "collection": "BACIFIORE",
+      "finish_code": "DPC"
+    },
+    "BANDEAU": {
+      "collection": "BANDEAU",
+      "finish_code": "PGP"
+    },
+    "BELLIS": {
+      "collection": "BELLIS",
+      "finish_code": "ULB"
+    },
+    "BEZEL": {
+      "collection": "BEZEL",
+      "finish_code": "PGP"
+    },
+    "BRIDGETON": {
+      "collection": "BRIDGETON",
+      "finish_code": "PGP"
+    },
+    "CAILLOU": {
+      "collection": "CAILLOU",
+      "finish_code": "FWG"
+    },
+    "CENTRAL PARK WEST": {
+      "collection": "CENTRAL PARK WEST",
+      "finish_code": "BGP"
+    },
+    "CLEO/CIRCE": {
+      "collection": "CLEO/CIRCE",
+      "finish_code": "AD"
+    },
+    "CONTEMPORARY": {
+      "collection": "CONTEMPORARY",
+      "finish_code": "BAF"
+    },
+    "FOR COUNTRY BY SMITH": {
+      "collection": "FOR COUNTRY BY SMITH",
+      "finish_code": "P50035-BA"
+    },
+    "FOR TOWN BY M SMITH": {
+      "collection": "FOR TOWN BY M SMITH",
+      "finish_code": "AD"
+    },
+    "FOUNDATION": {
+      "collection": "FOUNDATION",
+      "finish_code": "NA"
+    },
+    "GRID": {
+      "collection": "GRID",
+      "finish_code": "NA"
+    },
+    "GUISE COLLECTION": {
+      "collection": "GUISE COLLECTION",
+      "finish_code": "PGP"
+    },
+    "JUXTAPOSE": {
+      "collection": "JUXTAPOSE",
+      "finish_code": "BGP"
+    },
+    "KALLISTA": {
+      "collection": "KALLISTA",
+      "finish_code": "PGP"
+    },
+    "KUO": {
+      "collection": "KUO",
+      "finish_code": "WHB"
+    },
+    "LAURA KIRAR": {
+      "collection": "LAURA KIRAR",
+      "finish_code": "P33965-00"
+    },
+    "MICHAEL SMITH": {
+      "collection": "MICHAEL SMITH",
+      "finish_code": "KL"
+    },
+    "MODULO": {
+      "collection": "MODULO",
+      "finish_code": "NA"
+    },
+    "MONTE CARLO": {
+      "collection": "MONTE CARLO",
+      "finish_code": "NA"
+    },
+    "MULTIERE": {
+      "collection": "MULTIERE",
+      "finish_code": "NA"
+    },
+    "MULTIPLE PROD LINES": {
+      "collection": "MULTIPLE PROD LINES",
+      "finish_code": "BAF"
+    },
+    "MYAM": {
+      "collection": "MYAM",
+      "finish_code": "WHB"
+    },
+    "NAZARÉ": {
+      "collection": "NAZARÉ",
+      "finish_code": "BAF"
+    },
+    "OBIDOS": {
+      "collection": "OBIDOS",
+      "finish_code": "WHB"
+    },
+    "ONE": {
+      "collection": "ONE",
+      "finish_code": "SN-BN"
+    },
+    "ORIGINAL BY B BARRY": {
+      "collection": "ORIGINAL BY B BARRY",
+      "finish_code": "P50014-BA"
+    },
+    "PAPION": {
+      "collection": "PAPION",
+      "finish_code": "P76350-00"
+    },
+    "PER SE": {
+      "collection": "PER SE",
+      "finish_code": "BAF"
+    },
+    "PERFECT": {
+      "collection": "PERFECT",
+      "finish_code": "NA"
+    },
+    "PERFORM SHWRNG VLVS": {
+      "collection": "PERFORM SHWRNG VLVS",
+      "finish_code": "NA"
+    },
+    "PINNA PALETTA BY LK": {
+      "collection": "PINNA PALETTA BY LK",
+      "finish_code": "ULB"
+    },
+    "PLEO": {
+      "collection": "PLEO",
+      "finish_code": "BAF"
+    },
+    "PLIÉ": {
+      "collection": "PLIÉ",
+      "finish_code": "PGP"
+    },
+    "PURE PALETTA BY LK": {
+      "collection": "PURE PALETTA BY LK",
+      "finish_code": "BAF"
+    },
+    "QUINCY": {
+      "collection": "QUINCY",
+      "finish_code": "BGP"
+    },
+    "SCRIPT": {
+      "collection": "SCRIPT",
+      "finish_code": "BWM"
+    },
+    "SERVICE PARTS": {
+      "collection": "SERVICE PARTS",
+      "finish_code": "NA"
+    },
+    "SOLTIERE": {
+      "collection": "SOLTIERE",
+      "finish_code": "NA"
+    },
+    "TRADITIONAL": {
+      "collection": "TRADITIONAL",
+      "finish_code": "BGP"
+    },
+    "TRINIDAD": {
+      "collection": "TRINIDAD",
+      "finish_code": "WHB"
+    },
+    "TUXEDO BY B BARRY": {
+      "collection": "TUXEDO BY B BARRY",
+      "finish_code": "P72039-00"
+    },
+    "UNIVERSAL RITE-TEMP": {
+      "collection": "UNIVERSAL RITE-TEMP",
+      "finish_code": "NA"
+    },
+    "VICE COLLECTION": {
+      "collection": "VICE COLLECTION",
+      "finish_code": "BGP"
+    },
+    "VIR STIL BY L KIRAR": {
+      "collection": "VIR STIL BY L KIRAR",
+      "finish_code": "BAF"
+    },
+    "VIR STIL MINIMAL": {
+      "collection": "VIR STIL MINIMAL",
+      "finish_code": "BAF"
+    },
+    "VOUSSOIR": {
+      "collection": "VOUSSOIR",
+      "finish_code": "FWG"
+    }
+  },
+  "acc_index": {
+    "002 COLLECTION|CP": [
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 18 TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 HOOK",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "002 COLLECTION|BN": [
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 18 TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 HOOK",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "002 COLLECTION|SN": [
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 18 TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 HOOK",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "002 COLLECTION|BL": [
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 18 TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 HOOK",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "002 COLLECTION|2MB": [
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 18 TOWEL BAR",
+        "price": 2
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 24\" TOWEL BAR",
+        "price": 2
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOWEL RING",
+        "price": 2
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® HOOK",
+        "price": 2
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOILET PAPER HOLDER",
+        "price": 2
+      }
+    ],
+    "002 COLLECTION|BAF": [
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 18 TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 HOOK",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "002 COLLECTION",
+        "description": "002 TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "AILERON|CP": [
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 12\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "AILERON|BN": [
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 12\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "AILERON|BL": [
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 12\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "AILERON|2MB": [
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 12\" TOWEL BAR",
+        "price": 2
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 18\" TOWEL BAR",
+        "price": 2
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 24\" TOWEL BAR",
+        "price": 2
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ ROBE HOOK",
+        "price": 2
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ TOILET PAPER HOLDER",
+        "price": 2
+      }
+    ],
+    "AILERON|BGP": [
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 12\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "AILERON|BLH": [
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 12\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "AILERON",
+        "description": "AILERON™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "BELLIS|CP": [
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOWEL RING",
+        "price": 0
+      }
+    ],
+    "BELLIS|AD": [
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOWEL RING",
+        "price": 0
+      }
+    ],
+    "BELLIS|ULB": [
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "BELLIS",
+        "description": "BELLIS® TOWEL RING",
+        "price": 0
+      }
+    ],
+    "BEZEL|CP": [
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 12\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "BEZEL|BN": [
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 12\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "BEZEL|2MB": [
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 18\" TOWEL BAR",
+        "price": 2
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 24\" TOWEL BAR",
+        "price": 2
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 12\" TOWEL BAR",
+        "price": 2
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ ROBE HOOK",
+        "price": 2
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ TOILET PAPER HOLDER",
+        "price": 2
+      }
+    ],
+    "BEZEL|BGP": [
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 12\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "BEZEL|BLH": [
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 12\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "BEZEL|PGP": [
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ 12\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "BEZEL",
+        "description": "BEZEL™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "CENTRAL PARK WEST|CP": [
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "CENTRAL PARK WEST|BN": [
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "CENTRAL PARK WEST|SN": [
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "CENTRAL PARK WEST|ULB": [
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "CENTRAL PARK WEST|BV": [
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "CENTRAL PARK WEST|BAF": [
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "CENTRAL PARK WEST",
+        "description": "CENTRAL PARK WEST® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "FOR TOWN BY M SMITH|CP": [
+      {
+        "sku": "FOR TOWN BY M SMITH",
+        "description": "FOR TOWN TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "FOR TOWN BY M SMITH",
+        "description": "FOR TOWN TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "FOR TOWN BY M SMITH",
+        "description": "FOR TOWN TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "FOR TOWN BY M SMITH",
+        "description": "FOR TOWN HOOK",
+        "price": 0
+      },
+      {
+        "sku": "FOR TOWN BY M SMITH",
+        "description": "FOR TOWN TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "FOR TOWN BY M SMITH|AD": [
+      {
+        "sku": "FOR TOWN BY M SMITH",
+        "description": "FOR TOWN TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "FOR TOWN BY M SMITH",
+        "description": "FOR TOWN TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "FOR TOWN BY M SMITH",
+        "description": "FOR TOWN TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "FOR TOWN BY M SMITH",
+        "description": "FOR TOWN HOOK",
+        "price": 0
+      },
+      {
+        "sku": "FOR TOWN BY M SMITH",
+        "description": "FOR TOWN TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "GRID|CP": [
+      {
+        "sku": "GRID",
+        "description": "GRID® TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "GRID",
+        "description": "GRID® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "GRID",
+        "description": "GRID® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "GRID",
+        "description": "GRID® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "GRID|BL": [
+      {
+        "sku": "GRID",
+        "description": "GRID® TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "GRID",
+        "description": "GRID® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "GRID",
+        "description": "GRID® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "GRID",
+        "description": "GRID® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "GUISE COLLECTION|CP": [
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® DOUBLE ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "GUISE COLLECTION|BN": [
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® DOUBLE ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "GUISE COLLECTION|SN": [
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® DOUBLE ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "GUISE COLLECTION|BAF": [
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® DOUBLE ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "GUISE COLLECTION|PGP": [
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® DOUBLE ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "GUISE COLLECTION",
+        "description": "GUISE® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "JUXTAPOSE|CP": [
+      {
+        "sku": "JUXTAPOSE",
+        "description": "JUXTAPOSE® KITCHEN SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "JUXTAPOSE|BL": [
+      {
+        "sku": "JUXTAPOSE",
+        "description": "JUXTAPOSE® KITCHEN SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "JUXTAPOSE|2MB-VS": [
+      {
+        "sku": "JUXTAPOSE",
+        "description": "JUXTAPOSE® SOAP/LOTION DISPENSER",
+        "price": 2
+      }
+    ],
+    "JUXTAPOSE|2MB-BL": [
+      {
+        "sku": "JUXTAPOSE",
+        "description": "JUXTAPOSE® KITCHEN SOAP DISPENSER",
+        "price": 2
+      }
+    ],
+    "JUXTAPOSE|AF-BAF": [
+      {
+        "sku": "JUXTAPOSE",
+        "description": "JUXTAPOSE® SOAP/LOTION DISPENSER",
+        "price": 0
+      }
+    ],
+    "JUXTAPOSE|SN-VS": [
+      {
+        "sku": "JUXTAPOSE",
+        "description": "JUXTAPOSE® KITCHEN SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "JUXTAPOSE|VS-BGP": [
+      {
+        "sku": "JUXTAPOSE",
+        "description": "JUXTAPOSE® KITCHEN SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "KALLISTA|CP": [
+      {
+        "sku": "KALLISTA",
+        "description": "FOR TOWN SHOWER DR HDL TOWEL PULL 6\"",
+        "price": 0
+      },
+      {
+        "sku": "KALLISTA",
+        "description": "FOR TOWN SHOWER DR HDL TOWEL BAR 18\"",
+        "price": 0
+      },
+      {
+        "sku": "KALLISTA",
+        "description": "TRANSITIONAL SHOWER DR HDL TOWEL BAR",
+        "price": 0
+      }
+    ],
+    "KALLISTA|AD": [
+      {
+        "sku": "KALLISTA",
+        "description": "FOR TOWN SHOWER DR HDL TOWEL PULL 6\"",
+        "price": 0
+      },
+      {
+        "sku": "KALLISTA",
+        "description": "FOR TOWN SHOWER DR HDL TOWEL BAR 18\"",
+        "price": 0
+      }
+    ],
+    "KALLISTA|BN": [
+      {
+        "sku": "KALLISTA",
+        "description": "TRANSITIONAL SHOWER DR HDL TOWEL BAR",
+        "price": 0
+      }
+    ],
+    "KALLISTA|SN": [
+      {
+        "sku": "KALLISTA",
+        "description": "TRANSITIONAL SHOWER DR HDL TOWEL BAR",
+        "price": 0
+      }
+    ],
+    "KALLISTA|BL": [
+      {
+        "sku": "KALLISTA",
+        "description": "TRANSITIONAL SHOWER DR HDL TOWEL BAR",
+        "price": 0
+      }
+    ],
+    "KALLISTA|2MB": [
+      {
+        "sku": "KALLISTA",
+        "description": "TRANSITIONAL SHOWER DR HDL TOWEL BAR",
+        "price": 2
+      }
+    ],
+    "KALLISTA|AF": [
+      {
+        "sku": "KALLISTA",
+        "description": "TRANSITIONAL SHOWER DR HDL TOWEL BAR",
+        "price": 0
+      }
+    ],
+    "KALLISTA|BV": [
+      {
+        "sku": "KALLISTA",
+        "description": "TRANSITIONAL SHOWER DR HDL TOWEL BAR",
+        "price": 0
+      }
+    ],
+    "KALLISTA|BAF": [
+      {
+        "sku": "KALLISTA",
+        "description": "TRANSITIONAL SHOWER DR HDL TOWEL BAR",
+        "price": 0
+      }
+    ],
+    "MULTIPLE PROD LINES|CP": [
+      {
+        "sku": "MULTIPLE PROD LINES",
+        "description": "TRANSITIONAL SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "MULTIPLE PROD LINES|BN": [
+      {
+        "sku": "MULTIPLE PROD LINES",
+        "description": "TRANSITIONAL SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "MULTIPLE PROD LINES|SN": [
+      {
+        "sku": "MULTIPLE PROD LINES",
+        "description": "TRANSITIONAL SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "MULTIPLE PROD LINES|VS": [
+      {
+        "sku": "MULTIPLE PROD LINES",
+        "description": "TRANSITIONAL SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "MULTIPLE PROD LINES|AF": [
+      {
+        "sku": "MULTIPLE PROD LINES",
+        "description": "TRANSITIONAL SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "MULTIPLE PROD LINES|BV": [
+      {
+        "sku": "MULTIPLE PROD LINES",
+        "description": "TRANSITIONAL SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "MULTIPLE PROD LINES|BAF": [
+      {
+        "sku": "MULTIPLE PROD LINES",
+        "description": "TRANSITIONAL SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "ONE|CP": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TISSUE HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "ONE|SN": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TISSUE HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "ONE|AD": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "ONE|AG": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "ONE|BL": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TISSUE HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "ONE|ULB": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TISSUE HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "ONE|VS": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "ONE|2MB": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 2
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 24\" TOWEL BAR",
+        "price": 2
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 18\" TOWEL BAR",
+        "price": 2
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ ROBE HOOK",
+        "price": 2
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TISSUE HOLDER",
+        "price": 2
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TOWEL RING",
+        "price": 2
+      }
+    ],
+    "ONE|BAF": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TISSUE HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "ONE|BGP": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TISSUE HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "ONE|PGP": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ SOAP DISPENSER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TISSUE HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "ONE|BN": [
+      {
+        "sku": "ONE",
+        "description": "ONE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TISSUE HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "ONE",
+        "description": "ONE™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "PER SE|CP": [
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "PER SE|BN": [
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL RING",
+        "price": 0
+      }
+    ],
+    "PER SE|SN": [
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL RING",
+        "price": 0
+      }
+    ],
+    "PER SE|AF": [
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "PER SE|BAF": [
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PER SE",
+        "description": "PER SE TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "PINNA PALETTA BY LK|BAF": [
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "PINNA PALETTA BY LK|BNW-BN": [
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL RING",
+        "price": 0
+      }
+    ],
+    "PINNA PALETTA BY LK|CP": [
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "PINNA PALETTA BY LK|SNW-SN": [
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL RING",
+        "price": 0
+      }
+    ],
+    "PINNA PALETTA BY LK|ULB": [
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL BAR, 12\"",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PINNA PALETTA® TOWEL RING",
+        "price": 0
+      }
+    ],
+    "PINNA PALETTA BY LK|BN": [
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "PINNA PALETTA BY LK|SN": [
+      {
+        "sku": "PINNA PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL RING",
+        "price": 0
+      }
+    ],
+    "PURE PALETTA BY LK|CP": [
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "PURE PALETTA BY LK|BN": [
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "PURE PALETTA BY LK|SN": [
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "PURE PALETTA BY LK|BAF": [
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ HOOK",
+        "price": 0
+      },
+      {
+        "sku": "PURE PALETTA BY LK",
+        "description": "PURE PALETTA™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "QUINCY|CP": [
+      {
+        "sku": "QUINCY",
+        "description": "QUINCY™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "QUINCY|SN": [
+      {
+        "sku": "QUINCY",
+        "description": "QUINCY™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "QUINCY|AD": [
+      {
+        "sku": "QUINCY",
+        "description": "QUINCY™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "QUINCY|AG": [
+      {
+        "sku": "QUINCY",
+        "description": "QUINCY™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "QUINCY|ULB": [
+      {
+        "sku": "QUINCY",
+        "description": "QUINCY™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "QUINCY|VS": [
+      {
+        "sku": "QUINCY",
+        "description": "QUINCY™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "QUINCY|2MB": [
+      {
+        "sku": "QUINCY",
+        "description": "QUINCY™ SOAP DISPENSER",
+        "price": 2
+      }
+    ],
+    "QUINCY|BAF": [
+      {
+        "sku": "QUINCY",
+        "description": "QUINCY™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "QUINCY|BGP": [
+      {
+        "sku": "QUINCY",
+        "description": "QUINCY™ SOAP DISPENSER",
+        "price": 0
+      }
+    ],
+    "SCRIPT|CP": [
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT HOOK",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "SCRIPT|BN": [
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "SCRIPT|SN": [
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "SCRIPT|BV": [
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT HOOK",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "SCRIPT|BAF": [
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT TOWEL BAR, 24\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOWEL BAR, 18\"",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT HOOK",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT® TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "SCRIPT",
+        "description": "SCRIPT TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "VICE COLLECTION|BAF-AF": [
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "VICE COLLECTION|BN-SN": [
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "VICE COLLECTION|BGP": [
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "VICE COLLECTION|BV-CP": [
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "VICE COLLECTION|CP": [
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ ROBE HOOK",
+        "price": 0
+      },
+      {
+        "sku": "VICE COLLECTION",
+        "description": "VICE™ TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "VIR STIL BY L KIRAR|CP": [
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "VIR STIL BY L KIRAR|BN": [
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "VIR STIL BY L KIRAR|SN": [
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "VIR STIL BY L KIRAR|BAF": [
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® HOOK",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL BY L KIRAR",
+        "description": "VIR STIL® TOILET PAPER HOLDER",
+        "price": 0
+      }
+    ],
+    "VIR STIL MINIMAL|CP": [
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL HOOK",
+        "price": 0
+      }
+    ],
+    "VIR STIL MINIMAL|BN": [
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL HOOK",
+        "price": 0
+      }
+    ],
+    "VIR STIL MINIMAL|SN": [
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL®® MINIMAL TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL HOOK",
+        "price": 0
+      }
+    ],
+    "VIR STIL MINIMAL|BAF": [
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL 24\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL 18\" TOWEL BAR",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL TOWEL RING",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL®® MINIMAL TOILET PAPER HOLDER",
+        "price": 0
+      },
+      {
+        "sku": "VIR STIL MINIMAL",
+        "description": "VIR STIL® MINIMAL HOOK",
+        "price": 0
+      }
+    ]
+  }
+}

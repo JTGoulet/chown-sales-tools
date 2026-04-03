@@ -1,0 +1,93 @@
+{
+  "sku_lookup": {
+    "Primary Vendor Name": {
+      "c": "Product (20)",
+      "fc": "Description Line One"
+    },
+    "A G Monteiro Lda": {
+      "c": "US-WF_STOPN_NLV",
+      "fc": "Waldorf Metal Exposed Bottom"
+    },
+    "ALMAR SRL": {
+      "c": "US-SR023S",
+      "fc": "Svelte Handshower Rail ST"
+    },
+    "C.G.S srl": {
+      "c": "US-WFBLBSW-EXT-V",
+      "fc": "Sink EXT drain for WF\\BL ST"
+    },
+    "Canadian Builders Hardware": {
+      "c": "US-WP029V",
+      "fc": "Wisp Paper Holder ST"
+    },
+    "DONG GUAN CITY BATHNOLOGY IND. CO.,LTD": {
+      "c": "US-WF_MIRROR",
+      "fc": "Waldorf 24\" X 30\" Mirror"
+    },
+    "Hoti (Xiamen) Plumbing Inc.": {
+      "c": "US-SEATU1",
+      "fc": "SoftClose Quick-Release"
+    },
+    "HUIDA SANITARY WARE CO., LTD.": {
+      "c": "US-PRO9005MB-SF",
+      "fc": "MPRO Matte Black One-Piece"
+    },
+    "IB Rubinetterie": {
+      "c": "US-UN131WNB",
+      "fc": "Union Wall-mount Widespread"
+    },
+    "JODEN": {
+      "c": "US-Z0S214N",
+      "fc": "Dust Cover (pair) -"
+    },
+    "KAIPING GENRIM SANITARY CO., LTD": {
+      "c": "US-SR040BB",
+      "fc": "Svelte Handshower Rail BB"
+    },
+    "Kerasan srl": {
+      "c": "US-WFOVN",
+      "fc": "Waldorf Overflow Trim PN"
+    },
+    "Markimex Inc.": {
+      "c": "VC-RGH",
+      "fc": "Rough - 3/4\" Volume Control"
+    },
+    "Marston Brassware Limited": {
+      "c": "US-WF12N",
+      "fc": "Waldorf 12\" Rain Head PN"
+    },
+    "Moon Shower Sanitary Ware Tech Ltd. (MN)": {
+      "c": "US-PRO689V",
+      "fc": "Modern 8\" Ceiling Shower Arm"
+    },
+    "Moyex Industrial SL": {
+      "c": "US-WGREPAIR",
+      "fc": "MPRO Vanity Touch-up White"
+    },
+    "Oakville, Stamping & Bending": {
+      "c": "ITD5135",
+      "fc": "Island Tub Drain - PVC"
+    },
+    "Saniwear / Clearstone Baths": {
+      "c": "US-TUBLEGSET",
+      "fc": "Leg Set (pair) for ClearStone"
+    },
+    "Xiamen R&T Plumbing Technology Co. Ltd": {
+      "c": "US-TL6995N",
+      "fc": "Trip Lever PN"
+    },
+    "Xinchang Juchen Sanitary Ware Co., Ltd": {
+      "c": "US-WLBGEXPVLVCAR",
+      "fc": "Thermostatic Cartridge for"
+    },
+    "ZHANGZHOU (WJ) WANHUI SANITARY WARE CO., LTD.": {
+      "c": "US-SEATU8",
+      "fc": "SoftClose Quick-Release"
+    },
+    "ZhejiangÂ Slion Fluid Control Co., Ltd.": {
+      "c": "US-CW15N",
+      "fc": "Bath Waste with Overflow PN"
+    }
+  },
+  "acc_index": {}
+}

@@ -1,0 +1,473 @@
+{
+  "sku_lookup": {
+    "G-0001": {
+      "c": "Flush Plate (Now compatible with more brands)",
+      "f": "BATH"
+    },
+    "G-0001Y": {
+      "c": "Flush Plate Extension Kit",
+      "f": "BATH"
+    },
+    "G-0003": {
+      "c": "Flush Plate (Now compatible with more brands)",
+      "f": "BATH"
+    },
+    "G-0004": {
+      "c": "Flush Plate (Now compatible with more brands)",
+      "f": "BATH"
+    },
+    "G-1012T": {
+      "c": "Two Handle Wall-Mounted Tub Filler Rough",
+      "f": "BATH"
+    },
+    "G-11278-LM55BS-**-T": {
+      "c": "Incanto Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11278-LM70BS-**-T": {
+      "c": "Incanto Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11279-LM55BS-**-T": {
+      "c": "Incanto Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11279-LM70BS-**-T": {
+      "c": "Incanto Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11378-C18B-**-T": {
+      "c": "Vintage Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11378-LM56B-**-T": {
+      "c": "Vintage Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11379-C18B-**-T": {
+      "c": "Vintage Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11379-LM56B-**-T": {
+      "c": "Vintage Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11472-C17B-": {
+      "c": "ME Three-Hole Wall-Mounted Tub Filler with 12\" spout",
+      "f": "BATH"
+    },
+    "G-11472-C19B": {
+      "c": "Harley Three-Hole Wall-Mounted Tub Filler with 12\" spout",
+      "f": "BATH"
+    },
+    "G-11472-LM57B": {
+      "c": "Harley Three-Hole Wall-Mounted Tub Filler with 12\" spout",
+      "f": "BATH"
+    },
+    "G-11472-LM62W": {
+      "c": "ME Three-Hole Wall-Mounted Tub Filler with 12\" spout",
+      "f": "BATH"
+    },
+    "G-11478-C17B-**-T": {
+      "c": "ME Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11478-C19B-**-T": {
+      "c": "Harley Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11478-LM57B-**-T": {
+      "c": "Harley Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11478-LM62W-**-T": {
+      "c": "ME Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11478-R3**-C20B-**-T": {
+      "c": "Vignola Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11478-R3**-LM60B-**-T": {
+      "c": "Vignola Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11479-C17B-**-T": {
+      "c": "ME Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11479-C19B-**-T": {
+      "c": "Harley Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11479-LM57B-**-T": {
+      "c": "Harley Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11479-LM62W-**-T": {
+      "c": "ME Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11479-R3**-C20B-**-T": {
+      "c": "Vignola Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11479-R3**-LM60B-**-T": {
+      "c": "Vignola Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11479-R4**-C20B-**-T": {
+      "c": "Vignola Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout with marble inserts",
+      "f": "BATH"
+    },
+    "G-11479-R4**-LM60B-**-T": {
+      "c": "Vignola Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout with marble inserts",
+      "f": "BATH"
+    },
+    "G-11578-R**-L**": {
+      "c": "MOD+ Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11579-R**-L**": {
+      "c": "MOD+ Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11972-LM37W": {
+      "c": "ME Three-Hole Wall-Mounted Tub Filler with 12\" spout",
+      "f": "BATH"
+    },
+    "G-11972-LM69B": {
+      "c": "Cameo Three-Hole Wall-Mounted Tub Filler with 12\" spout",
+      "f": "BATH"
+    },
+    "G-11978-LM37W-**-T": {
+      "c": "ME Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11978-LM69B-**-T": {
+      "c": "Cameo Three-Hole Wall-Mounted Tub Filler with 7-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11979-LM37W": {
+      "c": "ME Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-11979-LM69B-**-T": {
+      "c": "Cameo Three-Hole Wall-Mounted Tub Filler with 9-3/16\" spout",
+      "f": "BATH"
+    },
+    "G-19518": {
+      "c": "Harley Round Grab Bar 18\"",
+      "f": "BATH"
+    },
+    "G-19536": {
+      "c": "Harley Round Grab Bar 36\"",
+      "f": "BATH"
+    },
+    "G-19542": {
+      "c": "Harley Round Grab Bar 42\"",
+      "f": "BATH"
+    },
+    "G-4920-LM41P": {
+      "c": "Single Post Pot Filler",
+      "f": "KITCHEN"
+    },
+    "G-4920-LM52P": {
+      "c": "Single Post Pot Filler",
+      "f": "KITCHEN"
+    },
+    "G-4920-LM57P": {
+      "c": "Single Post Pot Filler",
+      "f": "KITCHEN"
+    },
+    "G-5640-LM66K": {
+      "c": "Futurismo Bar Faucet",
+      "f": "KITCHEN"
+    },
+    "G-5641-LM66K": {
+      "c": "Futurismo Bar Faucet with Chef Pro",
+      "f": "KITCHEN"
+    },
+    "G-6378-LM42B-**-T": {
+      "c": "Sento Three-Hole Wall-Mounted Tub Filler with 7\" spout",
+      "f": "BATH"
+    },
+    "G-6378-LM61B-**-T": {
+      "c": "Sento Three-Hole Wall-Mounted Tub Filler with 7\" spout",
+      "f": "BATH"
+    },
+    "G-6379-LM42B-**-T": {
+      "c": "Sento Three-Hole Wall-Mounted Tub Filler with 9\" spout",
+      "f": "BATH"
+    },
+    "G-6379-LM61B-**-T": {
+      "c": "Sento Three-Hole Wall-Mounted Tub Filler with 9\" spout",
+      "f": "BATH"
+    },
+    "G-6678-LM45B-**-T": {
+      "c": "Phase Three-Hole Wall-Mounted Tub Filler with 7-5/18\" spout",
+      "f": "BATH"
+    },
+    "G-6679-LM45B-**-T": {
+      "c": "Phase Three-Hole Wall-Mounted Tub Filler with 9-5/18\" spout",
+      "f": "BATH"
+    },
+    "G-6778-C15B-**-T": {
+      "c": "Finezza UNO Three-Hole Wall-Mounted Tub Filler with 7-1/2\" spout",
+      "f": "BATH"
+    },
+    "G-6778-C17B-**-T": {
+      "c": "Terra Three-Hole Wall-Mounted Tub Filler with 7-1/2\" spout",
+      "f": "BATH"
+    },
+    "G-6778-LM46B-**-T": {
+      "c": "Terra Three-Hole Wall-Mounted Tub Filler with 7-1/2\" spout",
+      "f": "BATH"
+    },
+    "G-6778-LM47B-**-T": {
+      "c": "Finezza UNO Three-Hole Wall-Mounted Tub Filler with 7-1/2\" spout",
+      "f": "BATH"
+    },
+    "G-6778-LM62B-**-T": {
+      "c": "Terra Three-Hole Wall-Mounted Tub Filler with 7-1/2\" spout",
+      "f": "BATH"
+    },
+    "G-6779-C17B-**-T": {
+      "c": "Terra Three-Hole Wall-Mounted Tub Filler with 9-1/2\" spout",
+      "f": "BATH"
+    },
+    "G-6779-LM46B-**-T": {
+      "c": "Terra Three-Hole Wall-Mounted Tub Filler with 9-1/2\" spout",
+      "f": "BATH"
+    },
+    "G-6779-LM62B-**-T": {
+      "c": "Terra Three-Hole Wall-Mounted Tub Filler with 9-1/2\" spout",
+      "f": "BATH"
+    },
+    "G-6879-C15B-**-T": {
+      "c": "Finezza UNO Three-Hole Wall-Mounted Tub Filler with 9-1/2\" spout",
+      "f": "BATH"
+    },
+    "G-6879-LM47B-**-T": {
+      "c": "Finezza UNO Three-Hole Wall-Mounted Tub Filler with 9-1/2\" spout",
+      "f": "BATH"
+    },
+    "G-6978-C16B-**-T": {
+      "c": "Camdem Three-Hole Wall-Mounted Tub Filler with 7-3/8\" spout",
+      "f": "BATH"
+    },
+    "G-6978-LM48B-**-T": {
+      "c": "Camdem Three-Hole Wall-Mounted Tub Filler with 7-3/8\" spout",
+      "f": "BATH"
+    },
+    "G-6979-C16B-**-T": {
+      "c": "Camdem Three-Hole Wall-Mounted Tub Filler with 9-3/8\" spout",
+      "f": "BATH"
+    },
+    "G-6979-LM48B-**-T": {
+      "c": "Camdem Three-Hole Wall-Mounted Tub Filler with 9-3/8\" spout",
+      "f": "BATH"
+    },
+    "G-7005": {
+      "c": "PBV Shower Rough-In Valve (Cartridge Update)",
+      "f": "BATH"
+    },
+    "G-7055": {
+      "c": "PBV Tub/Shower Rough-In Valve (Cartridge Update)",
+      "f": "BATH"
+    },
+    "G-8122-RDE1-***-T": {
+      "c": "M-Series for RIVA 2-Way Diverter Trim",
+      "f": "BATH"
+    },
+    "G-8122-RFE1-***-T": {
+      "c": "M-Series for RIVA 2-Way Diverter Trim",
+      "f": "BATH"
+    },
+    "G-8122-RPE1-***-T": {
+      "c": "M-Series for RIVA 2-Way Diverter Trim",
+      "f": "BATH"
+    },
+    "G-8122-RQE1-***-T": {
+      "c": "M-Series for RIVA 2-Way Diverter Trim",
+      "f": "BATH"
+    },
+    "G-8123-RDE1-***-T": {
+      "c": "M-Series for RIVA 3-Way Diverter Trim",
+      "f": "BATH"
+    },
+    "G-8123-RFE-***-T": {
+      "c": "M-Series for RIVA Two Handle Trim",
+      "f": "BATH"
+    },
+    "G-8123-RFE1-***-T": {
+      "c": "M-Series for RIVA 3-Way Diverter Trim",
+      "f": "BATH"
+    },
+    "G-8123-RPE-***-T": {
+      "c": "M-Series for RIVA Two Handle Trim",
+      "f": "BATH"
+    },
+    "G-8123-RPE1-***-T": {
+      "c": "M-Series for RIVA 3-Way Diverter Trim",
+      "f": "BATH"
+    },
+    "G-8123-RQE-***-T": {
+      "c": "M-Series for RIVA Two Handle Trim",
+      "f": "BATH"
+    },
+    "G-8123-RQE1-***-T": {
+      "c": "M-Series for RIVA 3-Way Diverter Trim",
+      "f": "BATH"
+    },
+    "G-8126-RQE-***-T": {
+      "c": "M-Series for RIVA Two Handle Trim",
+      "f": "BATH"
+    },
+    "G-8127-RDE-***-T": {
+      "c": "M-Series for RIVA Thermostatic Trim",
+      "f": "BATH"
+    },
+    "G-8127-RFE-***-T": {
+      "c": "M-Series for RIVA Thermostatic Trim",
+      "f": "BATH"
+    },
+    "G-8127-RPE-***-T": {
+      "c": "M-Series for RIVA Thermostatic Trim",
+      "f": "BATH"
+    },
+    "G-8127-RQE-***-T": {
+      "c": "M-Series for RIVA Thermostatic Trim",
+      "f": "BATH"
+    },
+    "G-8129-RDE1-***-T": {
+      "c": "M-Series for RIVA SVC Trim",
+      "f": "BATH"
+    },
+    "G-8129-RFE1-***-T": {
+      "c": "M-Series for RIVA SVC Trim",
+      "f": "BATH"
+    },
+    "G-8129-RPE1-***-T": {
+      "c": "M-Series for RIVA SVC Trim",
+      "f": "BATH"
+    },
+    "G-8129-RQE1-***-T": {
+      "c": "M-Series for RIVA SVC Trim",
+      "f": "BATH"
+    },
+    "G-8133-RFE1-***-T": {
+      "c": "M-Series for RIVA Three Handle Trim",
+      "f": "BATH"
+    },
+    "G-8133-RPE1-***-T": {
+      "c": "M-Series for RIVA Three Handle Trim",
+      "f": "BATH"
+    },
+    "G-8133-RQE1-***-T": {
+      "c": "M-Series for RIVA Three Handle Trim",
+      "f": "BATH"
+    },
+    "G-8184-RFE1-***-T": {
+      "c": "M-Series for RIVA Four Handle Trim",
+      "f": "BATH"
+    },
+    "G-8184-RPE1-***-T": {
+      "c": "M-Series for RIVA Four Handle Trim",
+      "f": "BATH"
+    },
+    "G-8184-RQE1-***-T": {
+      "c": "M-Series for RIVA Four Handle Trim",
+      "f": "BATH"
+    },
+    "G-8404": {
+      "c": "8-Jet Showerhead",
+      "f": "BATH"
+    },
+    "G-8441": {
+      "c": "19-11/16\" Sq Ceiling mounted Showerhead",
+      "f": "BATH"
+    },
+    "G-8442": {
+      "c": "19-11/16\" Round Ceiling mounted Showerhead",
+      "f": "BATH"
+    },
+    "G-8443": {
+      "c": "14-15/16\" Round Ceiling mounted Showerhead",
+      "f": "BATH"
+    },
+    "G-9218": {
+      "c": "Transitional Grab Bar 18\"",
+      "f": "BATH"
+    },
+    "G-9236": {
+      "c": "Transitional DUE Grab Bar 36\"",
+      "f": "BATH"
+    },
+    "G-9242": {
+      "c": "Transitional DUE Grab Bar 42\"",
+      "f": "BATH"
+    },
+    "G-9418": {
+      "c": "Finezza DUE Grab Bar 18\"",
+      "f": "BATH"
+    },
+    "G-9436": {
+      "c": "Finezza DUE Grab Bar 36\"",
+      "f": "BATH"
+    },
+    "G-9442": {
+      "c": "Finezza DUE Grab Bar 42\"",
+      "f": "BATH"
+    },
+    "G-9518": {
+      "c": "Round Grab Bar 18\"",
+      "f": "BATH"
+    },
+    "G-9536": {
+      "c": "Round Grab Bar 36\"",
+      "f": "BATH"
+    },
+    "G-9542": {
+      "c": "Round Grab Bar 42\"",
+      "f": "BATH"
+    },
+    "G-9618": {
+      "c": "Square Grab Bar 18\"",
+      "f": "BATH"
+    },
+    "G-9636": {
+      "c": "Square Grab Bar 36\"",
+      "f": "BATH"
+    },
+    "G-9642": {
+      "c": "Square Grab Bar 42\"",
+      "f": "BATH"
+    },
+    "G-9718": {
+      "c": "Traditional Grab Bar 18\"",
+      "f": "BATH"
+    },
+    "G-9736": {
+      "c": "Traditional Grab Bar 36\"",
+      "f": "BATH"
+    },
+    "G-9742": {
+      "c": "Traditional Grab Bar 42\"",
+      "f": "BATH"
+    },
+    "G-9818": {
+      "c": "Finezza UNO Grab Bar 18\"",
+      "f": "BATH"
+    },
+    "G-9836": {
+      "c": "Finezza UNO Grab Bar 36\"",
+      "f": "BATH"
+    },
+    "G-9842": {
+      "c": "Finezza UNO Grab Bar 42\"",
+      "f": "BATH"
+    }
+  },
+  "acc_index": {}
+}

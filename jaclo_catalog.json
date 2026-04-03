@@ -1,0 +1,37 @@
+{
+  "sku_lookup": {
+    "1": {
+      "c": "READ ME",
+      "fc": ""
+    },
+    "2": {
+      "c": "ALL PRODUCTS",
+      "fc": "Contains ALL SKUs"
+    },
+    "3": {
+      "c": "GENERAL",
+      "fc": "Contains  SKUs that do not fit into the following categories: DECSPEC, SPA"
+    },
+    "4": {
+      "c": "DECSPEC",
+      "fc": "Contains SKUs from the DECSPEC category"
+    },
+    "5": {
+      "c": "SPA",
+      "fc": "Contains SKUs from the SPA category"
+    },
+    "6": {
+      "c": "NEW PARTS",
+      "fc": "Contains only New SKUs added since March, 30th 2022 (Our last pricing update)."
+    },
+    "7": {
+      "c": "DISCONTINUED PRODUCTS",
+      "fc": "Contains Discontinued SKUs, please remove them from your system."
+    },
+    "TAB NUMBER": {
+      "c": "TAB",
+      "fc": "CONTENTS"
+    }
+  },
+  "acc_index": {}
+}
