@@ -1,359 +1,2422 @@
 {
   "sku_lookup": {
-    "SKU": {
-      "fc": "Product Name"
-    },
-    "F2-HS-KF-MX-SP-SSM": {
-      "fc": "F2 HS Three-hole Stainless Steel Kitchen Faucet with Side-spray - SS Matte"
-    },
-    "F2-HS-KF-MX-SP-SSP": {
-      "fc": "F2 HS Three-hole Stainless Steel Kitchen Faucet with Side-spray - SS Polished"
-    },
-    "F2-HS-KF-MX-SP-SSMB": {
-      "fc": "F2 HS Three-hole Stainless Steel Kitchen Faucet with Side-spray - SS Matte Black PVD"
-    },
-    "F2-HS-KF-MX-SP-SSMGL": {
-      "fc": "F2 HS Three-hole Stainless Steel Kitchen Faucet with Side-spray - SS Matte Gilded PVD"
-    },
-    "F2-HS-KF-MX-SP-SSMBR": {
-      "fc": "F2 HS Three-hole Stainless Steel Kitchen Faucet with Side-spray - SS Matte Bronze PVD"
-    },
-    "F2-HS-KF-MX-SP-SSMT": {
-      "fc": "F2 HS Three-hole Stainless Steel Kitchen Faucet with Side-spray - SS Matte Titanium PVD"
-    },
-    "VE-VD-KF-SSM": {
-      "fc": "Vela SD Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte"
-    },
-    "VE-VD-KF-SSP": {
-      "fc": "Vela SD Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Polished"
-    },
-    "VE-VD-KF-SSMB": {
-      "fc": "Vela SD Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte Black PVD"
-    },
-    "VE-VD-KF-SSMGL": {
-      "fc": "Vela SD Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte Gilded PVD"
-    },
-    "VE-VD-KF-SSMBR": {
-      "fc": "Vela SD Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte Bronze PVD"
-    },
-    "VE-VD-KF-SSMT": {
-      "fc": "Vela SD Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte Titanium PVD"
-    },
-    "VE-VD-KF-SSMG": {
-      "fc": "Vela SD Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte Gold PVD"
-    },
-    "SP-HD-KF-SSM": {
-      "fc": "Spin HD Single-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte"
-    },
-    "SP-HD-KF-SSP": {
-      "fc": "Spin HD Single-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Polished"
-    },
-    "SP-HD-KF-SSMB": {
-      "fc": "Spin HD Single-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte Black PVD"
-    },
-    "SP-HD-KF-SSMGL": {
-      "fc": "Spin HD Single-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte Gilded PVD"
-    },
-    "SP-HD-KF-SSMBR": {
-      "fc": "Spin HD Single-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte Bronze PVD"
-    },
-    "SP-HD-KF-SSMT": {
-      "fc": "Spin HD Single-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte Titanium PVD"
-    },
-    "SP-HD-KF-SSMG": {
-      "fc": "Spin HD Single-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte Gold PVD"
-    },
-    "SP-VD-KF-SSM": {
-      "fc": "Spin D Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte"
-    },
-    "SP-VD-KF-SSP": {
-      "fc": "Spin D Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Polished"
-    },
-    "SP-VD-KF-SSMB": {
-      "fc": "Spin D Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte Black PVD"
-    },
-    "SP-VD-KF-SSMGL": {
-      "fc": "Spin D Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte Gilded PVD"
-    },
-    "SP-VD-KF-SSMBR": {
-      "fc": "Spin D Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte Bronze PVD"
-    },
-    "SP-VD-KF-SSMT": {
-      "fc": "Spin D Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte Titanium PVD"
-    },
-    "SP-VD-KF-SSMG": {
-      "fc": "Spin D Single-hole Stainless Steel Kitchen Faucet with Pull-down Dual spray - SS Matte Gold PVD"
-    },
-    "SP-VD-BF-SSM": {
-      "fc": "Spin DB Single-hole Stainless Steel Bar Faucet with Pull-down Dual spray - SS Matte"
-    },
-    "SP-VD-BF-SSP": {
-      "fc": "Spin DB Single-hole Stainless Steel Bar Faucet with Pull-down Dual spray - SS Polished"
-    },
-    "SP-VD-BF-SSMB": {
-      "fc": "Spin DB Single-hole Stainless Steel Bar Faucet with Pull-down Dual spray - SS Matte Black PVD"
-    },
-    "SP-VD-BF-SSMGL": {
-      "fc": "Spin DB Single-hole Stainless Steel Bar Faucet with Pull-down Dual spray - SS Matte Gilded PVD"
-    },
-    "SP-VD-BF-SSMBR": {
-      "fc": "Spin DB Single-hole Stainless Steel Bar Faucet with Pull-down Dual spray - SS Matte Bronze PVD"
-    },
-    "SP-VD-BF-SSMT": {
-      "fc": "Spin DB Single-hole Stainless Steel Bar Faucet with Pull-down Dual spray - SS Matte Titanium PVD"
-    },
-    "SP-VS-KFC-SP-SSM": {
-      "fc": "Spin DCS Single-hole Three-way Stainless Steel Kitchen Faucet for Main and Filtered Water with Side Spray - SS Matte"
-    },
-    "SP-VS-KFC-SP-SSP": {
-      "fc": "Spin DCS Single-hole Three-way Stainless Steel Kitchen Faucet for Main and Filtered Water with Side Spray - SS Polished"
-    },
-    "SP-VS-KFC-SP-SSMB": {
-      "fc": "Spin DCS Single-hole Three-way Stainless Steel Kitchen Faucet for Main and Filtered Water with Side Spray - SS Matte Black PVD"
-    },
-    "SP-VS-KFC-SP-SSMGL": {
-      "fc": "Spin DCS Single-hole Three-way Stainless Steel Kitchen Faucet for Main and Filtered Water with Side Spray - SS Matte Gilded PVD"
-    },
-    "SP-VS-KFC-SP-SSMBR": {
-      "fc": "Spin DCS Single-hole Three-way Stainless Steel Kitchen Faucet for Main and Filtered Water with Side Spray - SS Matte Bronze PVD"
-    },
-    "SP-VS-KFC-SP-SSMT": {
-      "fc": "Spin DCS Single-hole Three-way Stainless Steel Kitchen Faucet for Main and Filtered Water with Side Spray - SS Matte Titanium PVD"
-    },
-    "SP-VS-KFC-SP-SSMG": {
-      "fc": "Spin DCS Single-hole Three-way Stainless Steel Kitchen Faucet for Main and Filtered Water with Side Spray - SS Matte Gold PVD"
-    },
-    "SP-VS-HC-SSM": {
-      "fc": "Spin HC Hot and Cold Stainless Steel Filtered Water Faucet - SS Matte"
-    },
-    "SP-VS-HC-SSP": {
-      "fc": "Spin HC Hot and Cold Stainless Steel Filtered Water Faucet - SS Polished"
-    },
-    "SP-VS-HC-SSMB": {
-      "fc": "Spin HC Hot and Cold Stainless Steel Filtered Water Faucet - SS Matte Black PVD"
-    },
-    "SP-VS-HC-SSMGL": {
-      "fc": "Spin HC Hot and Cold Stainless Steel Filtered Water Faucet - SS Matte Gilded PVD"
-    },
-    "SP-VS-HC-SSMBR": {
-      "fc": "Spin HC Hot and Cold Stainless Steel Filtered Water Faucet - SS Matte Bronze PVD"
-    },
-    "SP-VS-HC-SSMT": {
-      "fc": "Spin HC Hot and Cold Stainless Steel Filtered Water Faucet - SS Matte Titanium PVD"
-    },
-    "SP-VS-HC-SSMG": {
-      "fc": "Spin HC Hot and Cold Stainless Steel Filtered Water Faucet - SS Matte Gold PVD"
-    },
-    "SP-VS-C-SSM": {
-      "fc": "Spin C Stainless Steel Cold Filtered Water Faucet - SS Matte"
-    },
-    "SP-VS-C-SSP": {
-      "fc": "Spin C Stainless Steel Cold Filtered Water Faucet - SS Polished"
-    },
-    "SP-VS-C-SSMB": {
-      "fc": "Spin C Stainless Steel Cold Filtered Water Faucet - SS Matte Black PVD"
-    },
-    "SP-VS-C-SSMGL": {
-      "fc": "Spin C Stainless Steel Cold Filtered Water Faucet - SS Matte Gilded PVD"
-    },
-    "SP-VS-C-SSMBR": {
-      "fc": "Spin C Stainless Steel Cold Filtered Water Faucet - SS Matte Bronze PVD"
-    },
-    "SP-VS-C-SSMT": {
-      "fc": "Spin C Stainless Steel Cold Filtered Water Faucet - SS Matte Titanium PVD"
-    },
-    "SP-VS-C-SSMG": {
-      "fc": "Spin C Stainless Steel Cold Filtered Water Faucet - SS Matte Gold PVD"
-    },
-    "SP-WS-PF-SSM": {
-      "fc": "Spin PF Stainless Steel Pot Filler - SS Matte"
-    },
-    "SP-WS-PF-SSP": {
-      "fc": "Spin PF Stainless Steel Pot Filler - SS Polished"
-    },
-    "SP-WS-PF-SSMB": {
-      "fc": "Spin PF Stainless Steel Pot Filler - SS Matte Black PVD"
-    },
-    "SP-WS-PF-SSMGL": {
-      "fc": "Spin PF Stainless Steel Pot Filler - SS Matte Gilded PVD"
-    },
-    "SP-WS-PF-SSMBR": {
-      "fc": "Spin PF Stainless Steel Pot Filler - SS Matte Bronze PVD"
-    },
-    "SP-WS-PF-SSMT": {
-      "fc": "Spin PF Stainless Steel Pot Filler - SS Matte Titanium PVD"
-    },
-    "SP-WS-PF-SSMG": {
-      "fc": "Spin PF Stainless Steel Pot Filler - SS Matte Gold PVD"
-    },
-    "GE-PF-R": {
-      "fc": "Required Pot Filler Rough-in Valve"
-    },
-    "NE-HD-KF-SSM": {
-      "fc": "Nemo HD Two-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte"
-    },
-    "NE-HD-KF-SSP": {
-      "fc": "Nemo HD Two-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Polished"
-    },
-    "NE-HD-KF-SSMB": {
-      "fc": "Nemo HD Two-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte Black PVD"
-    },
-    "NE-HD-KF-SSMGL": {
-      "fc": "Nemo HD Two-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte Gilded PVD"
-    },
-    "NE-HD-KF-SSMBR": {
-      "fc": "Nemo HD Two-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte Bronze PVD"
-    },
-    "NE-HD-KF-SSMT": {
-      "fc": "Nemo HD Two-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte Titanium PVD"
-    },
-    "NE-HD-KF-SSMG": {
-      "fc": "Nemo HD Two-hole Stainless Steel Kitchen Faucet with Pull-out Dual spray - SS Matte Gold PVD"
-    },
-    "NE-HS-KF-MX-SP-SSM": {
-      "fc": "Nemo RH MXSP Stainless Steel Kitchen Faucet with mixer with side-spray - SS Matte"
-    },
-    "NE-HS-KF-MX-SP-SSP": {
-      "fc": "Nemo RH MXSP Stainless Steel Kitchen Faucet with mixer with side-spray - SS Polished"
-    },
-    "NE-HS-KF-MX-SP-SSMB": {
-      "fc": "Nemo RH MXSP Stainless Steel Kitchen Faucet with mixer with side-spray - SS Matte Black PVD"
-    },
-    "NE-HS-KF-MX-SP-SSMGL": {
-      "fc": "Nemo RH MXSP Stainless Steel Kitchen Faucet with mixer with side-spray - SS Matte Gilded PVD"
-    },
-    "NE-HS-KF-MX-SP-SSMBR": {
-      "fc": "Nemo RH MXSP Stainless Steel Kitchen Faucet with mixer with side-spray - SS Matte Bronze PVD"
-    },
-    "NE-HS-KF-MX-SP-SSMT": {
-      "fc": "Nemo RH MXSP Stainless Steel Kitchen Faucet with mixer with side-spray - SS Matte Titanium PVD"
-    },
-    "NE-HS-KFT-MX-SP-SSM": {
-      "fc": "Nemo RHA MXSP Three-hole Stainless Steel Telescopic Kitchen Faucet with Pull-out Dual Spray - SS Matte"
-    },
-    "NE-HS-KFT-MX-SP-SSMB": {
-      "fc": "Nemo RHA MXSP Three-hole Stainless Steel Telescopic Kitchen Faucet with Pull-out Dual Spray - SS Matte Black PVD"
-    },
-    "NE-HS-KFT-MX-SP-SSMGL": {
-      "fc": "Nemo RHA MXSP Three-hole Stainless Steel Telescopic Kitchen Faucet with Pull-out Dual Spray - SS Matte Gilded PVD"
-    },
-    "NE-HS-KFT-MX-SP-SSMBR": {
-      "fc": "Nemo RHA MXSP Three-hole Stainless Steel Telescopic Kitchen Faucet with Pull-out Dual Spray - SS Matte Bronze PVD"
-    },
-    "NE-HS-KFT-MX-SP-SSMT": {
-      "fc": "Nemo RHA MXSP Three-hole Stainless Steel Telescopic Kitchen Faucet with Pull-out Dual Spray - SS Matte Titanium PVD"
-    },
-    "NE-HS-EF-SSM": {
-      "fc": "Nemo RH Stainless Steel Entertainment Faucet - SS Matte"
-    },
-    "NE-HS-EF-SSP": {
-      "fc": "Nemo RH Stainless Steel Entertainment Faucet - SS Polished"
-    },
-    "NE-HS-EF-SSMB": {
-      "fc": "Nemo RH Stainless Steel Entertainment Faucet - SS Matte Black PVD"
-    },
-    "NE-HS-EF-SSMGL": {
-      "fc": "Nemo RH Stainless Steel Entertainment Faucet - SS Matte Gilded PVD"
-    },
-    "NE-HS-EF-SSMBR": {
-      "fc": "Nemo RH Stainless Steel Entertainment Faucet - SS Matte Bronze PVD"
-    },
-    "NE-HS-EF-SSMT": {
-      "fc": "Nemo RH Stainless Steel Entertainment Faucet - SS Matte Titanium PVD"
-    },
-    "NE-HS-EF-SSMG": {
-      "fc": "Nemo RH Stainless Steel Entertainment Faucet - SS Matte Gold PVD"
-    },
-    "NE-HS-EFT-SSM": {
-      "fc": "Nemo RHA Stainless Steel Telescopic Single Lever Mixer - SS Matte"
-    },
-    "NE-HS-EFT-SSMB": {
-      "fc": "Nemo RHA Stainless Steel Telescopic Single Lever Mixer - SS Matte Black PVD"
-    },
-    "NE-HS-EFT-SSMGL": {
-      "fc": "Nemo RHA Stainless Steel Telescopic Single Lever Mixer - SS Matte Gilded PVD"
-    },
-    "NE-HS-EFT-SSMBR": {
-      "fc": "Nemo RHA Stainless Steel Telescopic Single Lever Mixer - SS Matte Bronze PVD"
-    },
-    "NE-HS-EFT-SSMT": {
-      "fc": "Nemo RHA Stainless Steel Telescopic Single Lever Mixer - SS Matte Titanium PVD"
-    },
-    "F2-MX-SP-SSM": {
-      "fc": "F2 MXSP Mixer with Side-spray - SS Matte"
-    },
-    "F2-MX-SP-SSP": {
-      "fc": "F2 MXSP Mixer with Side-spray - SS Polished"
-    },
-    "F2-MX-SP-SSMB": {
-      "fc": "F2 MXSP Mixer with Side-spray - SS Matte Black PVD"
-    },
-    "F2-MX-SP-SSMGL": {
-      "fc": "F2 MXSP Mixer with Side-spray - SS Matte Gilded PVD"
-    },
-    "F2-MX-SP-SSMBR": {
-      "fc": "F2 MXSP Mixer with Side-spray - SS Matte Bronze PVD"
-    },
-    "F2-MX-SP-SSMT": {
-      "fc": "F2 MXSP Mixer with Side-spray - SS Matte Titanium PVD"
-    },
-    "GE-SD-SSM": {
-      "fc": "Soap Dispenser - SS Matte"
-    },
-    "GE-SD-SSP": {
-      "fc": "Soap Dispenser - SS Polished"
-    },
-    "GE-SD-SSMB": {
-      "fc": "Soap Dispenser - SS Matte Black PVD"
-    },
-    "GE-SD-SSMGL": {
-      "fc": "Soap Dispenser - SS Matte Gilded PVD"
-    },
-    "GE-SD-SSMBR": {
-      "fc": "Soap Dispenser - SS Matte Bronze PVD"
-    },
-    "GE-SD-SSMT": {
-      "fc": "Soap Dispenser - SS Matte Titanium PVD"
-    },
-    "GE-AS-SSM": {
-      "fc": "Air Switch - SS Matte"
-    },
-    "GE-AS-SSP": {
-      "fc": "Air Switch - SS Polished"
-    },
-    "GE-AS-SSMB": {
-      "fc": "Air Switch - SS Matte Black PVD"
-    },
-    "GE-AS-SSMGL": {
-      "fc": "Air Switch - SS Matte Gilded PVD"
-    },
-    "GE-AS-SSMBR": {
-      "fc": "Air Switch - SS Matte Bronze PVD"
-    },
-    "GE-AS-SSMT": {
-      "fc": "Air Switch - SS Matte Titanium PVD"
-    },
-    "GE-AG-SSM": {
-      "fc": "Air Gap - SS Matte"
-    },
-    "GE-AG-SSP": {
-      "fc": "Air Gap - SS Polished"
-    },
-    "GE-AG-SSMB": {
-      "fc": "Air Gap - SS Matte Black PVD"
-    },
-    "GE-AG-SSMGL": {
-      "fc": "Air Gap - SS Matte Gilded PVD"
-    },
-    "GE-AG-SSMBR": {
-      "fc": "Air Gap - SS Matte Bronze PVD"
-    },
-    "GE-AG-SSMT": {
-      "fc": "Air Gap - SS Matte Titanium PVD"
-    },
-    "GE-AG-SSMG": {
-      "fc": "Air Gap - SS Matte Gold PVD"
+    "MB289-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB289-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB289-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB289-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB289-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB289-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB289-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB262-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB262-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB262-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB262-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB262-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB262-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB262-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB294T-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB294T-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB294T-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB294T-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB294T-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB294T-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB295T-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte*"
+    },
+    "MB295T-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished*"
+    },
+    "MB295T-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD*"
+    },
+    "MB295T-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD*"
+    },
+    "MB295T-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB295T-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "SX2PEC-352-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "SX1PEC-352-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "SX4PEC-352-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "SXCPEC-352-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "SX3PEC-352-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "SX8PEC-352-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB266-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB266-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB266-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB266-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB266-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB266-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB266-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB278TN-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB278TN-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB278TN-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB278TN-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB278TN-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB278TN-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB247TN-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte*"
+    },
+    "MB247TN-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished*"
+    },
+    "MB247TN-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD*"
+    },
+    "MB247TN-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD*"
+    },
+    "MB247TN-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB247TN-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB439N-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB439N-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB439N-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB439N-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB439N-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB439N-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB439N-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB440N-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB440N-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB440N-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB440N-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB440N-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB440N-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB440N-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB449N-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB449N-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB449N-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB449N-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB449N-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB449N-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB449N-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB443N-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB443N-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB443N-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB443N-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB443N-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB443N-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB443N-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB444N-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB444N-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB444N-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB444N-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB444N-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB444N-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB444N-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB446N-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB446N-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB446N-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB446N-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB446N-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB446N-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB446N-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB704-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB704-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB704-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB704-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB704-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB704-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB704-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB455-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB455-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB455-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB455-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB455-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB455-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB455-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB456-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB456-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB456-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB456-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB456-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB456-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB456-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "MB519-SSM": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte"
+    },
+    "MB519-SSP": {
+      "c": "Minimal",
+      "f": "Stainless Steel Polished"
+    },
+    "MB519-SSMB": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "MB519-SSMGL": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "MB519-SSMBR": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "MB519-SSMT": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "MB519-SSMG": {
+      "c": "Minimal",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "PE262-SSM": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte"
+    },
+    "PE262-SSP": {
+      "c": "Penta",
+      "f": "Stainless Steel Polished"
+    },
+    "PE262-SSMB": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "PE262-SSMGL": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "PE262-SSMBR": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "PE262-SSMT": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "PE262-SSMG": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "PE284-SSM": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte"
+    },
+    "PE284-SSP": {
+      "c": "Penta",
+      "f": "Stainless Steel Polished"
+    },
+    "PE284-SSMB": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "PE284-SSMGL": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "PE284-SSMBR": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "PE284-SSMT": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "PE294T-SSM": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte"
+    },
+    "PE294T-SSP": {
+      "c": "Penta",
+      "f": "Stainless Steel Polished"
+    },
+    "PE294T-SSMB": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "PE294T-SSMGL": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "PE294T-SSMBR": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "PE294T-SSMT": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "PE294T-SSMG": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "PE295T-SSM": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte*"
+    },
+    "PE295T-SSP": {
+      "c": "Penta",
+      "f": "Stainless Steel Polished*"
+    },
+    "PE295T-SSMB": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Black PVD*"
+    },
+    "PE295T-SSMGL": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gilded PVD*"
+    },
+    "PE295T-SSMBR": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "PE295T-SSMT": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "PE444-SSM": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte"
+    },
+    "PE444-SSP": {
+      "c": "Penta",
+      "f": "Stainless Steel Polished"
+    },
+    "PE444-SSMB": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "PE444-SSMGL": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "PE444-SSMBR": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "PE444-SSMT": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "PE446-SSM": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte"
+    },
+    "PE446-SSP": {
+      "c": "Penta",
+      "f": "Stainless Steel Polished"
+    },
+    "PE446-SSMB": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "PE446-SSMGL": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "PE446-SSMBR": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "PE446-SSMT": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "PE704-SSM": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte"
+    },
+    "PE704-SSP": {
+      "c": "Penta",
+      "f": "Stainless Steel Polished"
+    },
+    "PE704-SSMB": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "PE704-SSMGL": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "PE704-SSMBR": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "PE704-SSMT": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "PE704-SSMG": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "PE455-SSM": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte"
+    },
+    "PE455-SSP": {
+      "c": "Penta",
+      "f": "Stainless Steel Polished"
+    },
+    "PE455-SSMB": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "PE455-SSMGL": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "PE455-SSMBR": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "PE455-SSMT": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "PE455-SSMG": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "PE456-SSM": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte"
+    },
+    "PE456-SSP": {
+      "c": "Penta",
+      "f": "Stainless Steel Polished"
+    },
+    "PE456-SSMB": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "PE456-SSMGL": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "PE456-SSMBR": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "PE456-SSMT": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "PE456-SSMG": {
+      "c": "Penta",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "CB401-SSM": {
+      "c": "Outdoor",
+      "f": "Stainless Steel Matte"
+    },
+    "CB401-SSP": {
+      "c": "Outdoor",
+      "f": "Stainless Steel Polished"
+    },
+    "CB447-SSM": {
+      "c": "Outdoor",
+      "f": "Stainless Steel Matte*"
+    },
+    "CB447-SSP": {
+      "c": "Outdoor",
+      "f": "Stainless Steel Polished*"
+    },
+    "ER458-SSM": {
+      "c": "Outdoor",
+      "f": "Stainless Steel Matte"
+    },
+    "ER458-SSP": {
+      "c": "Outdoor",
+      "f": "Stainless Steel Polished"
+    },
+    "SO625-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "SO625-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "SO625-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD*"
+    },
+    "SO625-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD*"
+    },
+    "SO625-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "SO625-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "SO614-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte*"
+    },
+    "SO614-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished*"
+    },
+    "SO614-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD*"
+    },
+    "SO614-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD*"
+    },
+    "SO614-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "SO614-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "SO626-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte*"
+    },
+    "SO626-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished*"
+    },
+    "SO626-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD*"
+    },
+    "SO626-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD*"
+    },
+    "SO626-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "SO626-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "SO604-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "SO604-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "SO624-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "SO624-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "SO624-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "SO624-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "SO624-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "SO624-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "SO624-SSMG": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "SO630-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "SO630-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "SO630-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "SO630-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "SO630-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "SO630-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "SO629-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "SO629-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "SO629-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "SO629-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "SO629-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "SO629-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "SO629-SSMG": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC987-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC987-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC987-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC987-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC987-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC987-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC870-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC870-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC870-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC870-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC870-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC870-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC973-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC973-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC973-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC973-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC973-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC973-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC988-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC988-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC988-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC988-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC988-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC988-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "SO631-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "SO631-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "SO631-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "SO631-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "SO631-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "SO631-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "SO600-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "SO600-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "SO600-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "SO600-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "SO600-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "SO600-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC924-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC924-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC922-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC922-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC922-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC922-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC922-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC922-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC920-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC920-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC920-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC920-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC920-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC920-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC952-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC952-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC952-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC952-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC952-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC952-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC956-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC956-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC956-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC956-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC956-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC956-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC956-SSMG": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC953-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC953-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC953-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC953-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC953-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC953-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC953-SSMG": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC974-SSM": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte"
+    },
+    "AC974-SSP": {
+      "c": "Showering",
+      "f": "Stainless Steel Polished"
+    },
+    "AC974-SSMB": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC974-SSMGL": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC974-SSMBR": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC974-SSMT": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC974-SSMG": {
+      "c": "Showering",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC980T-SSM": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte*"
+    },
+    "AC980T-SSP": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Polished*"
+    },
+    "AC980T-SSMB": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Black PVD*"
+    },
+    "AC980T-SSMGL": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Gilded PVD*"
+    },
+    "AC980T-SSMBR": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC980T-SSMT": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC980T-SSMG": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC982T-SSM": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte*"
+    },
+    "AC982T-SSP": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Polished*"
+    },
+    "AC982T-SSMB": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Black PVD*"
+    },
+    "AC982T-SSMGL": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Gilded PVD*"
+    },
+    "AC982T-SSMBR": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC982T-SSMT": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC977-SSM": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte"
+    },
+    "AC977-SSP": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Polished"
+    },
+    "AC977-SSMB": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC977-SSMGL": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC977-SSMBR": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC977-SSMT": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC977-SSMG": {
+      "c": "Tub Spouts",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC918-SSM": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte"
+    },
+    "AC918-SSP": {
+      "c": "Accessories",
+      "f": "Stainless Steel Polished"
+    },
+    "AC918-SSMB": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC918-SSMGL": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC918-SSMBR": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC918-SSMT": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC917-SSMG": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC938-SSM": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte"
+    },
+    "AC938-SSP": {
+      "c": "Accessories",
+      "f": "Stainless Steel Polished"
+    },
+    "AC938-SSMB": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC938-SSMGL": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC938-SSMBR": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC938-SSMT": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC938-SSMG": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC937-SSM": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte"
+    },
+    "AC937-SSP": {
+      "c": "Accessories",
+      "f": "Stainless Steel Polished"
+    },
+    "AC937-SSMB": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC937-SSMGL": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC937-SSMBR": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC937-SSMT": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC937-SSMG": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC943-SSM": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte"
+    },
+    "AC943-SSP": {
+      "c": "Accessories",
+      "f": "Stainless Steel Polished"
+    },
+    "AC943-SSMB": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC943-SSMGL": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC943-SSMBR": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC943-SSMT": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC943-SSMG": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC951-SSM": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte"
+    },
+    "AC951-SSP": {
+      "c": "Accessories",
+      "f": "Stainless Steel Polished"
+    },
+    "AC951-SSMB": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC951-SSMGL": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC951-SSMBR": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC951-SSMT": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC951-SSMG": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC957-SSM": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte"
+    },
+    "AC957-SSP": {
+      "c": "Accessories",
+      "f": "Stainless Steel Polished"
+    },
+    "AC957-SSMB": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC957-SSMGL": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC957-SSMBR": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC957-SSMT": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC957-SSMG": {
+      "c": "Accessories",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "AC990-SSM": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte"
+    },
+    "AC990-SSP": {
+      "c": "Drains",
+      "f": "Stainless Steel Polished"
+    },
+    "AC990-SSMB": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC990-SSMGL": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC990-SSMBR": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC990-SSMT": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC991-SSM": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte"
+    },
+    "AC991-SSMB": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte Black PVD"
+    },
+    "AC991-SSMGL": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte Gilded PVD"
+    },
+    "AC991-SSMBR": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte Bronze PVD*"
+    },
+    "AC991-SSMT": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte Titanium PVD*"
+    },
+    "AC991-SSMG": {
+      "c": "Drains",
+      "f": "Stainless Steel Matte Gold PVD†"
+    },
+    "SV9INC-219-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "SV9INC-220-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "SV9INC-223-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "SV9INC-224-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "SV9INC-229-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "SV9INC-275-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "SV9INC-276-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "SV9INC-311-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "SV9INC-312-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "SV9KPI-357": {
+      "c": "Roughs",
+      "f": "19/32\" (15 mm)"
+    },
+    "SV9KPM-226": {
+      "c": "Roughs",
+      "f": "1-3/8\" (35 mm)"
+    },
+    "SV9KPM-227": {
+      "c": "Roughs",
+      "f": "1-3/8\" (35 mm)"
+    },
+    "SV9KPM-228": {
+      "c": "Roughs",
+      "f": "1-3/8\" (35 mm)"
+    },
+    "SV9KPM-233": {
+      "c": "Roughs",
+      "f": "1-3/8\" (35 mm)"
+    },
+    "SV9KPM-318": {
+      "c": "Roughs",
+      "f": "1-3/8\" (35 mm)"
+    },
+    "SV9KPM-353-US": {
+      "c": "Roughs",
+      "f": "19/32\" (15 mm)"
+    },
+    "SV9KPM-354-US": {
+      "c": "Roughs",
+      "f": "19/32\" (15 mm)"
+    },
+    "SV9KPM-355-US": {
+      "c": "Roughs",
+      "f": "19/32\" (15 mm)"
+    },
+    "SV9KPM-356-US": {
+      "c": "Roughs",
+      "f": "19/32\" (15 mm)"
+    },
+    "SV9KPM-372-US": {
+      "c": "Roughs",
+      "f": "19/32\" (15 mm)"
+    },
+    "SV9KPR-254-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "X29-936-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "X29-1059-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "X39-1022-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "X49-1093-US": {
+      "c": "Roughs",
+      "f": ""
+    },
+    "X69-1082-US": {
+      "c": "Roughs",
+      "f": "Mixer on the right"
+    },
+    "X69-1082-US-L": {
+      "c": "Roughs",
+      "f": "Mixer on the left"
+    },
+    "X89-1115-US": {
+      "c": "Roughs",
+      "f": ""
     }
   },
-  "acc_index": {}
+  "acc_index": {
+    "Showering|Stainless Steel Matte": [
+      {
+        "sku": "SO625-SSM",
+        "desc": "SO625 Stainless Steel Ceiling-mount Waterfall Shower Head - SS Matte - SS Matte",
+        "price": 7340
+      },
+      {
+        "sku": "SO604-SSM",
+        "desc": "SO604 Stainless Steel Wall-mount Rain Waterfall Shower Head - SS Matte",
+        "price": 3450
+      },
+      {
+        "sku": "SO624-SSM",
+        "desc": "SO624 Stainless Steel Wall-mount Rain Waterfall Shower Head - SS Matte",
+        "price": 1600
+      },
+      {
+        "sku": "SO630-SSM",
+        "desc": "SO630 11-3/4\" Stainless Steel Rain Shower Head - SS Matte",
+        "price": 1750
+      },
+      {
+        "sku": "SO629-SSM",
+        "desc": "SO629 7-7/8\" Stainless Steel Rain Shower Head - SS Matte",
+        "price": 960
+      },
+      {
+        "sku": "AC987-SSM",
+        "desc": "AC987 5-7/8\" Stainless Steel Ceiling-mount Shower Arm - SS Matte",
+        "price": 690
+      },
+      {
+        "sku": "AC870-SSM",
+        "desc": "AC870 3-1/8\" Stainless Steel Ceiling-mount Shower Arm - SS Matte",
+        "price": 570
+      },
+      {
+        "sku": "AC973-SSM",
+        "desc": "AC973 17-1/2\" Wall-mount Shower Arm and Flange - SS Matte",
+        "price": 950
+      },
+      {
+        "sku": "AC988-SSM",
+        "desc": "AC988 18\" Stainless Steel Wall-mounted Shower Head Arm - SS Matte",
+        "price": 690
+      },
+      {
+        "sku": "SO631-SSM",
+        "desc": "SO631 Multi-function Stainless Steel Wall-mounted Shower Head - SS Matte",
+        "price": 3330
+      },
+      {
+        "sku": "SO600-SSM",
+        "desc": "SO600 Stainless Steel Shower Head with Arm and Flange - SS Matte",
+        "price": 890
+      },
+      {
+        "sku": "AC924-SSM",
+        "desc": "AC924 Round Stainless Steel Handshower with Hose - SS Matte",
+        "price": 770
+      },
+      {
+        "sku": "AC922-SSM",
+        "desc": "AC922 Double Pen Stainless Steel Handshower with Hose - SS Matte",
+        "price": 770
+      },
+      {
+        "sku": "AC920-SSM",
+        "desc": "AC920 Short Pen Stainless Steel Handshower with Hose - SS Matte",
+        "price": 520
+      },
+      {
+        "sku": "AC952-SSM",
+        "desc": "AC952 Stainless Steel Wall Outlet with Bracket - SS Matte",
+        "price": 580
+      },
+      {
+        "sku": "AC956-SSM",
+        "desc": "AC956 Stainless Steel Handshower Holder Sleeve - SS Matte",
+        "price": 430
+      },
+      {
+        "sku": "AC953-SSM",
+        "desc": "AC953 Stainless Steel Handshower Rail - SS Matte",
+        "price": 1010
+      },
+      {
+        "sku": "AC974-SSM",
+        "desc": "AC974 Stainless Steel Wall Outlet - SS Matte",
+        "price": 540
+      }
+    ],
+    "Showering|Stainless Steel Polished": [
+      {
+        "sku": "SO625-SSP",
+        "desc": "SO625 Stainless Steel Ceiling-mount Waterfall Shower Head - SS Polished",
+        "price": 8070
+      },
+      {
+        "sku": "SO604-SSP",
+        "desc": "SO604 Stainless Steel Wall-mount Rain Waterfall Shower Head - SS Polished",
+        "price": 3700
+      },
+      {
+        "sku": "SO624-SSP",
+        "desc": "SO624 Stainless Steel Wall-mount Rain Waterfall Shower Head - SS Polished",
+        "price": 1630
+      },
+      {
+        "sku": "SO630-SSP",
+        "desc": "SO630 11-3/4\" Stainless Steel Rain Shower Head - SS Polished",
+        "price": 1870
+      },
+      {
+        "sku": "SO629-SSP",
+        "desc": "SO629 7-7/8\" Stainless Steel Rain Shower Head - SS Polished",
+        "price": 1010
+      },
+      {
+        "sku": "AC987-SSP",
+        "desc": "AC987 5-7/8\" Stainless Steel Ceiling-mount Shower Arm - SS Polished",
+        "price": 770
+      },
+      {
+        "sku": "AC870-SSP",
+        "desc": "AC870 3-1/8\" Stainless Steel Ceiling-mount Shower Arm - SS Polished",
+        "price": 610
+      },
+      {
+        "sku": "AC973-SSP",
+        "desc": "AC973 17-1/2\" Wall-mount Shower Arm and Flange - SS Polished",
+        "price": 990
+      },
+      {
+        "sku": "AC988-SSP",
+        "desc": "AC988 18\" Stainless Steel Wall-mounted Shower Head Arm - SS Polished",
+        "price": 770
+      },
+      {
+        "sku": "SO631-SSP",
+        "desc": "SO631 Multi-function Stainless Steel Wall-mounted Shower Head - SS Polished",
+        "price": 3750
+      },
+      {
+        "sku": "SO600-SSP",
+        "desc": "SO600 Stainless Steel Shower Head with Arm and Flange - SS Polished",
+        "price": 960
+      },
+      {
+        "sku": "AC924-SSP",
+        "desc": "AC924 Round Stainless Steel Handshower with Hose - SS Polished",
+        "price": 840
+      },
+      {
+        "sku": "AC922-SSP",
+        "desc": "AC922 Double Pen Stainless Steel Handshower with Hose - SS Polished",
+        "price": 840
+      },
+      {
+        "sku": "AC920-SSP",
+        "desc": "AC920 Short Pen Stainless Steel Handshower with Hose - SS Polished",
+        "price": 560
+      },
+      {
+        "sku": "AC952-SSP",
+        "desc": "AC952 Stainless Steel Wall Outlet with Bracket - SS Polished",
+        "price": 640
+      },
+      {
+        "sku": "AC956-SSP",
+        "desc": "AC956 Stainless Steel Handshower Holder Sleeve - SS Polished",
+        "price": 450
+      },
+      {
+        "sku": "AC953-SSP",
+        "desc": "AC953 Stainless Steel Handshower Rail - SS Polished",
+        "price": 1090
+      },
+      {
+        "sku": "AC974-SSP",
+        "desc": "AC974 Stainless Steel Wall Outlet - SS Polished",
+        "price": 580
+      }
+    ],
+    "Showering|Stainless Steel Matte Black PVD*": [
+      {
+        "sku": "SO625-SSMB",
+        "desc": "SO625 Stainless Steel Ceiling-mount Waterfall Shower Head - SS Matte Black PVD",
+        "price": 12630
+      },
+      {
+        "sku": "SO614-SSMB",
+        "desc": "SO614 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Matte Black PVD",
+        "price": 9490
+      },
+      {
+        "sku": "SO626-SSMB",
+        "desc": "SO626 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Matte Black PVD",
+        "price": 10370
+      }
+    ],
+    "Showering|Stainless Steel Matte Gilded PVD*": [
+      {
+        "sku": "SO625-SSMGL",
+        "desc": "SO625 Stainless Steel Ceiling-mount Waterfall Shower Head - SS Matte Gilded PVD",
+        "price": 12630
+      },
+      {
+        "sku": "SO614-SSMGL",
+        "desc": "SO614 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Matte Gilded PVD",
+        "price": 9490
+      },
+      {
+        "sku": "SO626-SSMGL",
+        "desc": "SO626 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Matte Gilded PVD",
+        "price": 10370
+      }
+    ],
+    "Showering|Stainless Steel Matte Bronze PVD*": [
+      {
+        "sku": "SO625-SSMBR",
+        "desc": "SO625 Stainless Steel Ceiling-mount Waterfall Shower Head - SS Matte Bronze PVD",
+        "price": 12630
+      },
+      {
+        "sku": "SO614-SSMBR",
+        "desc": "SO614 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Matte Bronze PVD",
+        "price": 9490
+      },
+      {
+        "sku": "SO626-SSMBR",
+        "desc": "SO626 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Matte Bronze PVD",
+        "price": 10370
+      },
+      {
+        "sku": "SO624-SSMBR",
+        "desc": "SO624 Stainless Steel Wall-mount Rain Waterfall Shower Head - SS Matte Bronze PVD",
+        "price": 3210
+      },
+      {
+        "sku": "SO630-SSMBR",
+        "desc": "SO630 11-3/4\" Stainless Steel Rain Shower Head - SS Matte Bronze PVD",
+        "price": 2810
+      },
+      {
+        "sku": "SO629-SSMBR",
+        "desc": "SO629 7-7/8\" Stainless Steel Rain Shower Head - SS Matte Bronze PVD",
+        "price": 1640
+      },
+      {
+        "sku": "AC987-SSMBR",
+        "desc": "AC987 5-7/8\" Stainless Steel Ceiling-mount Shower Arm - SS Matte Bronze PVD",
+        "price": 1280
+      },
+      {
+        "sku": "AC870-SSMBR",
+        "desc": "AC870 3-1/8\" Stainless Steel Ceiling-mount Shower Arm - SS Matte Bronze PVD",
+        "price": 890
+      },
+      {
+        "sku": "AC973-SSMBR",
+        "desc": "AC973 17-1/2\" Wall-mount Shower Arm and Flange - SS Matte Bronze PVD",
+        "price": 1880
+      },
+      {
+        "sku": "AC988-SSMBR",
+        "desc": "AC988 18\" Stainless Steel Wall-mounted Shower Head Arm - SS Matte Bronze PVD",
+        "price": 1200
+      },
+      {
+        "sku": "SO631-SSMBR",
+        "desc": "SO631 Multi-function Stainless Steel Wall-mounted Shower Head - SS Matte Bronze PVD",
+        "price": 4600
+      },
+      {
+        "sku": "SO600-SSMBR",
+        "desc": "SO600 Stainless Steel Shower Head with Arm and Flange - SS Matte Bronze PVD",
+        "price": 1550
+      },
+      {
+        "sku": "AC922-SSMBR",
+        "desc": "AC922 Double Pen Stainless Steel Handshower with Hose - SS Matte Bronze PVD",
+        "price": 1360
+      },
+      {
+        "sku": "AC920-SSMBR",
+        "desc": "AC920 Short Pen Stainless Steel Handshower with Hose - SS Matte Bronze PVD",
+        "price": 950
+      },
+      {
+        "sku": "AC952-SSMBR",
+        "desc": "AC952 Stainless Steel Wall Outlet with Bracket - SS Matte Bronze PVD",
+        "price": 940
+      },
+      {
+        "sku": "AC956-SSMBR",
+        "desc": "AC956 Stainless Steel Handshower Holder Sleeve - SS Matte Bronze PVD",
+        "price": 880
+      },
+      {
+        "sku": "AC953-SSMBR",
+        "desc": "AC953 Stainless Steel Handshower Rail - SS Matte Bronze PVD",
+        "price": 1800
+      },
+      {
+        "sku": "AC974-SSMBR",
+        "desc": "AC974 Stainless Steel Wall Outlet - SS Matte Bronze PVD",
+        "price": 870
+      }
+    ],
+    "Showering|Stainless Steel Matte Titanium PVD*": [
+      {
+        "sku": "SO625-SSMT",
+        "desc": "SO625 Stainless Steel Ceiling-mount Waterfall Shower Head - SS Matte Titanium PVD",
+        "price": 12630
+      },
+      {
+        "sku": "SO614-SSMT",
+        "desc": "SO614 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Matte Titanium PVD",
+        "price": 9490
+      },
+      {
+        "sku": "SO626-SSMT",
+        "desc": "SO626 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Matte Titanium PVD",
+        "price": 10370
+      },
+      {
+        "sku": "SO624-SSMT",
+        "desc": "SO624 Stainless Steel Wall-mount Rain Waterfall Shower Head - SS Matte Titanium PVD",
+        "price": 3210
+      },
+      {
+        "sku": "SO630-SSMT",
+        "desc": "SO630 11-3/4\" Stainless Steel Rain Shower Head - SS Matte Titanium PVD",
+        "price": 2810
+      },
+      {
+        "sku": "SO629-SSMT",
+        "desc": "SO629 7-7/8\" Stainless Steel Rain Shower Head - SS Matte Titanium PVD",
+        "price": 1640
+      },
+      {
+        "sku": "AC987-SSMT",
+        "desc": "AC987 5-7/8\" Stainless Steel Ceiling-mount Shower Arm - SS Matte Titanium PVD",
+        "price": 1280
+      },
+      {
+        "sku": "AC870-SSMT",
+        "desc": "AC870 3-1/8\" Stainless Steel Ceiling-mount Shower Arm - SS Matte Titanium PVD",
+        "price": 890
+      },
+      {
+        "sku": "AC973-SSMT",
+        "desc": "AC973 17-1/2\" Wall-mount Shower Arm and Flange - SS Matte Titanium PVD",
+        "price": 1880
+      },
+      {
+        "sku": "AC988-SSMT",
+        "desc": "AC988 18\" Stainless Steel Wall-mounted Shower Head Arm - SS Matte Titanium PVD",
+        "price": 1200
+      },
+      {
+        "sku": "SO631-SSMT",
+        "desc": "SO631 Multi-function Stainless Steel Wall-mounted Shower Head - SS Matte Titanium PVD",
+        "price": 4600
+      },
+      {
+        "sku": "SO600-SSMT",
+        "desc": "SO600 Stainless Steel Shower Head with Arm and Flange - SS Matte Titanium PVD",
+        "price": 1550
+      },
+      {
+        "sku": "AC922-SSMT",
+        "desc": "AC922 Double Pen Stainless Steel Handshower with Hose - SS Matte Titanium PVD",
+        "price": 1360
+      },
+      {
+        "sku": "AC920-SSMT",
+        "desc": "AC920 Short Pen Stainless Steel Handshower with Hose - SS Matte Titanium PVD",
+        "price": 950
+      },
+      {
+        "sku": "AC952-SSMT",
+        "desc": "AC952 Stainless Steel Wall Outlet with Bracket - SS Matte Titanium PVD",
+        "price": 940
+      },
+      {
+        "sku": "AC956-SSMT",
+        "desc": "AC956 Stainless Steel Handshower Holder Sleeve - SS Matte Titanium PVD",
+        "price": 880
+      },
+      {
+        "sku": "AC953-SSMT",
+        "desc": "AC953 Stainless Steel Handshower Rail - SS Matte Titanium PVD",
+        "price": 1800
+      },
+      {
+        "sku": "AC974-SSMT",
+        "desc": "AC974 Stainless Steel Wall Outlet - SS Matte Titanium PVD",
+        "price": 870
+      }
+    ],
+    "Showering|Stainless Steel Matte*": [
+      {
+        "sku": "SO614-SSM",
+        "desc": "SO614 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Matte",
+        "price": 5310
+      },
+      {
+        "sku": "SO626-SSM",
+        "desc": "SO626 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Matte",
+        "price": 6580
+      }
+    ],
+    "Showering|Stainless Steel Polished*": [
+      {
+        "sku": "SO614-SSP",
+        "desc": "SO614 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Polished",
+        "price": 5850
+      },
+      {
+        "sku": "SO626-SSP",
+        "desc": "SO626 Stainless Steel Ceiling-mount Rain Waterfall Shower Head - SS Polished",
+        "price": 7240
+      }
+    ],
+    "Showering|Stainless Steel Matte Black PVD": [
+      {
+        "sku": "SO624-SSMB",
+        "desc": "SO624 Stainless Steel Wall-mount Rain Waterfall Shower Head - SS Matte Black PVD",
+        "price": 3210
+      },
+      {
+        "sku": "SO630-SSMB",
+        "desc": "SO630 11-3/4\" Stainless Steel Rain Shower Head - SS Matte Black PVD",
+        "price": 2810
+      },
+      {
+        "sku": "SO629-SSMB",
+        "desc": "SO629 7-7/8\" Stainless Steel Rain Shower Head - SS Matte Black PVD",
+        "price": 1640
+      },
+      {
+        "sku": "AC987-SSMB",
+        "desc": "AC987 5-7/8\" Stainless Steel Ceiling-mount Shower Arm - SS Matte Black PVD",
+        "price": 1280
+      },
+      {
+        "sku": "AC870-SSMB",
+        "desc": "AC870 3-1/8\" Stainless Steel Ceiling-mount Shower Arm - SS Matte Black PVD",
+        "price": 890
+      },
+      {
+        "sku": "AC973-SSMB",
+        "desc": "AC973 17-1/2\" Wall-mount Shower Arm and Flange - SS Matte Black PVD",
+        "price": 1880
+      },
+      {
+        "sku": "AC988-SSMB",
+        "desc": "AC988 18\" Stainless Steel Wall-mounted Shower Head Arm - SS Matte Black PVD",
+        "price": 1200
+      },
+      {
+        "sku": "SO631-SSMB",
+        "desc": "SO631 Multi-function Stainless Steel Wall-mounted Shower Head - SS Matte Black PVD",
+        "price": 4600
+      },
+      {
+        "sku": "SO600-SSMB",
+        "desc": "SO600 Stainless Steel Shower Head with Arm and Flange - SS Matte Black PVD",
+        "price": 1550
+      },
+      {
+        "sku": "AC922-SSMB",
+        "desc": "AC922 Double Pen Stainless Steel Handshower with Hose - SS Matte Black PVD",
+        "price": 1360
+      },
+      {
+        "sku": "AC920-SSMB",
+        "desc": "AC920 Short Pen Stainless Steel Handshower with Hose - SS Matte Black PVD",
+        "price": 950
+      },
+      {
+        "sku": "AC952-SSMB",
+        "desc": "AC952 Stainless Steel Wall Outlet with Bracket - SS Matte Black PVD",
+        "price": 940
+      },
+      {
+        "sku": "AC956-SSMB",
+        "desc": "AC956 Stainless Steel Handshower Holder Sleeve - SS Matte Black PVD",
+        "price": 880
+      },
+      {
+        "sku": "AC953-SSMB",
+        "desc": "AC953 Stainless Steel Handshower Rail - SS Matte Black PVD",
+        "price": 1800
+      },
+      {
+        "sku": "AC974-SSMB",
+        "desc": "AC974 Stainless Steel Wall Outlet - SS Matte Black PVD",
+        "price": 870
+      }
+    ],
+    "Showering|Stainless Steel Matte Gilded PVD": [
+      {
+        "sku": "SO624-SSMGL",
+        "desc": "SO624 Stainless Steel Wall-mount Rain Waterfall Shower Head - SS Matte Gilded PVD",
+        "price": 3210
+      },
+      {
+        "sku": "SO630-SSMGL",
+        "desc": "SO630 11-3/4\" Stainless Steel Rain Shower Head - SS Matte Gilded PVD",
+        "price": 2810
+      },
+      {
+        "sku": "SO629-SSMGL",
+        "desc": "SO629 7-7/8\" Stainless Steel Rain Shower Head - SS Matte Gilded PVD",
+        "price": 1640
+      },
+      {
+        "sku": "AC987-SSMGL",
+        "desc": "AC987 5-7/8\" Stainless Steel Ceiling-mount Shower Arm - SS Matte Gilded PVD",
+        "price": 1280
+      },
+      {
+        "sku": "AC870-SSMGL",
+        "desc": "AC870 3-1/8\" Stainless Steel Ceiling-mount Shower Arm - SS Matte Gilded PVD",
+        "price": 890
+      },
+      {
+        "sku": "AC973-SSMGL",
+        "desc": "AC973 17-1/2\" Wall-mount Shower Arm and Flange - SS Matte Gilded PVD",
+        "price": 1880
+      },
+      {
+        "sku": "AC988-SSMGL",
+        "desc": "AC988 18\" Stainless Steel Wall-mounted Shower Head Arm - SS Matte Gilded PVD",
+        "price": 1200
+      },
+      {
+        "sku": "SO631-SSMGL",
+        "desc": "SO631 Multi-function Stainless Steel Wall-mounted Shower Head - SS Matte Gilded PVD",
+        "price": 4600
+      },
+      {
+        "sku": "SO600-SSMGL",
+        "desc": "SO600 Stainless Steel Shower Head with Arm and Flange - SS Matte Gilded PVD",
+        "price": 1550
+      },
+      {
+        "sku": "AC922-SSMGL",
+        "desc": "AC922 Double Pen Stainless Steel Handshower with Hose - SS Matte Gilded PVD",
+        "price": 1360
+      },
+      {
+        "sku": "AC920-SSMGL",
+        "desc": "AC920 Short Pen Stainless Steel Handshower with Hose - SS Matte Gilded PVD",
+        "price": 950
+      },
+      {
+        "sku": "AC952-SSMGL",
+        "desc": "AC952 Stainless Steel Wall Outlet with Bracket - SS Matte Gilded PVD",
+        "price": 940
+      },
+      {
+        "sku": "AC956-SSMGL",
+        "desc": "AC956 Stainless Steel Handshower Holder Sleeve - SS Matte Gilded PVD",
+        "price": 880
+      },
+      {
+        "sku": "AC953-SSMGL",
+        "desc": "AC953 Stainless Steel Handshower Rail - SS Matte Gilded PVD",
+        "price": 1800
+      },
+      {
+        "sku": "AC974-SSMGL",
+        "desc": "AC974 Stainless Steel Wall Outlet - SS Matte Gilded PVD",
+        "price": 870
+      }
+    ],
+    "Showering|Stainless Steel Matte Gold PVD†": [
+      {
+        "sku": "SO624-SSMG",
+        "desc": "SO624 Stainless Steel Wall-mount Rain Waterfall Shower Head - SS Matte Gold",
+        "price": 2420
+      },
+      {
+        "sku": "SO629-SSMG",
+        "desc": "SO629 7-7/8\" Stainless Steel Rain Shower Head - SS Matte Gold PVD",
+        "price": 1240
+      },
+      {
+        "sku": "AC956-SSMG",
+        "desc": "AC956 Stainless Steel Handshower Holder Sleeve - SS Matte Gold PVD",
+        "price": 660
+      },
+      {
+        "sku": "AC953-SSMG",
+        "desc": "AC953 Stainless Steel Handshower Rail - SS Matte Gold PVD",
+        "price": 1300
+      },
+      {
+        "sku": "AC974-SSMG",
+        "desc": "AC974 Stainless Steel Wall Outlet - SS Matte Gold PVD",
+        "price": 660
+      }
+    ],
+    "Accessories|Stainless Steel Matte": [
+      {
+        "sku": "AC938-SSM",
+        "desc": "AC938 31-1/2\" Stainless Steel Towel Bar - SS Matte",
+        "price": 700
+      },
+      {
+        "sku": "AC937-SSM",
+        "desc": "AC937 17-1/2\" Stainless Steel Towel Bar - SS Matte",
+        "price": 670
+      },
+      {
+        "sku": "AC943-SSM",
+        "desc": "AC943 Stainless Steel Paper Holder with Bracket  - SS Matte",
+        "price": 520
+      },
+      {
+        "sku": "AC951-SSM",
+        "desc": "AC951 Stainless Steel Robe Hook - SS Matte",
+        "price": 140
+      },
+      {
+        "sku": "AC957-SSM",
+        "desc": "AC957 Stainless Steel Robe Hook - SS Matte",
+        "price": 180
+      }
+    ],
+    "Accessories|Stainless Steel Polished": [
+      {
+        "sku": "AC938-SSP",
+        "desc": "AC938 31-1/2\" Stainless Steel Towel Bar - SS Polished",
+        "price": 780
+      },
+      {
+        "sku": "AC937-SSP",
+        "desc": "AC937 17-1/2\" Stainless Steel Towel Bar - SS Polished",
+        "price": 750
+      },
+      {
+        "sku": "AC943-SSP",
+        "desc": "AC943 Stainless Steel Paper Holder with Bracket - SS Polished",
+        "price": 570
+      },
+      {
+        "sku": "AC951-SSP",
+        "desc": "AC951 Stainless Steel Robe Hook - SS Polished",
+        "price": 150
+      },
+      {
+        "sku": "AC957-SSP",
+        "desc": "AC957 Stainless Steel Robe Hook - SS Polished",
+        "price": 190
+      }
+    ],
+    "Accessories|Stainless Steel Matte Black PVD": [
+      {
+        "sku": "AC938-SSMB",
+        "desc": "AC938 31-1/2\" Stainless Steel Towel Bar - SS Matte Black PVD",
+        "price": 1070
+      },
+      {
+        "sku": "AC937-SSMB",
+        "desc": "AC937 17-1/2\" Stainless Steel Towel Bar - SS Matte Black PVD",
+        "price": 1010
+      },
+      {
+        "sku": "AC943-SSMB",
+        "desc": "AC943 Stainless Steel Paper Holder with Bracket - SS Matte Black PVD",
+        "price": 810
+      },
+      {
+        "sku": "AC951-SSMB",
+        "desc": "AC951 Stainless Steel Robe Hook - SS Matte Black PVD",
+        "price": 210
+      },
+      {
+        "sku": "AC957-SSMB",
+        "desc": "AC957 Stainless Steel Robe Hook - SS Matte Black PVD",
+        "price": 260
+      }
+    ],
+    "Accessories|Stainless Steel Matte Gilded PVD": [
+      {
+        "sku": "AC938-SSMGL",
+        "desc": "AC938 31-1/2\" Stainless Steel Towel Bar - SS Matte Gilded PVD",
+        "price": 1070
+      },
+      {
+        "sku": "AC937-SSMGL",
+        "desc": "AC937 17-1/2\" Stainless Steel Towel Bar - SS Matte Gilded PVD",
+        "price": 1010
+      },
+      {
+        "sku": "AC943-SSMGL",
+        "desc": "AC943 Stainless Steel Paper Holder with Bracket - SS Matte Gilded PVD",
+        "price": 810
+      },
+      {
+        "sku": "AC951-SSMGL",
+        "desc": "AC951 Stainless Steel Robe Hook - SS Matte Gilded PVD",
+        "price": 210
+      },
+      {
+        "sku": "AC957-SSMGL",
+        "desc": "AC957 Stainless Steel Robe Hook - SS Matte Gilded PVD",
+        "price": 260
+      }
+    ],
+    "Accessories|Stainless Steel Matte Bronze PVD*": [
+      {
+        "sku": "AC938-SSMBR",
+        "desc": "AC938 31-1/2\" Stainless Steel Towel Bar - SS Matte Bronze PVD",
+        "price": 1070
+      },
+      {
+        "sku": "AC937-SSMBR",
+        "desc": "AC937 17-1/2\" Stainless Steel Towel Bar - SS Matte Bronze PVD",
+        "price": 1010
+      },
+      {
+        "sku": "AC943-SSMBR",
+        "desc": "AC943 Stainless Steel Paper Holder with Bracket - SS Matte Bronze PVD",
+        "price": 810
+      },
+      {
+        "sku": "AC951-SSMBR",
+        "desc": "AC951 Stainless Steel Robe Hook - SS Matte Bronze PVD",
+        "price": 210
+      },
+      {
+        "sku": "AC957-SSMBR",
+        "desc": "AC957 Stainless Steel Robe Hook - SS Matte Bronze PVD",
+        "price": 260
+      }
+    ],
+    "Accessories|Stainless Steel Matte Titanium PVD*": [
+      {
+        "sku": "AC938-SSMT",
+        "desc": "AC938 31-1/2\" Stainless Steel Towel Bar - SS Matte Titanium PVD",
+        "price": 1070
+      },
+      {
+        "sku": "AC937-SSMT",
+        "desc": "AC937 17-1/2\" Stainless Steel Towel Bar - SS Matte Titanium PVD",
+        "price": 1010
+      },
+      {
+        "sku": "AC943-SSMT",
+        "desc": "AC943 Stainless Steel Paper Holder with Bracket - SS Matte Titanium PVD",
+        "price": 810
+      },
+      {
+        "sku": "AC951-SSMT",
+        "desc": "AC951 Stainless Steel Robe Hook - SS Matte Titanium PVD",
+        "price": 210
+      },
+      {
+        "sku": "AC957-SSMT",
+        "desc": "AC957 Stainless Steel Robe Hook - SS Matte Titanium PVD",
+        "price": 260
+      }
+    ],
+    "Accessories|Stainless Steel Matte Gold PVD†": [
+      {
+        "sku": "AC938-SSMG",
+        "desc": "AC938 31-1/2\" Stainless Steel Towel Bar - SS Matte Gold PVD",
+        "price": 810
+      },
+      {
+        "sku": "AC937-SSMG",
+        "desc": "AC937 17-1/2\" Stainless Steel Towel Bar - SS Matte Gold PVD",
+        "price": 770
+      },
+      {
+        "sku": "AC943-SSMG",
+        "desc": "AC943 Stainless Steel Paper Holder with Bracket - SS Matte Gold PVD",
+        "price": 620
+      },
+      {
+        "sku": "AC951-SSMG",
+        "desc": "AC951 Stainless Steel Robe Hook - SS Matte Gold PVD",
+        "price": 170
+      },
+      {
+        "sku": "AC957-SSMG",
+        "desc": "AC957 Stainless Steel Robe Hook - SS Matte Gold PVD",
+        "price": 210
+      }
+    ]
+  }
 }
