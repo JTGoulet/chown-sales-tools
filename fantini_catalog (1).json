@@ -1,0 +1,4536 @@
+{
+  "sku_lookup": {
+    "A004WU-2702": {
+      "af": "AF/21",
+      "fc": "A004WU",
+      "fn": "Chrome"
+    },
+    "A004WU-27P5": {
+      "af": "AF/21",
+      "fc": "A004WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A004WU-27P6": {
+      "af": "AF/21",
+      "fc": "A004WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A004WU-27P9": {
+      "af": "AF/21",
+      "fc": "A004WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A004WU-2793": {
+      "af": "AF/21",
+      "fc": "A004WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A006WU-2702": {
+      "af": "AF/21",
+      "fc": "A006WU",
+      "fn": "Chrome"
+    },
+    "A006WU-27P5": {
+      "af": "AF/21",
+      "fc": "A006WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A006WU-27P6": {
+      "af": "AF/21",
+      "fc": "A006WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A006WU-27P9": {
+      "af": "AF/21",
+      "fc": "A006WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A006WU-2793": {
+      "af": "AF/21",
+      "fc": "A006WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A104WU-2702": {
+      "af": "AF/21",
+      "fc": "A104WU",
+      "fn": "Chrome"
+    },
+    "A104WU-27P5": {
+      "af": "AF/21",
+      "fc": "A104WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A104WU-27P6": {
+      "af": "AF/21",
+      "fc": "A104WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A104WU-27P9": {
+      "af": "AF/21",
+      "fc": "A104WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A104WU-2793": {
+      "af": "AF/21",
+      "fc": "A104WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A107WU-2702": {
+      "af": "AF/21",
+      "fc": "A107WU",
+      "fn": "Chrome"
+    },
+    "A107WU-27P5": {
+      "af": "AF/21",
+      "fc": "A107WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A107WU-27P6": {
+      "af": "AF/21",
+      "fc": "A107WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A107WU-27P9": {
+      "af": "AF/21",
+      "fc": "A107WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A107WU-2793": {
+      "af": "AF/21",
+      "fc": "A107WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A713BU+A713AU-2702": {
+      "af": "AF/21",
+      "fc": "A713BU+A713AU",
+      "fn": "Chrome"
+    },
+    "A713BU+A713AU-27P5": {
+      "af": "AF/21",
+      "fc": "A713BU+A713AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A713BU+A713AU-27P6": {
+      "af": "AF/21",
+      "fc": "A713BU+A713AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A713BU+A713AU-27P9": {
+      "af": "AF/21",
+      "fc": "A713BU+A713AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A713BU+A713AU-2793": {
+      "af": "AF/21",
+      "fc": "A713BU+A713AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A713BU+A713AU-4400": {
+      "af": "AF/21",
+      "fc": "A713BU+A713AU",
+      "fn": "00"
+    },
+    "A713BUCX+A713AU-2702": {
+      "af": "AF/21",
+      "fc": "A713BUCX+A713AU",
+      "fn": "Chrome"
+    },
+    "A713BUCX+A713AU-27P5": {
+      "af": "AF/21",
+      "fc": "A713BUCX+A713AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A713BUCX+A713AU-27P6": {
+      "af": "AF/21",
+      "fc": "A713BUCX+A713AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A713BUCX+A713AU-27P9": {
+      "af": "AF/21",
+      "fc": "A713BUCX+A713AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A713BUCX+A713AU-2793": {
+      "af": "AF/21",
+      "fc": "A713BUCX+A713AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A713BUCX+A713AU-4400": {
+      "af": "AF/21",
+      "fc": "A713BUCX+A713AU",
+      "fn": "00"
+    },
+    "A713BUCY+A713AU-2702": {
+      "af": "AF/21",
+      "fc": "A713BUCY+A713AU",
+      "fn": "Chrome"
+    },
+    "A713BUCY+A713AU-27P5": {
+      "af": "AF/21",
+      "fc": "A713BUCY+A713AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A713BUCY+A713AU-27P6": {
+      "af": "AF/21",
+      "fc": "A713BUCY+A713AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A713BUCY+A713AU-27P9": {
+      "af": "AF/21",
+      "fc": "A713BUCY+A713AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A713BUCY+A713AU-2793": {
+      "af": "AF/21",
+      "fc": "A713BUCY+A713AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A713BUCY+A713AU-4400": {
+      "af": "AF/21",
+      "fc": "A713BUCY+A713AU",
+      "fn": "00"
+    },
+    "A504WU-2702": {
+      "af": "AF/21",
+      "fc": "A504WU",
+      "fn": "Chrome"
+    },
+    "A504WU-27P5": {
+      "af": "AF/21",
+      "fc": "A504WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A504WU-27P6": {
+      "af": "AF/21",
+      "fc": "A504WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A504WU-27P9": {
+      "af": "AF/21",
+      "fc": "A504WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A504WU-2793": {
+      "af": "AF/21",
+      "fc": "A504WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A506WU-2702": {
+      "af": "AF/21",
+      "fc": "A506WU",
+      "fn": "Chrome"
+    },
+    "A506WU-27P5": {
+      "af": "AF/21",
+      "fc": "A506WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A506WU-27P6": {
+      "af": "AF/21",
+      "fc": "A506WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A506WU-27P9": {
+      "af": "AF/21",
+      "fc": "A506WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A506WU-2793": {
+      "af": "AF/21",
+      "fc": "A506WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A704WU-2702": {
+      "af": "AF/21",
+      "fc": "A704WU",
+      "fn": "Chrome"
+    },
+    "A704WU-27P5": {
+      "af": "AF/21",
+      "fc": "A704WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A704WU-27P6": {
+      "af": "AF/21",
+      "fc": "A704WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A704WU-27P9": {
+      "af": "AF/21",
+      "fc": "A704WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A704WU-2793": {
+      "af": "AF/21",
+      "fc": "A704WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A706WU-2702": {
+      "af": "AF/21",
+      "fc": "A706WU",
+      "fn": "Chrome"
+    },
+    "A706WU-27P5": {
+      "af": "AF/21",
+      "fc": "A706WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A706WU-27P6": {
+      "af": "AF/21",
+      "fc": "A706WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A706WU-27P9": {
+      "af": "AF/21",
+      "fc": "A706WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A706WU-2793": {
+      "af": "AF/21",
+      "fc": "A706WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A513BU+A513AU-2702": {
+      "af": "AF/21",
+      "fc": "A513BU+A513AU",
+      "fn": "Chrome"
+    },
+    "A513BU+A513AU-27P5": {
+      "af": "AF/21",
+      "fc": "A513BU+A513AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A513BU+A513AU-27P6": {
+      "af": "AF/21",
+      "fc": "A513BU+A513AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A513BU+A513AU-27P9": {
+      "af": "AF/21",
+      "fc": "A513BU+A513AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A513BU+A513AU-2793": {
+      "af": "AF/21",
+      "fc": "A513BU+A513AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A513BU+A513AU-1700": {
+      "af": "AF/21",
+      "fc": "A513BU+A513AU",
+      "fn": "00"
+    },
+    "A613BU+A613AU-2702": {
+      "af": "AF/21",
+      "fc": "A613BU+A613AU",
+      "fn": "Chrome"
+    },
+    "A613BU+A613AU-27P5": {
+      "af": "AF/21",
+      "fc": "A613BU+A613AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A613BU+A613AU-27P6": {
+      "af": "AF/21",
+      "fc": "A613BU+A613AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A613BU+A613AU-27P9": {
+      "af": "AF/21",
+      "fc": "A613BU+A613AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A613BU+A613AU-2793": {
+      "af": "AF/21",
+      "fc": "A613BU+A613AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A613BU+A613AU-1700": {
+      "af": "AF/21",
+      "fc": "A613BU+A613AU",
+      "fn": "00"
+    },
+    "A736BU+3336AU-2702": {
+      "af": "AF/21",
+      "fc": "A736BU+3336AU",
+      "fn": "Chrome"
+    },
+    "A736BU+3336AU-27P5": {
+      "af": "AF/21",
+      "fc": "A736BU+3336AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A736BU+3336AU-27P6": {
+      "af": "AF/21",
+      "fc": "A736BU+3336AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A736BU+3336AU-27P9": {
+      "af": "AF/21",
+      "fc": "A736BU+3336AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A736BU+3336AU-2793": {
+      "af": "AF/21",
+      "fc": "A736BU+3336AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A736BU+3336AU-1900": {
+      "af": "AF/21",
+      "fc": "A736BU+3336AU",
+      "fn": "00"
+    },
+    "A204WU-2702": {
+      "af": "AF/21",
+      "fc": "A204WU",
+      "fn": "Chrome"
+    },
+    "A204WU-27P5": {
+      "af": "AF/21",
+      "fc": "A204WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A204WU-27P6": {
+      "af": "AF/21",
+      "fc": "A204WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A204WU-27P9": {
+      "af": "AF/21",
+      "fc": "A204WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A204WU-2793": {
+      "af": "AF/21",
+      "fc": "A204WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A204WUCX-2702": {
+      "af": "AF/21",
+      "fc": "A204WUCX",
+      "fn": "Chrome"
+    },
+    "A204WUCX-27P5": {
+      "af": "AF/21",
+      "fc": "A204WUCX",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A204WUCX-27P6": {
+      "af": "AF/21",
+      "fc": "A204WUCX",
+      "fn": "Matte British Gold PVD"
+    },
+    "A204WUCX-27P9": {
+      "af": "AF/21",
+      "fc": "A204WUCX",
+      "fn": "Matte Copper PVD"
+    },
+    "A204WUCX-2793": {
+      "af": "AF/21",
+      "fc": "A204WUCX",
+      "fn": "Brushed Stainless steel"
+    },
+    "A204WUCY-2702": {
+      "af": "AF/21",
+      "fc": "A204WUCY",
+      "fn": "Chrome"
+    },
+    "A204WUCY-27P5": {
+      "af": "AF/21",
+      "fc": "A204WUCY",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A204WUCY-27P6": {
+      "af": "AF/21",
+      "fc": "A204WUCY",
+      "fn": "Matte British Gold PVD"
+    },
+    "A204WUCY-27P9": {
+      "af": "AF/21",
+      "fc": "A204WUCY",
+      "fn": "Matte Copper PVD"
+    },
+    "A204WUCY-2793": {
+      "af": "AF/21",
+      "fc": "A204WUCY",
+      "fn": "Brushed Stainless steel"
+    },
+    "A206WU-2702": {
+      "af": "AF/21",
+      "fc": "A206WU",
+      "fn": "Chrome"
+    },
+    "A206WU-27P5": {
+      "af": "AF/21",
+      "fc": "A206WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A206WU-27P6": {
+      "af": "AF/21",
+      "fc": "A206WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A206WU-27P9": {
+      "af": "AF/21",
+      "fc": "A206WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A206WU-2793": {
+      "af": "AF/21",
+      "fc": "A206WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A206WUCX-2702": {
+      "af": "AF/21",
+      "fc": "A206WUCX",
+      "fn": "Chrome"
+    },
+    "A206WUCX-27P5": {
+      "af": "AF/21",
+      "fc": "A206WUCX",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A206WUCX-27P6": {
+      "af": "AF/21",
+      "fc": "A206WUCX",
+      "fn": "Matte British Gold PVD"
+    },
+    "A206WUCX-27P9": {
+      "af": "AF/21",
+      "fc": "A206WUCX",
+      "fn": "Matte Copper PVD"
+    },
+    "A206WUCX-2793": {
+      "af": "AF/21",
+      "fc": "A206WUCX",
+      "fn": "Brushed Stainless steel"
+    },
+    "A206WUCY-2702": {
+      "af": "AF/21",
+      "fc": "A206WUCY",
+      "fn": "Chrome"
+    },
+    "A206WUCY-27P5": {
+      "af": "AF/21",
+      "fc": "A206WUCY",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A206WUCY-27P6": {
+      "af": "AF/21",
+      "fc": "A206WUCY",
+      "fn": "Matte British Gold PVD"
+    },
+    "A206WUCY-27P9": {
+      "af": "AF/21",
+      "fc": "A206WUCY",
+      "fn": "Matte Copper PVD"
+    },
+    "A206WUCY-2793": {
+      "af": "AF/21",
+      "fc": "A206WUCY",
+      "fn": "Brushed Stainless steel"
+    },
+    "A813BU+R010AU-2702": {
+      "af": "AF/21",
+      "fc": "A813BU+R010AU",
+      "fn": "Chrome"
+    },
+    "A813BU+R010AU-27P5": {
+      "af": "AF/21",
+      "fc": "A813BU+R010AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A813BU+R010AU-27P6": {
+      "af": "AF/21",
+      "fc": "A813BU+R010AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A813BU+R010AU-27P9": {
+      "af": "AF/21",
+      "fc": "A813BU+R010AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A813BU+R010AU-2793": {
+      "af": "AF/21",
+      "fc": "A813BU+R010AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A813BU+R010AU-4400": {
+      "af": "AF/21",
+      "fc": "A813BU+R010AU",
+      "fn": "00"
+    },
+    "A813BUCX+R010AU-2702": {
+      "af": "AF/21",
+      "fc": "A813BUCX+R010AU",
+      "fn": "Chrome"
+    },
+    "A813BUCX+R010AU-27P5": {
+      "af": "AF/21",
+      "fc": "A813BUCX+R010AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A813BUCX+R010AU-27P6": {
+      "af": "AF/21",
+      "fc": "A813BUCX+R010AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A813BUCX+R010AU-27P9": {
+      "af": "AF/21",
+      "fc": "A813BUCX+R010AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A813BUCX+R010AU-2793": {
+      "af": "AF/21",
+      "fc": "A813BUCX+R010AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A813BUCX+R010AU-4400": {
+      "af": "AF/21",
+      "fc": "A813BUCX+R010AU",
+      "fn": "00"
+    },
+    "A813BUCY+R010AU-2702": {
+      "af": "AF/21",
+      "fc": "A813BUCY+R010AU",
+      "fn": "Chrome"
+    },
+    "A813BUCY+R010AU-27P5": {
+      "af": "AF/21",
+      "fc": "A813BUCY+R010AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A813BUCY+R010AU-27P6": {
+      "af": "AF/21",
+      "fc": "A813BUCY+R010AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A813BUCY+R010AU-27P9": {
+      "af": "AF/21",
+      "fc": "A813BUCY+R010AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A813BUCY+R010AU-2793": {
+      "af": "AF/21",
+      "fc": "A813BUCY+R010AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A813BUCY+R010AU-4400": {
+      "af": "AF/21",
+      "fc": "A813BUCY+R010AU",
+      "fn": "00"
+    },
+    "A008WU-2702": {
+      "af": "AF/21",
+      "fc": "A008WU",
+      "fn": "Chrome"
+    },
+    "A008WU-27P5": {
+      "af": "AF/21",
+      "fc": "A008WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A008WU-27P6": {
+      "af": "AF/21",
+      "fc": "A008WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A008WU-27P9": {
+      "af": "AF/21",
+      "fc": "A008WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A008WU-2793": {
+      "af": "AF/21",
+      "fc": "A008WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A508WU-2702": {
+      "af": "AF/21",
+      "fc": "A508WU",
+      "fn": "Chrome"
+    },
+    "A508WU-27P5": {
+      "af": "AF/21",
+      "fc": "A508WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A508WU-27P6": {
+      "af": "AF/21",
+      "fc": "A508WU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A508WU-27P9": {
+      "af": "AF/21",
+      "fc": "A508WU",
+      "fn": "Matte Copper PVD"
+    },
+    "A508WU-2793": {
+      "af": "AF/21",
+      "fc": "A508WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A763BU+A763AU-2702": {
+      "af": "AF/21",
+      "fc": "A763BU+A763AU",
+      "fn": "Chrome"
+    },
+    "A763BU+A763AU-27P5": {
+      "af": "AF/21",
+      "fc": "A763BU+A763AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A763BU+A763AU-27P6": {
+      "af": "AF/21",
+      "fc": "A763BU+A763AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A763BU+A763AU-27P9": {
+      "af": "AF/21",
+      "fc": "A763BU+A763AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A763BU+A763AU-2793": {
+      "af": "AF/21",
+      "fc": "A763BU+A763AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A763BU+A763AU-4400": {
+      "af": "AF/21",
+      "fc": "A763BU+A763AU",
+      "fn": "00"
+    },
+    "A785BU+A785AU-2702": {
+      "af": "AF/21",
+      "fc": "A785BU+A785AU",
+      "fn": "Chrome"
+    },
+    "A785BU+A785AU-27P5": {
+      "af": "AF/21",
+      "fc": "A785BU+A785AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A785BU+A785AU-27P6": {
+      "af": "AF/21",
+      "fc": "A785BU+A785AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A785BU+A785AU-27P9": {
+      "af": "AF/21",
+      "fc": "A785BU+A785AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A785BU+A785AU-2793": {
+      "af": "AF/21",
+      "fc": "A785BU+A785AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A785BU+A785AU-4400": {
+      "af": "AF/21",
+      "fc": "A785BU+A785AU",
+      "fn": "00"
+    },
+    "A785BUCX+A785AU-2702": {
+      "af": "AF/21",
+      "fc": "A785BUCX+A785AU",
+      "fn": "Chrome"
+    },
+    "A785BUCX+A785AU-27P5": {
+      "af": "AF/21",
+      "fc": "A785BUCX+A785AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A785BUCX+A785AU-27P6": {
+      "af": "AF/21",
+      "fc": "A785BUCX+A785AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A785BUCX+A785AU-27P9": {
+      "af": "AF/21",
+      "fc": "A785BUCX+A785AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A785BUCX+A785AU-2793": {
+      "af": "AF/21",
+      "fc": "A785BUCX+A785AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A785BUCX+A785AU-4400": {
+      "af": "AF/21",
+      "fc": "A785BUCX+A785AU",
+      "fn": "00"
+    },
+    "A785BUCY+A785AU-2702": {
+      "af": "AF/21",
+      "fc": "A785BUCY+A785AU",
+      "fn": "Chrome"
+    },
+    "A785BUCY+A785AU-27P5": {
+      "af": "AF/21",
+      "fc": "A785BUCY+A785AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A785BUCY+A785AU-27P6": {
+      "af": "AF/21",
+      "fc": "A785BUCY+A785AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A785BUCY+A785AU-27P9": {
+      "af": "AF/21",
+      "fc": "A785BUCY+A785AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A785BUCY+A785AU-2793": {
+      "af": "AF/21",
+      "fc": "A785BUCY+A785AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A785BUCY+A785AU-4400": {
+      "af": "AF/21",
+      "fc": "A785BUCY+A785AU",
+      "fn": "00"
+    },
+    "A787BU+A787AU-2702": {
+      "af": "AF/21",
+      "fc": "A787BU+A787AU",
+      "fn": "Chrome"
+    },
+    "A787BU+A787AU-27P5": {
+      "af": "AF/21",
+      "fc": "A787BU+A787AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A787BU+A787AU-27P6": {
+      "af": "AF/21",
+      "fc": "A787BU+A787AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A787BU+A787AU-27P9": {
+      "af": "AF/21",
+      "fc": "A787BU+A787AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A787BU+A787AU-2793": {
+      "af": "AF/21",
+      "fc": "A787BU+A787AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A787BU+A787AU-4400": {
+      "af": "AF/21",
+      "fc": "A787BU+A787AU",
+      "fn": "00"
+    },
+    "A787BUCX+A787AU-2702": {
+      "af": "AF/21",
+      "fc": "A787BUCX+A787AU",
+      "fn": "Chrome"
+    },
+    "A787BUCX+A787AU-27P5": {
+      "af": "AF/21",
+      "fc": "A787BUCX+A787AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A787BUCX+A787AU-27P6": {
+      "af": "AF/21",
+      "fc": "A787BUCX+A787AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A787BUCX+A787AU-27P9": {
+      "af": "AF/21",
+      "fc": "A787BUCX+A787AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A787BUCX+A787AU-2793": {
+      "af": "AF/21",
+      "fc": "A787BUCX+A787AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A787BUCX+A787AU-4400": {
+      "af": "AF/21",
+      "fc": "A787BUCX+A787AU",
+      "fn": "00"
+    },
+    "A787BUCY+A787AU-2702": {
+      "af": "AF/21",
+      "fc": "A787BUCY+A787AU",
+      "fn": "Chrome"
+    },
+    "A787BUCY+A787AU-27P5": {
+      "af": "AF/21",
+      "fc": "A787BUCY+A787AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A787BUCY+A787AU-27P6": {
+      "af": "AF/21",
+      "fc": "A787BUCY+A787AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A787BUCY+A787AU-27P9": {
+      "af": "AF/21",
+      "fc": "A787BUCY+A787AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A787BUCY+A787AU-2793": {
+      "af": "AF/21",
+      "fc": "A787BUCY+A787AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A787BUCY+A787AU-4400": {
+      "af": "AF/21",
+      "fc": "A787BUCY+A787AU",
+      "fn": "00"
+    },
+    "A972BU+D331AU-2702": {
+      "af": "AF/21",
+      "fc": "A972BU+D331AU",
+      "fn": "Chrome"
+    },
+    "A972BU+D331AU-27P5": {
+      "af": "AK/25",
+      "fc": "A972BU+D331AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A972BU+D331AU-27P6": {
+      "af": "AF/21",
+      "fc": "A972BU+D331AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A972BU+D331AU-27P9": {
+      "af": "AF/21",
+      "fc": "A972BU+D331AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A972BU+D331AU-2793": {
+      "af": "AF/21",
+      "fc": "A972BU+D331AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A972BU+D331AU-1900": {
+      "af": "AK/25",
+      "fc": "A972BU+D331AU",
+      "fn": "00"
+    },
+    "A972BUCX+D331AU-2702": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D331AU",
+      "fn": "Chrome"
+    },
+    "A972BUCX+D331AU-27P5": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D331AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A972BUCX+D331AU-27P6": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D331AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A972BUCX+D331AU-27P9": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D331AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A972BUCX+D331AU-2793": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D331AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A972BUCX+D331AU-1900": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D331AU",
+      "fn": "00"
+    },
+    "A972BUCY+D331AU-2702": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D331AU",
+      "fn": "Chrome"
+    },
+    "A972BUCY+D331AU-27P5": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D331AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A972BUCY+D331AU-27P6": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D331AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A972BUCY+D331AU-27P9": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D331AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A972BUCY+D331AU-2793": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D331AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A972BUCY+D331AU-1900": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D331AU",
+      "fn": "00"
+    },
+    "A972BU+D372AU-2702": {
+      "af": "AF/21",
+      "fc": "A972BU+D372AU",
+      "fn": "Chrome"
+    },
+    "A972BU+D372AU-27P5": {
+      "af": "AK/25",
+      "fc": "A972BU+D372AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A972BU+D372AU-27P6": {
+      "af": "AF/21",
+      "fc": "A972BU+D372AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A972BU+D372AU-27P9": {
+      "af": "AF/21",
+      "fc": "A972BU+D372AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A972BU+D372AU-2793": {
+      "af": "AF/21",
+      "fc": "A972BU+D372AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A972BU+D372AU-1900": {
+      "af": "AK/25",
+      "fc": "A972BU+D372AU",
+      "fn": "00"
+    },
+    "A972BUCX+D372AU-2702": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D372AU",
+      "fn": "Chrome"
+    },
+    "A972BUCX+D372AU-27P5": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D372AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A972BUCX+D372AU-27P6": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D372AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A972BUCX+D372AU-27P9": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D372AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A972BUCX+D372AU-2793": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D372AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A972BUCX+D372AU-1900": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D372AU",
+      "fn": "00"
+    },
+    "A972BUCY+D372AU-2702": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D372AU",
+      "fn": "Chrome"
+    },
+    "A972BUCY+D372AU-27P5": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D372AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A972BUCY+D372AU-27P6": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D372AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A972BUCY+D372AU-27P9": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D372AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A972BUCY+D372AU-2793": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D372AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A972BUCY+D372AU-1900": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D372AU",
+      "fn": "00"
+    },
+    "A972BU+D373AU-2702": {
+      "af": "AF/21",
+      "fc": "A972BU+D373AU",
+      "fn": "Chrome"
+    },
+    "A972BU+D373AU-27P5": {
+      "af": "AK/25",
+      "fc": "A972BU+D373AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A972BU+D373AU-27P6": {
+      "af": "AF/21",
+      "fc": "A972BU+D373AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A972BU+D373AU-27P9": {
+      "af": "AF/21",
+      "fc": "A972BU+D373AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A972BU+D373AU-2793": {
+      "af": "AF/21",
+      "fc": "A972BU+D373AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A972BU+D373AU-1900": {
+      "af": "AK/25",
+      "fc": "A972BU+D373AU",
+      "fn": "00"
+    },
+    "A972BUCX+D373AU-2702": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D373AU",
+      "fn": "Chrome"
+    },
+    "A972BUCX+D373AU-27P5": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D373AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A972BUCX+D373AU-27P6": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D373AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A972BUCX+D373AU-27P9": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D373AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A972BUCX+D373AU-2793": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D373AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A972BUCX+D373AU-1900": {
+      "af": "AF/21",
+      "fc": "A972BUCX+D373AU",
+      "fn": "00"
+    },
+    "A972BUCY+D373AU-2702": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D373AU",
+      "fn": "Chrome"
+    },
+    "A972BUCY+D373AU-27P5": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D373AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A972BUCY+D373AU-27P6": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D373AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A972BUCY+D373AU-27P9": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D373AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A972BUCY+D373AU-2793": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D373AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A972BUCY+D373AU-1900": {
+      "af": "AF/21",
+      "fc": "A972BUCY+D373AU",
+      "fn": "00"
+    },
+    "A900BU+D400AU-2702": {
+      "af": "AF/21",
+      "fc": "A900BU+D400AU",
+      "fn": "Chrome"
+    },
+    "A900BU+D400AU-27P5": {
+      "af": "AK/25",
+      "fc": "A900BU+D400AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A900BU+D400AU-27P6": {
+      "af": "AF/21",
+      "fc": "A900BU+D400AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A900BU+D400AU-27P9": {
+      "af": "AF/21",
+      "fc": "A900BU+D400AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A900BU+D400AU-2793": {
+      "af": "AF/21",
+      "fc": "A900BU+D400AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A900BU+D400AU-1900": {
+      "af": "AK/25",
+      "fc": "A900BU+D400AU",
+      "fn": "00"
+    },
+    "A991BU+D391AU-2702": {
+      "af": "AF/21",
+      "fc": "A991BU+D391AU",
+      "fn": "Chrome"
+    },
+    "A991BU+D391AU-27P5": {
+      "af": "AK/25",
+      "fc": "A991BU+D391AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A991BU+D391AU-27P6": {
+      "af": "AF/21",
+      "fc": "A991BU+D391AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A991BU+D391AU-27P9": {
+      "af": "AF/21",
+      "fc": "A991BU+D391AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A991BU+D391AU-2793": {
+      "af": "AF/21",
+      "fc": "A991BU+D391AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A991BU+D391AU-1900": {
+      "af": "AK/25",
+      "fc": "A991BU+D391AU",
+      "fn": "00"
+    },
+    "A991BUCX+D391AU-2702": {
+      "af": "AF/21",
+      "fc": "A991BUCX+D391AU",
+      "fn": "Chrome"
+    },
+    "A991BUCX+D391AU-27P5": {
+      "af": "AF/21",
+      "fc": "A991BUCX+D391AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A991BUCX+D391AU-27P6": {
+      "af": "AF/21",
+      "fc": "A991BUCX+D391AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A991BUCX+D391AU-27P9": {
+      "af": "AF/21",
+      "fc": "A991BUCX+D391AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A991BUCX+D391AU-2793": {
+      "af": "AF/21",
+      "fc": "A991BUCX+D391AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A991BUCX+D391AU-1900": {
+      "af": "AF/21",
+      "fc": "A991BUCX+D391AU",
+      "fn": "00"
+    },
+    "A991BUCY+D391AU-2702": {
+      "af": "AF/21",
+      "fc": "A991BUCY+D391AU",
+      "fn": "Chrome"
+    },
+    "A991BUCY+D391AU-27P5": {
+      "af": "AF/21",
+      "fc": "A991BUCY+D391AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A991BUCY+D391AU-27P6": {
+      "af": "AF/21",
+      "fc": "A991BUCY+D391AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A991BUCY+D391AU-27P9": {
+      "af": "AF/21",
+      "fc": "A991BUCY+D391AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A991BUCY+D391AU-2793": {
+      "af": "AF/21",
+      "fc": "A991BUCY+D391AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A991BUCY+D391AU-1900": {
+      "af": "AF/21",
+      "fc": "A991BUCY+D391AU",
+      "fn": "00"
+    },
+    "W213U-9100": {
+      "af": "AL/GARDEN",
+      "fc": "W213U",
+      "fn": ""
+    },
+    "W214U-9100": {
+      "af": "AL/GARDEN",
+      "fc": "W214U",
+      "fn": ""
+    },
+    "A976BU+D376AU-2702": {
+      "af": "AF/21",
+      "fc": "A976BU+D376AU",
+      "fn": "Chrome"
+    },
+    "A976BU+D376AU-27P5": {
+      "af": "AK/25",
+      "fc": "A976BU+D376AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A976BU+D376AU-27P6": {
+      "af": "AF/21",
+      "fc": "A976BU+D376AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A976BU+D376AU-27P9": {
+      "af": "AF/21",
+      "fc": "A976BU+D376AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A976BU+D376AU-2793": {
+      "af": "AF/21",
+      "fc": "A976BU+D376AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A976BU+D376AU-1900": {
+      "af": "AK/25",
+      "fc": "A976BU+D376AU",
+      "fn": "00"
+    },
+    "A976BU+D377AU-2702": {
+      "af": "AF/21",
+      "fc": "A976BU+D377AU",
+      "fn": "Chrome"
+    },
+    "A976BU+D377AU-27P5": {
+      "af": "AK/25",
+      "fc": "A976BU+D377AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A976BU+D377AU-27P6": {
+      "af": "AF/21",
+      "fc": "A976BU+D377AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A976BU+D377AU-27P9": {
+      "af": "AF/21",
+      "fc": "A976BU+D377AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A976BU+D377AU-2793": {
+      "af": "AF/21",
+      "fc": "A976BU+D377AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A976BU+D377AU-1900": {
+      "af": "AK/25",
+      "fc": "A976BU+D377AU",
+      "fn": "00"
+    },
+    "8053U-8102": {
+      "af": "AL/23",
+      "fc": "8053U",
+      "fn": "Chrome"
+    },
+    "8053U-81P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "8053U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8053U-81P6": {
+      "af": "AF/21",
+      "fc": "8053U",
+      "fn": "Matte British Gold PVD"
+    },
+    "8053U-81P9": {
+      "af": "AF/21",
+      "fc": "8053U",
+      "fn": "Matte Copper PVD"
+    },
+    "8053U-8193": {
+      "af": "AC/ECLIPSE",
+      "fc": "8053U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8053UC-8102": {
+      "af": "AL/23",
+      "fc": "8053UC",
+      "fn": "Chrome"
+    },
+    "8053UC-81P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "8053UC",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8053UC-81P6": {
+      "af": "AF/21",
+      "fc": "8053UC",
+      "fn": "Matte British Gold PVD"
+    },
+    "8053UC-81P9": {
+      "af": "AF/21",
+      "fc": "8053UC",
+      "fn": "Matte Copper PVD"
+    },
+    "8053UC-8193": {
+      "af": "AC/ECLIPSE",
+      "fc": "8053UC",
+      "fn": "Brushed Stainless steel"
+    },
+    "8080U-8102": {
+      "af": "AL/23",
+      "fc": "8080U",
+      "fn": "Chrome"
+    },
+    "8080U-81P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "8080U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8080U-81P6": {
+      "af": "AF/21",
+      "fc": "8080U",
+      "fn": "Matte British Gold PVD"
+    },
+    "8080U-81P9": {
+      "af": "AF/21",
+      "fc": "8080U",
+      "fn": "Matte Copper PVD"
+    },
+    "8080U-8193": {
+      "af": "AC/ECLIPSE",
+      "fc": "8080U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8080U-9100": {
+      "af": "AC/ECLIPSE",
+      "fc": "8080U",
+      "fn": "00"
+    },
+    "8059U-8102": {
+      "af": "AL/23",
+      "fc": "8059U",
+      "fn": "Chrome"
+    },
+    "8059U-81P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "8059U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8059U-81P6": {
+      "af": "AF/21",
+      "fc": "8059U",
+      "fn": "Matte British Gold PVD"
+    },
+    "8059U-81P9": {
+      "af": "AF/21",
+      "fc": "8059U",
+      "fn": "Matte Copper PVD"
+    },
+    "8059U-8193": {
+      "af": "AC/ECLIPSE",
+      "fc": "8059U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8059U-9100": {
+      "af": "AC/ECLIPSE",
+      "fc": "8059U",
+      "fn": "00"
+    },
+    "8058U-8102": {
+      "af": "AL/23",
+      "fc": "8058U",
+      "fn": "Chrome"
+    },
+    "8058U-81P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "8058U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8058U-81P6": {
+      "af": "AF/21",
+      "fc": "8058U",
+      "fn": "Matte British Gold PVD"
+    },
+    "8058U-81P9": {
+      "af": "AF/21",
+      "fc": "8058U",
+      "fn": "Matte Copper PVD"
+    },
+    "8058U-8193": {
+      "af": "AC/ECLIPSE",
+      "fc": "8058U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8058U-9100": {
+      "af": "AC/ECLIPSE",
+      "fc": "8058U",
+      "fn": "00"
+    },
+    "8061U-8102": {
+      "af": "AF/21",
+      "fc": "8061U",
+      "fn": "Chrome"
+    },
+    "8061U-81P5": {
+      "af": "AF/21",
+      "fc": "8061U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8061U-81P6": {
+      "af": "AF/21",
+      "fc": "8061U",
+      "fn": "Matte British Gold PVD"
+    },
+    "8061U-81P9": {
+      "af": "AF/21",
+      "fc": "8061U",
+      "fn": "Matte Copper PVD"
+    },
+    "8061U-8193": {
+      "af": "AF/21",
+      "fc": "8061U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8063U-8102": {
+      "af": "AL/23",
+      "fc": "8063U",
+      "fn": "Chrome"
+    },
+    "8063U-81P5": {
+      "af": "AF/21",
+      "fc": "8063U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8063U-81P6": {
+      "af": "AF/21",
+      "fc": "8063U",
+      "fn": "Matte British Gold PVD"
+    },
+    "8063U-81P9": {
+      "af": "AF/21",
+      "fc": "8063U",
+      "fn": "Matte Copper PVD"
+    },
+    "A819BU+A819AU-2702": {
+      "af": "AF/21",
+      "fc": "A819BU+A819AU",
+      "fn": "Chrome"
+    },
+    "A819BU+A819AU-27P5": {
+      "af": "AF/21",
+      "fc": "A819BU+A819AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A819BU+A819AU-27P6": {
+      "af": "AF/21",
+      "fc": "A819BU+A819AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A819BU+A819AU-27P9": {
+      "af": "AF/21",
+      "fc": "A819BU+A819AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A819BU+A819AU-2793": {
+      "af": "AF/21",
+      "fc": "A819BU+A819AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A819BU+A819AU-4400": {
+      "af": "AF/21",
+      "fc": "A819BU+A819AU",
+      "fn": "00"
+    },
+    "A819BUCX+A819AU-2702": {
+      "af": "AF/21",
+      "fc": "A819BUCX+A819AU",
+      "fn": "Chrome"
+    },
+    "A819BUCX+A819AU-27P5": {
+      "af": "AF/21",
+      "fc": "A819BUCX+A819AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A819BUCX+A819AU-27P6": {
+      "af": "AF/21",
+      "fc": "A819BUCX+A819AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A819BUCX+A819AU-27P9": {
+      "af": "AF/21",
+      "fc": "A819BUCX+A819AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A819BUCX+A819AU-2793": {
+      "af": "AF/21",
+      "fc": "A819BUCX+A819AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A819BUCX+A819AU-4400": {
+      "af": "AF/21",
+      "fc": "A819BUCX+A819AU",
+      "fn": "00"
+    },
+    "A819BUCY+A819AU-2702": {
+      "af": "AF/21",
+      "fc": "A819BUCY+A819AU",
+      "fn": "Chrome"
+    },
+    "A819BUCY+A819AU-27P5": {
+      "af": "AF/21",
+      "fc": "A819BUCY+A819AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A819BUCY+A819AU-27P6": {
+      "af": "AF/21",
+      "fc": "A819BUCY+A819AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A819BUCY+A819AU-27P9": {
+      "af": "AF/21",
+      "fc": "A819BUCY+A819AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A819BUCY+A819AU-2793": {
+      "af": "AF/21",
+      "fc": "A819BUCY+A819AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A819BUCY+A819AU-4400": {
+      "af": "AF/21",
+      "fc": "A819BUCY+A819AU",
+      "fn": "00"
+    },
+    "A817BU+A817AU-2702": {
+      "af": "AF/21",
+      "fc": "A817BU+A817AU",
+      "fn": "Chrome"
+    },
+    "A817BU+A817AU-27P5": {
+      "af": "AF/21",
+      "fc": "A817BU+A817AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A817BU+A817AU-27P6": {
+      "af": "AF/21",
+      "fc": "A817BU+A817AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A817BU+A817AU-27P9": {
+      "af": "AF/21",
+      "fc": "A817BU+A817AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A817BU+A817AU-2793": {
+      "af": "AF/21",
+      "fc": "A817BU+A817AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A817BU+A817AU-4400": {
+      "af": "AF/21",
+      "fc": "A817BU+A817AU",
+      "fn": "00"
+    },
+    "A817BUCX+A817AU-2702": {
+      "af": "AF/21",
+      "fc": "A817BUCX+A817AU",
+      "fn": "Chrome"
+    },
+    "A817BUCX+A817AU-27P5": {
+      "af": "AF/21",
+      "fc": "A817BUCX+A817AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A817BUCX+A817AU-27P6": {
+      "af": "AF/21",
+      "fc": "A817BUCX+A817AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A817BUCX+A817AU-27P9": {
+      "af": "AF/21",
+      "fc": "A817BUCX+A817AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A817BUCX+A817AU-2793": {
+      "af": "AF/21",
+      "fc": "A817BUCX+A817AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A817BUCX+A817AU-4400": {
+      "af": "AF/21",
+      "fc": "A817BUCX+A817AU",
+      "fn": "00"
+    },
+    "A817BUCY+A817AU-2702": {
+      "af": "AF/21",
+      "fc": "A817BUCY+A817AU",
+      "fn": "Chrome"
+    },
+    "A817BUCY+A817AU-27P5": {
+      "af": "AF/21",
+      "fc": "A817BUCY+A817AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A817BUCY+A817AU-27P6": {
+      "af": "AF/21",
+      "fc": "A817BUCY+A817AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A817BUCY+A817AU-27P9": {
+      "af": "AF/21",
+      "fc": "A817BUCY+A817AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A817BUCY+A817AU-2793": {
+      "af": "AF/21",
+      "fc": "A817BUCY+A817AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A817BUCY+A817AU-4400": {
+      "af": "AF/21",
+      "fc": "A817BUCY+A817AU",
+      "fn": "00"
+    },
+    "A265U-2702": {
+      "af": "AF/21",
+      "fc": "A265U",
+      "fn": "Chrome"
+    },
+    "A265U-27P5": {
+      "af": "AF/21",
+      "fc": "A265U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A265U-27P6": {
+      "af": "AF/21",
+      "fc": "A265U",
+      "fn": "Matte British Gold PVD"
+    },
+    "A265U-27P9": {
+      "af": "AF/21",
+      "fc": "A265U",
+      "fn": "Matte Copper PVD"
+    },
+    "A265U-2793": {
+      "af": "AF/21",
+      "fc": "A265U",
+      "fn": "Brushed Stainless steel"
+    },
+    "A265UCX-2702": {
+      "af": "AF/21",
+      "fc": "A265UCX",
+      "fn": "Chrome"
+    },
+    "A265UCX-27P5": {
+      "af": "AF/21",
+      "fc": "A265UCX",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A265UCX-27P6": {
+      "af": "AF/21",
+      "fc": "A265UCX",
+      "fn": "Matte British Gold PVD"
+    },
+    "A265UCX-27P9": {
+      "af": "AF/21",
+      "fc": "A265UCX",
+      "fn": "Matte Copper PVD"
+    },
+    "A265UCX-2793": {
+      "af": "AF/21",
+      "fc": "A265UCX",
+      "fn": "Brushed Stainless steel"
+    },
+    "A265UCY-2702": {
+      "af": "AF/21",
+      "fc": "A265UCY",
+      "fn": "Chrome"
+    },
+    "A265UCY-27P5": {
+      "af": "AF/21",
+      "fc": "A265UCY",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A265UCY-27P6": {
+      "af": "AF/21",
+      "fc": "A265UCY",
+      "fn": "Matte British Gold PVD"
+    },
+    "A265UCY-27P9": {
+      "af": "AF/21",
+      "fc": "A265UCY",
+      "fn": "Matte Copper PVD"
+    },
+    "A265UCY-2793": {
+      "af": "AF/21",
+      "fc": "A265UCY",
+      "fn": "Brushed Stainless steel"
+    },
+    "A267U-2702": {
+      "af": "AF/21",
+      "fc": "A267U",
+      "fn": "Chrome"
+    },
+    "A267U-27P5": {
+      "af": "AF/21",
+      "fc": "A267U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A267U-27P6": {
+      "af": "AF/21",
+      "fc": "A267U",
+      "fn": "Matte British Gold PVD"
+    },
+    "A267U-27P9": {
+      "af": "AF/21",
+      "fc": "A267U",
+      "fn": "Matte Copper PVD"
+    },
+    "A267U-2793": {
+      "af": "AF/21",
+      "fc": "A267U",
+      "fn": "Brushed Stainless steel"
+    },
+    "A267UCX-2702": {
+      "af": "AF/21",
+      "fc": "A267UCX",
+      "fn": "Chrome"
+    },
+    "A267UCX-27P5": {
+      "af": "AF/21",
+      "fc": "A267UCX",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A267UCX-27P6": {
+      "af": "AF/21",
+      "fc": "A267UCX",
+      "fn": "Matte British Gold PVD"
+    },
+    "A267UCX-27P9": {
+      "af": "AF/21",
+      "fc": "A267UCX",
+      "fn": "Matte Copper PVD"
+    },
+    "A267UCX-2793": {
+      "af": "AF/21",
+      "fc": "A267UCX",
+      "fn": "Brushed Stainless steel"
+    },
+    "A267UCY-2702": {
+      "af": "AF/21",
+      "fc": "A267UCY",
+      "fn": "Chrome"
+    },
+    "A267UCY-27P5": {
+      "af": "AF/21",
+      "fc": "A267UCY",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A267UCY-27P6": {
+      "af": "AF/21",
+      "fc": "A267UCY",
+      "fn": "Matte British Gold PVD"
+    },
+    "A267UCY-27P9": {
+      "af": "AF/21",
+      "fc": "A267UCY",
+      "fn": "Matte Copper PVD"
+    },
+    "A267UCY-2793": {
+      "af": "AF/21",
+      "fc": "A267UCY",
+      "fn": "Brushed Stainless steel"
+    },
+    "A580BU+A036AU-2702": {
+      "af": "AF/21",
+      "fc": "A580BU+A036AU",
+      "fn": "Chrome"
+    },
+    "A580BU+A036AU-27P5": {
+      "af": "AF/21",
+      "fc": "A580BU+A036AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A580BU+A036AU-27P6": {
+      "af": "AF/21",
+      "fc": "A580BU+A036AU",
+      "fn": "Matte British Gold PVD"
+    },
+    "A580BU+A036AU-27P9": {
+      "af": "AF/21",
+      "fc": "A580BU+A036AU",
+      "fn": "Matte Copper PVD"
+    },
+    "A580BU+A036AU-2793": {
+      "af": "AF/21",
+      "fc": "A580BU+A036AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "A580BU+A036AU-1700": {
+      "af": "AF/21",
+      "fc": "A580BU+A036AU",
+      "fn": "00"
+    },
+    "8307U-2702": {
+      "af": "AF/21",
+      "fc": "8307U",
+      "fn": "Chrome"
+    },
+    "8307U-27P5": {
+      "af": "AF/21",
+      "fc": "8307U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8307U-27P6": {
+      "af": "AF/21",
+      "fc": "8307U",
+      "fn": "Matte British Gold PVD"
+    },
+    "8307U-27P9": {
+      "af": "AF/21",
+      "fc": "8307U",
+      "fn": "Matte Copper PVD"
+    },
+    "8307U-2793": {
+      "af": "AF/21",
+      "fc": "8307U",
+      "fn": "Brushed Stainless steel"
+    },
+    "A753U-2702": {
+      "af": "AF/21",
+      "fc": "A753U",
+      "fn": "Chrome"
+    },
+    "A753U-27P5": {
+      "af": "AF/21",
+      "fc": "A753U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A753U-27P6": {
+      "af": "AF/21",
+      "fc": "A753U",
+      "fn": "Matte British Gold PVD"
+    },
+    "A753U-27P9": {
+      "af": "AF/21",
+      "fc": "A753U",
+      "fn": "Matte Copper PVD"
+    },
+    "A753U-2793": {
+      "af": "AF/21",
+      "fc": "A753U",
+      "fn": "Brushed Stainless steel"
+    },
+    "A754U-2702": {
+      "af": "AF/21",
+      "fc": "A754U",
+      "fn": "Chrome"
+    },
+    "A754U-27P5": {
+      "af": "AF/21",
+      "fc": "A754U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "A754U-27P6": {
+      "af": "AF/21",
+      "fc": "A754U",
+      "fn": "Matte British Gold PVD"
+    },
+    "A754U-27P9": {
+      "af": "AF/21",
+      "fc": "A754U",
+      "fn": "Matte Copper PVD"
+    },
+    "A754U-2793": {
+      "af": "AF/21",
+      "fc": "A754U",
+      "fn": "Brushed Stainless steel"
+    },
+    "W095U-9102": {
+      "af": "AL/23",
+      "fc": "W095U",
+      "fn": "Chrome"
+    },
+    "W095U-91P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "W095U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "W095U-91P6": {
+      "af": "AF/21",
+      "fc": "W095U",
+      "fn": "Matte British Gold PVD"
+    },
+    "W095U-91P9": {
+      "af": "AF/21",
+      "fc": "W095U",
+      "fn": "Matte Copper PVD"
+    },
+    "W095U-9193": {
+      "af": "AC/ECLIPSE",
+      "fc": "W095U",
+      "fn": "Brushed Stainless steel"
+    },
+    "W097U-9102": {
+      "af": "AL/23",
+      "fc": "W097U",
+      "fn": "Chrome"
+    },
+    "W097U-91P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "W097U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "W097U-91P6": {
+      "af": "AF/21",
+      "fc": "W097U",
+      "fn": "Matte British Gold PVD"
+    },
+    "W097U-91P9": {
+      "af": "AF/21",
+      "fc": "W097U",
+      "fn": "Matte Copper PVD"
+    },
+    "W097U-9193": {
+      "af": "AC/ECLIPSE",
+      "fc": "W097U",
+      "fn": "Brushed Stainless steel"
+    },
+    "9234-9102": {
+      "af": "AL/23",
+      "fc": "9234",
+      "fn": "Chrome"
+    },
+    "9234-91P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "9234",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "9234-91P6": {
+      "af": "AF/21",
+      "fc": "9234",
+      "fn": "Matte British Gold PVD"
+    },
+    "9234-91P9": {
+      "af": "AF/21",
+      "fc": "9234",
+      "fn": "Matte Copper PVD"
+    },
+    "9234-9193": {
+      "af": "AC/ECLIPSE",
+      "fc": "9234",
+      "fn": "Brushed Stainless steel"
+    },
+    "W036U-9102": {
+      "af": "AL/23",
+      "fc": "W036U",
+      "fn": "Chrome"
+    },
+    "W036U-91P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "W036U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "W036U-91P6": {
+      "af": "AF/21",
+      "fc": "W036U",
+      "fn": "Matte British Gold PVD"
+    },
+    "W036U-91P9": {
+      "af": "AF/21",
+      "fc": "W036U",
+      "fn": "Matte Copper PVD"
+    },
+    "W036U-9193": {
+      "af": "AC/ECLIPSE",
+      "fc": "W036U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8402U-9138": {
+      "af": "AL/23",
+      "fc": "8402U",
+      "fn": "Polished Stainless steel"
+    },
+    "8402U-91P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "8402U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8402U-91P6": {
+      "af": "AF/21",
+      "fc": "8402U",
+      "fn": "Matte British Gold PVD"
+    },
+    "8402U-91P9": {
+      "af": "AF/21",
+      "fc": "8402U",
+      "fn": "Matte Copper PVD"
+    },
+    "8402U-9193": {
+      "af": "AC/ECLIPSE",
+      "fc": "8402U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8403U-9138": {
+      "af": "AL/23",
+      "fc": "8403U",
+      "fn": "Polished Stainless steel"
+    },
+    "8403U-91P5": {
+      "af": "AK/25",
+      "fc": "8403U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8403U-91P6": {
+      "af": "AF/21",
+      "fc": "8403U",
+      "fn": "Matte British Gold PVD"
+    },
+    "8403U-91P9": {
+      "af": "AF/21",
+      "fc": "8403U",
+      "fn": "Matte Copper PVD"
+    },
+    "8403U-9193": {
+      "af": "AF/21",
+      "fc": "8403U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8486U-9102": {
+      "af": "AL/23",
+      "fc": "8486U",
+      "fn": "Chrome"
+    },
+    "8486U-9192": {
+      "af": "AC/ECLIPSE",
+      "fc": "8486U",
+      "fn": "Brushed Steel Look PVD"
+    },
+    "8486U-91P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "8486U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8486U-91P6": {
+      "af": "AF/21",
+      "fc": "8486U",
+      "fn": "Matte British Gold PVD"
+    },
+    "8486U-91P9": {
+      "af": "AF/21",
+      "fc": "8486U",
+      "fn": "Matte Copper PVD"
+    },
+    "9325-9102": {
+      "af": "AL/23",
+      "fc": "9325",
+      "fn": "Chrome"
+    },
+    "B004WU-2602": {
+      "af": "AL/23",
+      "fc": "B004WU",
+      "fn": "Chrome"
+    },
+    "B004WU-2613": {
+      "af": "AL/23",
+      "fc": "B004WU",
+      "fn": "Matte Black"
+    },
+    "B003WU-2602": {
+      "af": "AL/23",
+      "fc": "B003WU",
+      "fn": "Chrome"
+    },
+    "B003WU-2613": {
+      "af": "AL/23",
+      "fc": "B003WU",
+      "fn": "Matte Black"
+    },
+    "B006WU-2602": {
+      "af": "AL/23",
+      "fc": "B006WU",
+      "fn": "Chrome"
+    },
+    "B006WU-2613": {
+      "af": "AL/23",
+      "fc": "B006WU",
+      "fn": "Matte Black"
+    },
+    "B104WU-2602": {
+      "af": "AL/23",
+      "fc": "B104WU",
+      "fn": "Chrome"
+    },
+    "B104WU-2613": {
+      "af": "AL/23",
+      "fc": "B104WU",
+      "fn": "Matte Black"
+    },
+    "B106WU-2602": {
+      "af": "AL/23",
+      "fc": "B106WU",
+      "fn": "Chrome"
+    },
+    "B106WU-2613": {
+      "af": "AL/23",
+      "fc": "B106WU",
+      "fn": "Matte Black"
+    },
+    "B813BU+M011AU-2602": {
+      "af": "AL/23",
+      "fc": "B813BU+M011AU",
+      "fn": "Chrome"
+    },
+    "B813BU+M011AU-2613": {
+      "af": "AL/23",
+      "fc": "B813BU+M011AU",
+      "fn": "Matte Black"
+    },
+    "B813BU+M011AU-4400": {
+      "af": "AL/23",
+      "fc": "B813BU+M011AU",
+      "fn": "00"
+    },
+    "B036BU+3336AU-2602": {
+      "af": "AL/23",
+      "fc": "B036BU+3336AU",
+      "fn": "Chrome"
+    },
+    "B036BU+3336AU-2613": {
+      "af": "AL/23",
+      "fc": "B036BU+3336AU",
+      "fn": "Matte Black"
+    },
+    "B036BU+3336AU-1900": {
+      "af": "AL/23",
+      "fc": "B036BU+3336AU",
+      "fn": "00"
+    },
+    "B204WU-2602": {
+      "af": "AL/23",
+      "fc": "B204WU",
+      "fn": "Chrome"
+    },
+    "B204WU-2613": {
+      "af": "AL/23",
+      "fc": "B204WU",
+      "fn": "Matte Black"
+    },
+    "B206WU-2602": {
+      "af": "AL/23",
+      "fc": "B206WU",
+      "fn": "Chrome"
+    },
+    "B206WU-2613": {
+      "af": "AL/23",
+      "fc": "B206WU",
+      "fn": "Matte Black"
+    },
+    "B913BU+R010AU-2602": {
+      "af": "AL/23",
+      "fc": "B913BU+R010AU",
+      "fn": "Chrome"
+    },
+    "B913BU+R010AU-2613": {
+      "af": "AL/23",
+      "fc": "B913BU+R010AU",
+      "fn": "Matte Black"
+    },
+    "B913BU+R010AU-4400": {
+      "af": "AL/23",
+      "fc": "B913BU+R010AU",
+      "fn": "00"
+    },
+    "B008WU-2602": {
+      "af": "AL/23",
+      "fc": "B008WU",
+      "fn": "Chrome"
+    },
+    "B008WU-2613": {
+      "af": "AL/23",
+      "fc": "B008WU",
+      "fn": "Matte Black"
+    },
+    "B472BU+D331AU-2602": {
+      "af": "AL/23",
+      "fc": "B472BU+D331AU",
+      "fn": "Chrome"
+    },
+    "B472BU+D331AU-2613": {
+      "af": "AL/23",
+      "fc": "B472BU+D331AU",
+      "fn": "Matte Black"
+    },
+    "B472BU+D331AU-1900": {
+      "af": "AL/23",
+      "fc": "B472BU+D331AU",
+      "fn": "00"
+    },
+    "B472BU+D372AU-2602": {
+      "af": "AL/23",
+      "fc": "B472BU+D372AU",
+      "fn": "Chrome"
+    },
+    "B472BU+D372AU-2613": {
+      "af": "AL/23",
+      "fc": "B472BU+D372AU",
+      "fn": "Matte Black"
+    },
+    "B472BU+D372AU-1900": {
+      "af": "AL/23",
+      "fc": "B472BU+D372AU",
+      "fn": "00"
+    },
+    "B472BU+D373AU-2602": {
+      "af": "AL/23",
+      "fc": "B472BU+D373AU",
+      "fn": "Chrome"
+    },
+    "B472BU+D373AU-2613": {
+      "af": "AL/23",
+      "fc": "B472BU+D373AU",
+      "fn": "Matte Black"
+    },
+    "B472BU+D373AU-1900": {
+      "af": "AL/23",
+      "fc": "B472BU+D373AU",
+      "fn": "00"
+    },
+    "B400BU+D400AU-2602": {
+      "af": "AL/23",
+      "fc": "B400BU+D400AU",
+      "fn": "Chrome"
+    },
+    "B400BU+D400AU-2613": {
+      "af": "AL/23",
+      "fc": "B400BU+D400AU",
+      "fn": "Matte Black"
+    },
+    "B400BU+D400AU-1900": {
+      "af": "AL/23",
+      "fc": "B400BU+D400AU",
+      "fn": "00"
+    },
+    "B491BU+D391AU-2602": {
+      "af": "AL/23",
+      "fc": "B491BU+D391AU",
+      "fn": "Chrome"
+    },
+    "B491BU+D391AU-2613": {
+      "af": "AL/23",
+      "fc": "B491BU+D391AU",
+      "fn": "Matte Black"
+    },
+    "B491BU+D391AU-1900": {
+      "af": "AL/23",
+      "fc": "B491BU+D391AU",
+      "fn": "00"
+    },
+    "B476BU+D376AU-2602": {
+      "af": "AL/23",
+      "fc": "B476BU+D376AU",
+      "fn": "Chrome"
+    },
+    "B476BU+D376AU-2613": {
+      "af": "AL/23",
+      "fc": "B476BU+D376AU",
+      "fn": "Matte Black"
+    },
+    "B476BU+D376AU-1900": {
+      "af": "AL/23",
+      "fc": "B476BU+D376AU",
+      "fn": "00"
+    },
+    "B476BU+D377AU-2602": {
+      "af": "AL/23",
+      "fc": "B476BU+D377AU",
+      "fn": "Chrome"
+    },
+    "B476BU+D377AU-2613": {
+      "af": "AL/23",
+      "fc": "B476BU+D377AU",
+      "fn": "Matte Black"
+    },
+    "B476BU+D377AU-1900": {
+      "af": "AL/23",
+      "fc": "B476BU+D377AU",
+      "fn": "00"
+    },
+    "8053U-8113": {
+      "af": "AL/23",
+      "fc": "8053U",
+      "fn": "Matte Black"
+    },
+    "8053UC-8113": {
+      "af": "AL/23",
+      "fc": "8053UC",
+      "fn": "Matte Black"
+    },
+    "8080U-8113": {
+      "af": "AL/23",
+      "fc": "8080U",
+      "fn": "Matte Black"
+    },
+    "8059U-8113": {
+      "af": "AL/23",
+      "fc": "8059U",
+      "fn": "Matte Black"
+    },
+    "8058U-8113": {
+      "af": "AL/23",
+      "fc": "8058U",
+      "fn": "Matte Black"
+    },
+    "8062U-8102": {
+      "af": "AL/23",
+      "fc": "8062U",
+      "fn": "Chrome"
+    },
+    "8062U-8113": {
+      "af": "AL/23",
+      "fc": "8062U",
+      "fn": "Matte Black"
+    },
+    "8063U-8113": {
+      "af": "AL/23",
+      "fc": "8063U",
+      "fn": "Matte Black"
+    },
+    "9914U-9002": {
+      "af": "AL/23",
+      "fc": "9914U",
+      "fn": "Chrome"
+    },
+    "9914U-9013": {
+      "af": "AL/23",
+      "fc": "9914U",
+      "fn": "Matte Black"
+    },
+    "B719BU+R019AU-2602": {
+      "af": "AL/23",
+      "fc": "B719BU+R019AU",
+      "fn": "Chrome"
+    },
+    "B719BU+R019AU-2613": {
+      "af": "AL/23",
+      "fc": "B719BU+R019AU",
+      "fn": "Matte Black"
+    },
+    "B719BU+R019AU-4400": {
+      "af": "AL/23",
+      "fc": "B719BU+R019AU",
+      "fn": "00"
+    },
+    "B717BU+R017AU-2602": {
+      "af": "AL/23",
+      "fc": "B717BU+R017AU",
+      "fn": "Chrome"
+    },
+    "B717BU+R017AU-2613": {
+      "af": "AL/23",
+      "fc": "B717BU+R017AU",
+      "fn": "Matte Black"
+    },
+    "B717BU+R017AU-4400": {
+      "af": "AL/23",
+      "fc": "B717BU+R017AU",
+      "fn": "00"
+    },
+    "B265U-2602": {
+      "af": "AL/23",
+      "fc": "B265U",
+      "fn": "Chrome"
+    },
+    "B265U-2613": {
+      "af": "AL/23",
+      "fc": "B265U",
+      "fn": "Matte Black"
+    },
+    "B267U-2602": {
+      "af": "AL/23",
+      "fc": "B267U",
+      "fn": "Chrome"
+    },
+    "B267U-2613": {
+      "af": "AL/23",
+      "fc": "B267U",
+      "fn": "Matte Black"
+    },
+    "B080BU+R080AU-2602": {
+      "af": "AL/23",
+      "fc": "B080BU+R080AU",
+      "fn": "Chrome"
+    },
+    "B080BU+R080AU-2613": {
+      "af": "AL/23",
+      "fc": "B080BU+R080AU",
+      "fn": "Matte Black"
+    },
+    "B080BU+R080AU-4400": {
+      "af": "AL/23",
+      "fc": "B080BU+R080AU",
+      "fn": "00"
+    },
+    "8308U-2602": {
+      "af": "AL/23",
+      "fc": "8308U",
+      "fn": "Chrome"
+    },
+    "8308U-2613": {
+      "af": "AL/23",
+      "fc": "8308U",
+      "fn": "Matte Black"
+    },
+    "W095U-9113": {
+      "af": "AL/23",
+      "fc": "W095U",
+      "fn": "Matte Black"
+    },
+    "W097U-9113": {
+      "af": "AL/23",
+      "fc": "W097U",
+      "fn": "Matte Black"
+    },
+    "9234-9113": {
+      "af": "AL/23",
+      "fc": "9234",
+      "fn": "Matte Black"
+    },
+    "W036U-9113": {
+      "af": "AL/23",
+      "fc": "W036U",
+      "fn": "Matte Black"
+    },
+    "8402U-9113": {
+      "af": "AL/23",
+      "fc": "8402U",
+      "fn": "Matte Black"
+    },
+    "8403U-9113": {
+      "af": "AL/23",
+      "fc": "8403U",
+      "fn": "Matte Black"
+    },
+    "8486U-9113": {
+      "af": "AL/23",
+      "fc": "8486U",
+      "fn": "Matte Black"
+    },
+    "T104WU-48P5": {
+      "af": "AK/25",
+      "fc": "T104WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T204WU-48P5": {
+      "af": "AK/25",
+      "fc": "T204WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T004WU-48P5": {
+      "af": "AK/25",
+      "fc": "T004WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T006WU-48P5": {
+      "af": "AK/25",
+      "fc": "T006WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T113BU+T010AU-48P5": {
+      "af": "AK/25",
+      "fc": "T113BU+T010AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T113BU+T010AU-4400": {
+      "af": "AK/25",
+      "fc": "T113BU+T010AU",
+      "fn": "00"
+    },
+    "T213BU+T010AU-48P5": {
+      "af": "AK/25",
+      "fc": "T213BU+T010AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T213BU+T010AU-4400": {
+      "af": "AK/25",
+      "fc": "T213BU+T010AU",
+      "fn": "00"
+    },
+    "T008WU-48P5": {
+      "af": "AK/25",
+      "fc": "T008WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T085BU+T085AU-48P5": {
+      "af": "AK/25",
+      "fc": "T085BU+T085AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T085BU+T085AU-4400": {
+      "af": "AK/25",
+      "fc": "T085BU+T085AU",
+      "fn": "00"
+    },
+    "T302BU+T302AU-48P5": {
+      "af": "AK/25",
+      "fc": "T302BU+T302AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T302BU+T302AU-4400": {
+      "af": "AK/25",
+      "fc": "T302BU+T302AU",
+      "fn": "00"
+    },
+    "8036BU+8036AU-86P5": {
+      "af": "AK/25",
+      "fc": "8036BU+8036AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8036BU+8036AU-8600": {
+      "af": "AK/25",
+      "fc": "8036BU+8036AU",
+      "fn": "00"
+    },
+    "8036BUC+8036AU-86P5": {
+      "af": "AK/25",
+      "fc": "8036BUC+8036AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8036BUC+8036AU-8600": {
+      "af": "AK/25",
+      "fc": "8036BUC+8036AU",
+      "fn": "00"
+    },
+    "8043B+8036AU-86P5": {
+      "af": "AK/25",
+      "fc": "8043B+8036AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8043B+8036AU-8600": {
+      "af": "AK/25",
+      "fc": "8043B+8036AU",
+      "fn": "00"
+    },
+    "8087U-86P5": {
+      "af": "AK/25",
+      "fc": "8087U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8087UC-86P5": {
+      "af": "AK/25",
+      "fc": "8087UC",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8116U-86P5": {
+      "af": "AK/25",
+      "fc": "8116U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T067U-48P5": {
+      "af": "AK/25",
+      "fc": "T067U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T068BU+T068AU-48P5": {
+      "af": "AK/25",
+      "fc": "T068BU+T068AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T068BU+T068AU-4400": {
+      "af": "AK/25",
+      "fc": "T068BU+T068AU",
+      "fn": "00"
+    },
+    "T041U-48P5": {
+      "af": "AK/25",
+      "fc": "T041U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T045U-48P5": {
+      "af": "AK/25",
+      "fc": "T045U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T061U-48P5": {
+      "af": "AK/25",
+      "fc": "T061U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8487U-91P5": {
+      "af": "AK/25",
+      "fc": "8487U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y004WU-33P5": {
+      "af": "AA/27",
+      "fc": "Y004WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y004WU-3393": {
+      "af": "AA/27",
+      "fc": "Y004WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y006WU-33P5": {
+      "af": "AA/27",
+      "fc": "Y006WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y006WU-3393": {
+      "af": "AA/27",
+      "fc": "Y006WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y011BU+Y011AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y011BU+Y011AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y011BU+Y011AU-3393": {
+      "af": "AA/27",
+      "fc": "Y011BU+Y011AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y011BU+Y011AU-4400": {
+      "af": "AA/27",
+      "fc": "Y011BU+Y011AU",
+      "fn": "00"
+    },
+    "Y111BU+M011AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y111BU+M011AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y111BU+M011AU-3393": {
+      "af": "AA/27",
+      "fc": "Y111BU+M011AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y111BU+M011AU-4400": {
+      "af": "AA/27",
+      "fc": "Y111BU+M011AU",
+      "fn": "00"
+    },
+    "Y008WU-33P5": {
+      "af": "AA/27",
+      "fc": "Y008WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y008WU-3393": {
+      "af": "AA/27",
+      "fc": "Y008WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y372BU+D331AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y372BU+D331AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y372BU+D331AU-3393": {
+      "af": "AA/27",
+      "fc": "Y372BU+D331AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y372BU+D331AU-1900": {
+      "af": "AA/27",
+      "fc": "Y372BU+D331AU",
+      "fn": "00"
+    },
+    "Y372BU+D372AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y372BU+D372AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y372BU+D372AU-3393": {
+      "af": "AA/27",
+      "fc": "Y372BU+D372AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y372BU+D372AU-1900": {
+      "af": "AA/27",
+      "fc": "Y372BU+D372AU",
+      "fn": "00"
+    },
+    "Y372BU+D373AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y372BU+D373AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y372BU+D373AU-3393": {
+      "af": "AA/27",
+      "fc": "Y372BU+D373AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y372BU+D373AU-1900": {
+      "af": "AA/27",
+      "fc": "Y372BU+D373AU",
+      "fn": "00"
+    },
+    "Y300BU+D400AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y300BU+D400AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y300BU+D400AU-3393": {
+      "af": "AA/27",
+      "fc": "Y300BU+D400AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y300BU+D400AU-1900": {
+      "af": "AA/27",
+      "fc": "Y300BU+D400AU",
+      "fn": "00"
+    },
+    "Y391BU+D391AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y391BU+D391AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y391BU+D391AU-3393": {
+      "af": "AA/27",
+      "fc": "Y391BU+D391AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y391BU+D391AU-1900": {
+      "af": "AA/27",
+      "fc": "Y391BU+D391AU",
+      "fn": "00"
+    },
+    "Y376BU+D376AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y376BU+D376AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y376BU+D376AU-3393": {
+      "af": "AA/27",
+      "fc": "Y376BU+D376AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y376BU+D376AU-1900": {
+      "af": "AA/27",
+      "fc": "Y376BU+D376AU",
+      "fn": "00"
+    },
+    "Y376BU+D377AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y376BU+D377AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y376BU+D377AU-3393": {
+      "af": "AA/27",
+      "fc": "Y376BU+D377AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y376BU+D377AU-1900": {
+      "af": "AA/27",
+      "fc": "Y376BU+D377AU",
+      "fn": "00"
+    },
+    "8139U-81P5": {
+      "af": "AA/27",
+      "fc": "8139U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8139U-8193": {
+      "af": "AA/27",
+      "fc": "8139U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8127U-81P5": {
+      "af": "AA/27",
+      "fc": "8127U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8127U-8193": {
+      "af": "AA/27",
+      "fc": "8127U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8127U-9100": {
+      "af": "AA/27",
+      "fc": "8127U",
+      "fn": "00"
+    },
+    "8125U-81P5": {
+      "af": "AL/GARDEN",
+      "fc": "8125U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8125U-8193": {
+      "af": "AW/PIPE",
+      "fc": "8125U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8125U-9100": {
+      "af": "AL/GARDEN",
+      "fc": "8125U",
+      "fn": "00"
+    },
+    "8128U-81P5": {
+      "af": "AA/27",
+      "fc": "8128U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8128U-8193": {
+      "af": "AA/27",
+      "fc": "8128U",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y120BU+R021AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y120BU+R021AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y120BU+R021AU-3393": {
+      "af": "AA/27",
+      "fc": "Y120BU+R021AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y120BU+R021AU-4400": {
+      "af": "AA/27",
+      "fc": "Y120BU+R021AU",
+      "fn": "00"
+    },
+    "Y121BU+R021AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y121BU+R021AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y121BU+R021AU-3393": {
+      "af": "AA/27",
+      "fc": "Y121BU+R021AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y121BU+R021AU-4400": {
+      "af": "AA/27",
+      "fc": "Y121BU+R021AU",
+      "fn": "00"
+    },
+    "Y065U-33P5": {
+      "af": "AA/27",
+      "fc": "Y065U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y065U-3393": {
+      "af": "AA/27",
+      "fc": "Y065U",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y080BU+Y080AU-33P5": {
+      "af": "AA/27",
+      "fc": "Y080BU+Y080AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y080BU+Y080AU-3393": {
+      "af": "AA/27",
+      "fc": "Y080BU+Y080AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y080BU+Y080AU-4400": {
+      "af": "AA/27",
+      "fc": "Y080BU+Y080AU",
+      "fn": "00"
+    },
+    "T407WU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T407WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T407WU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T407WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T413BU+R010AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T413BU+R010AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T413BU+R010AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T413BU+R010AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T413BU+R010AU-4400": {
+      "af": "AW/PIPE",
+      "fc": "T413BU+R010AU",
+      "fn": "00"
+    },
+    "T504WU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T504WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T504WU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T504WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T607WU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T607WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T607WU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T607WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T513BU+M011AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T513BU+M011AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T513BU+M011AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T513BU+M011AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T513BU+M011AU-4400": {
+      "af": "AW/PIPE",
+      "fc": "T513BU+M011AU",
+      "fn": "00"
+    },
+    "T536BU+3336AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T536BU+3336AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T536BU+3336AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T536BU+3336AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T536BU+3336AU-1900": {
+      "af": "AW/PIPE",
+      "fc": "T536BU+3336AU",
+      "fn": "00"
+    },
+    "T563BU+M063AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T563BU+M063AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T563BU+M063AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T563BU+M063AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T563BU+M063AU-4400": {
+      "af": "AW/PIPE",
+      "fc": "T563BU+M063AU",
+      "fn": "00"
+    },
+    "Z355U-20P5": {
+      "af": "AW/PIPE",
+      "fc": "Z355U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z355U-2093": {
+      "af": "AW/PIPE",
+      "fc": "Z355U",
+      "fn": "Brushed Stainless steel"
+    },
+    "Z356U-20P5": {
+      "af": "AW/PIPE",
+      "fc": "Z356U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z356U-2093": {
+      "af": "AW/PIPE",
+      "fc": "Z356U",
+      "fn": "Brushed Stainless steel"
+    },
+    "T508WU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T508WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T508WU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T508WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T772BU+D372AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T772BU+D372AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T772BU+D372AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T772BU+D372AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T772BU+D372AU-1900": {
+      "af": "AW/PIPE",
+      "fc": "T772BU+D372AU",
+      "fn": "00"
+    },
+    "T773BU+D373AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T773BU+D373AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T773BU+D373AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T773BU+D373AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T773BU+D373AU-1900": {
+      "af": "AW/PIPE",
+      "fc": "T773BU+D373AU",
+      "fn": "00"
+    },
+    "T700BU+D400AU-20P5": {
+      "af": "AL/GARDEN",
+      "fc": "T700BU+D400AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T700BU+D400AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T700BU+D400AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T700BU+D400AU-1900": {
+      "af": "AL/GARDEN",
+      "fc": "T700BU+D400AU",
+      "fn": "00"
+    },
+    "T791BU+D391AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T791BU+D391AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T791BU+D391AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T791BU+D391AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T791BU+D391AU-1900": {
+      "af": "AW/PIPE",
+      "fc": "T791BU+D391AU",
+      "fn": "00"
+    },
+    "T776BU+D376AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T776BU+D376AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T776BU+D376AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T776BU+D376AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T776BU+D376AU-1900": {
+      "af": "AW/PIPE",
+      "fc": "T776BU+D376AU",
+      "fn": "00"
+    },
+    "T776BU+D377AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T776BU+D377AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T776BU+D377AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T776BU+D377AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T776BU+D377AU-1900": {
+      "af": "AW/PIPE",
+      "fc": "T776BU+D377AU",
+      "fn": "00"
+    },
+    "T560BU+T560AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T560BU+T560AU",
+      "fn": "Brushed Stainless Steel - Red"
+    },
+    "T560BU+T560AU-2000": {
+      "af": "AW/PIPE",
+      "fc": "T560BU+T560AU",
+      "fn": "00"
+    },
+    "T521BU+R021AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T521BU+R021AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T521BU+R021AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T521BU+R021AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T521BU+R021AU-4400": {
+      "af": "AW/PIPE",
+      "fc": "T521BU+R021AU",
+      "fn": "00"
+    },
+    "T584BU+R084AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T584BU+R084AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T584BU+R084AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T584BU+R084AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T584BU+R084AU-4400": {
+      "af": "AW/PIPE",
+      "fc": "T584BU+R084AU",
+      "fn": "00"
+    },
+    "T465U-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T465U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T465U-2093": {
+      "af": "AW/PIPE",
+      "fc": "T465U",
+      "fn": "Brushed Stainless steel"
+    },
+    "T467U-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T467U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T467U-2093": {
+      "af": "AW/PIPE",
+      "fc": "T467U",
+      "fn": "Brushed Stainless steel"
+    },
+    "T580BU+R080AU-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T580BU+R080AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T580BU+R080AU-2093": {
+      "af": "AW/PIPE",
+      "fc": "T580BU+R080AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "T580BU+R080AU-4400": {
+      "af": "AW/PIPE",
+      "fc": "T580BU+R080AU",
+      "fn": "00"
+    },
+    "Z357U-20P5": {
+      "af": "AW/PIPE",
+      "fc": "Z357U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z357U-2093": {
+      "af": "AW/PIPE",
+      "fc": "Z357U",
+      "fn": "Brushed Stainless steel"
+    },
+    "T553U-20P5": {
+      "af": "AW/PIPE",
+      "fc": "T553U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "T553U-2093": {
+      "af": "AW/PIPE",
+      "fc": "T553U",
+      "fn": "Brushed Stainless steel"
+    },
+    "P906-20P5": {
+      "af": "AW/PIPE",
+      "fc": "P906",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "P906-2093": {
+      "af": "AW/PIPE",
+      "fc": "P906",
+      "fn": "Brushed Stainless steel"
+    },
+    "P908-20P5": {
+      "af": "AW/PIPE",
+      "fc": "P908",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "P908-2093": {
+      "af": "AW/PIPE",
+      "fc": "P908",
+      "fn": "Brushed Stainless steel"
+    },
+    "P909-20P5": {
+      "af": "AW/PIPE",
+      "fc": "P909",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "P909-2093": {
+      "af": "AW/PIPE",
+      "fc": "P909",
+      "fn": "Brushed Stainless steel"
+    },
+    "Y407WU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y407WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y407WU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y407WU",
+      "fn": "Deep Black PVD"
+    },
+    "Y413BU+R010AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y413BU+R010AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y413BU+R010AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y413BU+R010AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y413BU+R010AU-4400": {
+      "af": "AL/GARDEN",
+      "fc": "Y413BU+R010AU",
+      "fn": "00"
+    },
+    "Y607WU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y607WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y607WU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y607WU",
+      "fn": "Deep Black PVD"
+    },
+    "Y513BU+M011AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y513BU+M011AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y513BU+M011AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y513BU+M011AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y513BU+M011AU-4400": {
+      "af": "AL/GARDEN",
+      "fc": "Y513BU+M011AU",
+      "fn": "00"
+    },
+    "Y563BU+M063AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y563BU+M063AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y563BU+M063AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y563BU+M063AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y563BU+M063AU-4400": {
+      "af": "AL/GARDEN",
+      "fc": "Y563BU+M063AU",
+      "fn": "00"
+    },
+    "Z358U-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Z358U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z358U-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Z358U",
+      "fn": "Deep Black PVD"
+    },
+    "Z359U-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Z359U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z359U-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Z359U",
+      "fn": "Deep Black PVD"
+    },
+    "Y772BU+D372AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y772BU+D372AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y772BU+D372AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y772BU+D372AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y772BU+D372AU-1900": {
+      "af": "AL/GARDEN",
+      "fc": "Y772BU+D372AU",
+      "fn": "00"
+    },
+    "Y773BU+D373AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y773BU+D373AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y773BU+D373AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y773BU+D373AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y773BU+D373AU-1900": {
+      "af": "AL/GARDEN",
+      "fc": "Y773BU+D373AU",
+      "fn": "00"
+    },
+    "T700BU+D400AU-20S1": {
+      "af": "AL/GARDEN",
+      "fc": "T700BU+D400AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y791BU+D391AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y791BU+D391AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y791BU+D391AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y791BU+D391AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y791BU+D391AU-1900": {
+      "af": "AL/GARDEN",
+      "fc": "Y791BU+D391AU",
+      "fn": "00"
+    },
+    "Y776BU+D376AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y776BU+D376AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y776BU+D376AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y776BU+D376AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y776BU+D376AU-1900": {
+      "af": "AL/GARDEN",
+      "fc": "Y776BU+D376AU",
+      "fn": "00"
+    },
+    "Y776BU+D377AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y776BU+D377AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y776BU+D377AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y776BU+D377AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y776BU+D377AU-1900": {
+      "af": "AL/GARDEN",
+      "fc": "Y776BU+D377AU",
+      "fn": "00"
+    },
+    "8053U-81S1": {
+      "af": "AL/GARDEN",
+      "fc": "8053U",
+      "fn": "Deep Black PVD"
+    },
+    "8053UC-81S1": {
+      "af": "AL/GARDEN",
+      "fc": "8053UC",
+      "fn": "Deep Black PVD"
+    },
+    "8080U-81S1": {
+      "af": "AL/GARDEN",
+      "fc": "8080U",
+      "fn": "Deep Black PVD"
+    },
+    "8059U-81S1": {
+      "af": "AL/GARDEN",
+      "fc": "8059U",
+      "fn": "Deep Black PVD"
+    },
+    "8058U-81S1": {
+      "af": "AL/GARDEN",
+      "fc": "8058U",
+      "fn": "Deep Black PVD"
+    },
+    "8125U-81S1": {
+      "af": "AL/GARDEN",
+      "fc": "8125U",
+      "fn": "Deep Black PVD"
+    },
+    "Y419BU+R119AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y419BU+R119AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y419BU+R119AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y419BU+R119AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y419BU+R119AU-4400": {
+      "af": "AL/GARDEN",
+      "fc": "Y419BU+R119AU",
+      "fn": "00"
+    },
+    "Y417BU+R117AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y417BU+R117AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y417BU+R117AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y417BU+R117AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y417BU+R117AU-4400": {
+      "af": "AL/GARDEN",
+      "fc": "Y417BU+R117AU",
+      "fn": "00"
+    },
+    "Y465U-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y465U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y465U-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y465U",
+      "fn": "Deep Black PVD"
+    },
+    "Y467U-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y467U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y467U-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y467U",
+      "fn": "Deep Black PVD"
+    },
+    "Y580BU+R080AU-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y580BU+R080AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y580BU+R080AU-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y580BU+R080AU",
+      "fn": "Deep Black PVD"
+    },
+    "Y580BU+R080AU-4400": {
+      "af": "AL/GARDEN",
+      "fc": "Y580BU+R080AU",
+      "fn": "00"
+    },
+    "Z360U-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Z360U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z360U-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Z360U",
+      "fn": "Deep Black PVD"
+    },
+    "Y553U-28P5": {
+      "af": "AL/GARDEN",
+      "fc": "Y553U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Y553U-28S1": {
+      "af": "AL/GARDEN",
+      "fc": "Y553U",
+      "fn": "Deep Black PVD"
+    },
+    "W095U-91S1": {
+      "af": "AL/GARDEN",
+      "fc": "W095U",
+      "fn": "Deep Black PVD"
+    },
+    "W097U-91S1": {
+      "af": "AL/GARDEN",
+      "fc": "W097U",
+      "fn": "Deep Black PVD"
+    },
+    "9234-91S1": {
+      "af": "AL/GARDEN",
+      "fc": "9234",
+      "fn": "Deep Black PVD"
+    },
+    "W036U-91S1": {
+      "af": "AL/GARDEN",
+      "fc": "W036U",
+      "fn": "Deep Black PVD"
+    },
+    "8402U-91S1": {
+      "af": "AL/GARDEN",
+      "fc": "8402U",
+      "fn": "Deep Black PVD"
+    },
+    "8486U-91S1": {
+      "af": "AL/GARDEN",
+      "fc": "8486U",
+      "fn": "Deep Black PVD"
+    },
+    "L504WU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L504WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L504WU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L504WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L506WU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L506WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L506WU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L506WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L807WU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L807WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L807WU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L807WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L536BU+D736AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L536BU+D736AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L536BU+D736AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L536BU+D736AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L536BU+D736AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "L536BU+D736AU",
+      "fn": "00"
+    },
+    "L513BU+D711AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L513BU+D711AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L513BU+D711AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L513BU+D711AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L513BU+D711AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "L513BU+D711AU",
+      "fn": "00"
+    },
+    "L563BU+D763AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L563BU+D763AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L563BU+D763AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L563BU+D763AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L563BU+D763AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "L563BU+D763AU",
+      "fn": "00"
+    },
+    "L607WU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L607WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L607WU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L607WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L613BU+D810AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L613BU+D810AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L613BU+D810AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L613BU+D810AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L613BU+D810AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "L613BU+D810AU",
+      "fn": "00"
+    },
+    "Z238U-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "Z238U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z238U-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "Z238U",
+      "fn": "Brushed Stainless steel"
+    },
+    "Z239U-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "Z239U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z239U-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "Z239U",
+      "fn": "Brushed Stainless steel"
+    },
+    "Z240BU+Z240AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "Z240BU+Z240AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z240BU+Z240AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "Z240BU+Z240AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Z240BU+Z240AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "Z240BU+Z240AU",
+      "fn": "00"
+    },
+    "L508WU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L508WU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L508WU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L508WU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L772BU+D972AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L772BU+D972AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L772BU+D972AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L772BU+D972AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L772BU+D972AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "L772BU+D972AU",
+      "fn": "00"
+    },
+    "L773BU+D973AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L773BU+D973AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L773BU+D973AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L773BU+D973AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L773BU+D973AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "L773BU+D973AU",
+      "fn": "00"
+    },
+    "L700BU+D900AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L700BU+D900AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L700BU+D900AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L700BU+D900AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L700BU+D900AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "L700BU+D900AU",
+      "fn": "00"
+    },
+    "8138U-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "8138U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "8138U-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "8138U",
+      "fn": "Brushed Stainless steel"
+    },
+    "L665U-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L665U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L665U-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L665U",
+      "fn": "Brushed Stainless steel"
+    },
+    "L667U-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L667U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L667U-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L667U",
+      "fn": "Brushed Stainless steel"
+    },
+    "L521BU+D721AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L521BU+D721AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L521BU+D721AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L521BU+D721AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L521BU+D721AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "L521BU+D721AU",
+      "fn": "00"
+    },
+    "L580BU+D736AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "L580BU+D736AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "L580BU+D736AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "L580BU+D736AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "L580BU+D736AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "L580BU+D736AU",
+      "fn": "00"
+    },
+    "Z241BU+Z240AU-40P5": {
+      "af": "AC/ECLIPSE",
+      "fc": "Z241BU+Z240AU",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z241BU+Z240AU-4093": {
+      "af": "AC/ECLIPSE",
+      "fc": "Z241BU+Z240AU",
+      "fn": "Brushed Stainless steel"
+    },
+    "Z241BU+Z240AU-4000": {
+      "af": "AC/ECLIPSE",
+      "fc": "Z241BU+Z240AU",
+      "fn": "00"
+    },
+    "8365-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8365",
+      "fn": ""
+    },
+    "8417-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8417",
+      "fn": ""
+    },
+    "8417/4-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8417/4",
+      "fn": ""
+    },
+    "8493-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8493",
+      "fn": ""
+    },
+    "8493/4-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8493/4",
+      "fn": ""
+    },
+    "W017-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W017",
+      "fn": ""
+    },
+    "W017/4-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W017/4",
+      "fn": ""
+    },
+    "W022-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W022",
+      "fn": ""
+    },
+    "W022/3-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W022/3",
+      "fn": ""
+    },
+    "W030-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W030",
+      "fn": ""
+    },
+    "W030/3-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W030/3",
+      "fn": ""
+    },
+    "W031/3-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W031/3",
+      "fn": ""
+    },
+    "W052-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W052",
+      "fn": ""
+    },
+    "W053/4-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W053/4",
+      "fn": ""
+    },
+    "W055-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W055",
+      "fn": ""
+    },
+    "W055/4-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W055/4",
+      "fn": ""
+    },
+    "W056-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W056",
+      "fn": ""
+    },
+    "W056/4-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W056/4",
+      "fn": ""
+    },
+    "W059-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W059",
+      "fn": ""
+    },
+    "W059/4-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W059/4",
+      "fn": ""
+    },
+    "W060-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W060",
+      "fn": ""
+    },
+    "W060/4-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W060/4",
+      "fn": ""
+    },
+    "W063-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W063",
+      "fn": ""
+    },
+    "W065-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W065",
+      "fn": ""
+    },
+    "W067-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W067",
+      "fn": ""
+    },
+    "W071-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W071",
+      "fn": ""
+    },
+    "W038-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W038",
+      "fn": ""
+    },
+    "W038/3-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W038/3",
+      "fn": ""
+    },
+    "W019-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W019",
+      "fn": ""
+    },
+    "W019/3-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W019/3",
+      "fn": ""
+    },
+    "W099-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W099",
+      "fn": ""
+    },
+    "W104-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W104",
+      "fn": ""
+    },
+    "W105-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W105",
+      "fn": ""
+    },
+    "W109-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W109",
+      "fn": ""
+    },
+    "W109/4-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W109/4",
+      "fn": ""
+    },
+    "W212-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W212",
+      "fn": ""
+    },
+    "W212/4-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W212/4",
+      "fn": ""
+    },
+    "W218-91P5": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W218",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "W218-9193": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W218",
+      "fn": "Brushed Stainless steel"
+    },
+    "W219-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W219",
+      "fn": ""
+    },
+    "W221-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W221",
+      "fn": ""
+    },
+    "W229-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W229",
+      "fn": ""
+    },
+    "W230-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W230",
+      "fn": ""
+    },
+    "W231-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W231",
+      "fn": ""
+    },
+    "W232-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W232",
+      "fn": ""
+    },
+    "W233-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W233",
+      "fn": ""
+    },
+    "W234-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W234",
+      "fn": ""
+    },
+    "W235-9100": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W235",
+      "fn": ""
+    },
+    "W248-91P5": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W248",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "W248-9193": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "W248",
+      "fn": "Brushed Stainless steel"
+    },
+    "8948U-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8948U",
+      "fn": ""
+    },
+    "8576-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8576",
+      "fn": ""
+    },
+    "8947U-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8947U",
+      "fn": ""
+    },
+    "9518-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9518",
+      "fn": ""
+    },
+    "9669-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9669",
+      "fn": ""
+    },
+    "Q907U-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q907U",
+      "fn": ""
+    },
+    "9974-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9974",
+      "fn": ""
+    },
+    "Q688-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q688",
+      "fn": ""
+    },
+    "9851-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9851",
+      "fn": ""
+    },
+    "Z298-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z298",
+      "fn": ""
+    },
+    "Q028U-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q028U",
+      "fn": ""
+    },
+    "Z266U-90P5": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z266U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z266U-9093": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z266U",
+      "fn": "Brushed Stainless steel"
+    },
+    "Z267U-90P5": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z267U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z267U-9093": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z267U",
+      "fn": "Brushed Stainless steel"
+    },
+    "8945U-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8945U",
+      "fn": ""
+    },
+    "Z299U-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z299U",
+      "fn": ""
+    },
+    "Z341U-90P5": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z341U",
+      "fn": "Matte Gun Metal PVD"
+    },
+    "Z341U-9093": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z341U",
+      "fn": "Brushed Stainless steel"
+    },
+    "Z340U-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z340U",
+      "fn": ""
+    },
+    "Q802-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q802",
+      "fn": ""
+    },
+    "Q803-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q803",
+      "fn": ""
+    },
+    "Z048-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z048",
+      "fn": ""
+    },
+    "G571-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "G571",
+      "fn": ""
+    },
+    "T071-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "T071",
+      "fn": ""
+    },
+    "Z304-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z304",
+      "fn": ""
+    },
+    "A570-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "A570",
+      "fn": ""
+    },
+    "M170-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "M170",
+      "fn": ""
+    },
+    "S070-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "S070",
+      "fn": ""
+    },
+    "Y070-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Y070",
+      "fn": ""
+    },
+    "E870-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "E870",
+      "fn": ""
+    },
+    "Y071-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Y071",
+      "fn": ""
+    },
+    "3370-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "3370",
+      "fn": ""
+    },
+    "3371-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "3371",
+      "fn": ""
+    },
+    "3670-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "3670",
+      "fn": ""
+    },
+    "8889-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8889",
+      "fn": ""
+    },
+    "B070-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "B070",
+      "fn": ""
+    },
+    "R470-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "R470",
+      "fn": ""
+    },
+    "L570-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "L570",
+      "fn": ""
+    },
+    "Z339-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z339",
+      "fn": ""
+    },
+    "T070-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "T070",
+      "fn": ""
+    },
+    "T170-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "T170",
+      "fn": ""
+    },
+    "T072-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "T072",
+      "fn": ""
+    },
+    "A070-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "A070",
+      "fn": ""
+    },
+    "A171-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "A171",
+      "fn": ""
+    },
+    "5071-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "5071",
+      "fn": ""
+    },
+    "Q229-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q229",
+      "fn": ""
+    },
+    "Q796-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q796",
+      "fn": ""
+    },
+    "Q162-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q162",
+      "fn": ""
+    },
+    "0892U-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "0892U",
+      "fn": ""
+    },
+    "9150-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9150",
+      "fn": ""
+    },
+    "Q160-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q160",
+      "fn": ""
+    },
+    "Q161-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q161",
+      "fn": ""
+    },
+    "9426U-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9426U",
+      "fn": ""
+    },
+    "9151-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9151",
+      "fn": ""
+    },
+    "0892-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "0892",
+      "fn": ""
+    },
+    "Z301-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z301",
+      "fn": ""
+    },
+    "Z300-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z300",
+      "fn": ""
+    },
+    "8820-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8820",
+      "fn": ""
+    },
+    "8825-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8825",
+      "fn": ""
+    },
+    "M171-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "M171",
+      "fn": ""
+    },
+    "9036-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9036",
+      "fn": ""
+    },
+    "B270-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "B270",
+      "fn": ""
+    },
+    "Q675-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q675",
+      "fn": ""
+    },
+    "Q795-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q795",
+      "fn": ""
+    },
+    "Q163-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Q163",
+      "fn": ""
+    },
+    "Z302-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z302",
+      "fn": ""
+    },
+    "Z303-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "Z303",
+      "fn": ""
+    },
+    "9108U-9000": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9108U",
+      "fn": ""
+    },
+    "9331U-9002": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9331U",
+      "fn": "Chrome"
+    },
+    "9334U-9002": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "9334U",
+      "fn": "Chrome"
+    },
+    "8746U-9002": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8746U",
+      "fn": "Chrome"
+    },
+    "8747U-9002": {
+      "af": "SPARE PARTS AND EXTENSIONS",
+      "fc": "8747U",
+      "fn": "Chrome"
+    }
+  },
+  "acc_index": {
+    "AW/PIPE|P906": [
+      {
+        "sku": "P906-20P5",
+        "desc": "Towel hook",
+        "fn": "Matte Gun Metal PVD",
+        "price": 757
+      },
+      {
+        "sku": "P906-2093",
+        "desc": "Towel hook",
+        "fn": "Brushed Stainless Steel - Red",
+        "price": 562
+      },
+      {
+        "sku": "P906-2093",
+        "desc": "Towel hook",
+        "fn": "Brushed Stainless steel",
+        "price": 562
+      }
+    ],
+    "AW/PIPE|P908": [
+      {
+        "sku": "P908-20P5",
+        "desc": "Robe hook",
+        "fn": "Matte Gun Metal PVD",
+        "price": 579
+      },
+      {
+        "sku": "P908-2093",
+        "desc": "Robe hook",
+        "fn": "Brushed Stainless Steel - Red",
+        "price": 428
+      },
+      {
+        "sku": "P908-2093",
+        "desc": "Robe hook",
+        "fn": "Brushed Stainless steel",
+        "price": 428
+      }
+    ],
+    "AW/PIPE|P909": [
+      {
+        "sku": "P909-20P5",
+        "desc": "Toilet paper holder",
+        "fn": "Matte Gun Metal PVD",
+        "price": 877
+      },
+      {
+        "sku": "P909-2093",
+        "desc": "Toilet paper holder",
+        "fn": "Brushed Stainless Steel - Red",
+        "price": 648
+      },
+      {
+        "sku": "P909-2093",
+        "desc": "Toilet paper holder",
+        "fn": "Brushed Stainless steel",
+        "price": 648
+      }
+    ]
+  }
+}
